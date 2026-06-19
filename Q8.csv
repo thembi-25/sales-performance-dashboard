@@ -1,0 +1,6 @@
+order_id,order_date,region,category,unit_price,quantity,revenue
+ORD-11782,2023-12-19,Middle East,Electronics,986.61,5,4933.05
+ORD-10809,2024-11-28,Africa,Electronics,1130.63,4,4522.52
+ORD-11354,2024-11-15,North America,Electronics,1125.65,4,4502.6
+ORD-10529,2024-12-02,North America,Electronics,1067.49,4,4269.96
+ORD-10318,2023-02-12,Europe,Electronics,1061.85,4,4247.4

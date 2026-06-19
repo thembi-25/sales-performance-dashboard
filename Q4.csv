@@ -1,0 +1,19 @@
+region,channel,avg_order_value,order_count
+Africa,Marketplace,445.83,54
+Africa,Retail Partner,414.39,53
+Africa,Online,386.33,166
+Asia Pacific,Marketplace,394.45,71
+Asia Pacific,Online,393.01,218
+Asia Pacific,Retail Partner,305.0,98
+Europe,Retail Partner,418.97,135
+Europe,Online,413.44,275
+Europe,Marketplace,357.95,89
+Middle East,Marketplace,571.91,19
+Middle East,Retail Partner,410.77,22
+Middle East,Online,268.67,64
+North America,Retail Partner,523.56,129
+North America,Marketplace,384.74,93
+North America,Online,358.77,337
+Unknown,Retail Partner,616.31,9
+Unknown,Online,500.29,13
+Unknown,Marketplace,141.96,5

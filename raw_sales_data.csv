@@ -1,0 +1,1898 @@
+order_id,order_date,customer_id,region,category,channel,unit_price,quantity
+ORD-11226,2023-07-12,CUST-1398,Middle East,Office Supplies,Online,87.91,2
+ORD-10848,2023-02-16,CUST-1033,,Electronics,Online,139.07,2
+ORD-11199,09-27-2024,CUST-1485,Asia Pacific,Apparel,Online,117.26,3
+ORD-10037,2023-06-19,CUST-1281,North America,Home & Kitchen,Online,72.34,3
+ORD-10002,2024-07-12,CUST-1456,APAC,Electronics,Online,285.41,1
+ORD-10353,2024-03-09,CUST-1270,North America,Sports & Outdoors,Marketplace,161.46,3
+ORD-10324,2023-10-17,CUST-1469,Asia Pacific,Apparel,Online,30.64,1
+ORD-10572,2024-05-22,CUST-1320,Asia Pacific,Home & Kitchen,Retail Partner,106.47,1
+ORD-10630,2023-03-02,CUST-1210,Europe,Home & Kitchen,Online,209.24,2
+ORD-11084,2023-12-09,CUST-1230,North America,Sports & Outdoors,Retail Partner,,4
+ORD-11693,2024-07-28,CUST-1363,Asia Pacific,Sports & Outdoors,Retail Partner,192.51,1
+ORD-11755,2023-03-30,CUST-1383,Asia Pacific,Beauty & Personal Care,Marketplace,9.06,1
+ORD-11733,2024-11-22,CUST-1353,Europe,Apparel,Online,49.02,1
+ORD-10757,2023-12-10,CUST-1373,N. America,Home & Kitchen,Online,205.79,1
+ORD-11198,2023-03-29,CUST-1436,,Apparel,Retail Partner,78.1,1
+ORD-11709,2023-11-02,CUST-1061,Asia Pacific,Electronics,Retail Partner,641.56,2
+ORD-10204,2023-05-29,CUST-1282,Europe,Apparel,Online,48.39,4
+ORD-10788,11-24-2023,CUST-1132,Asia Pacific,Electronics,Online,155.72,2
+ORD-11173,2023-11-06,CUST-1069,Europe,Beauty & Personal Care,Retail Partner,34.61,2
+ORD-10488,2023-01-04,CUST-1130,APAC,Home & Kitchen,Retail Partner,170.34,1
+ORD-10975,03/12/2023,CUST-1230,North America,Office Supplies,Marketplace,86.79,1
+ORD-10672,28/07/2023,CUST-1471,North America,Office Supplies,Online,98.88,3
+ORD-11575,2024-09-01,CUST-1102,Europe,Apparel,Online,36.45,2
+ORD-11759,02-02-2023,CUST-1257,Asia Pacific,Apparel,Online,130.16,1
+ORD-10447,2023-11-02,CUST-1285,North America,Home & Kitchen,Online,19.54,3
+ORD-11667,2024-09-24,CUST-1205,North America,Apparel,Online,131.2,1
+ORD-10108,20/04/2023,CUST-1457,Asia Pacific,Apparel,Online,85.19,1
+ORD-10127,08/02/2024,CUST-1464,North America,Beauty & Personal Care,Online,47.74,2
+ORD-11072,2024-01-24,CUST-1107,Asia Pacific,Apparel,Retail Partner,88.7,1
+ORD-10892,10-31-2024,CUST-1254,North America,apparel,Online,66.79,1
+ORD-11647,19/09/2023,CUST-1469,Europe,Office Supplies,Online,68.32,2
+ORD-10779,2024-02-28,CUST-1277,Europe,Sports & Outdoors,Online,289.2,1
+ORD-10377,13/02/2023,CUST-1228,Asia Pacific,Home & Kitchen,Retail Partner,163.36,1
+ORD-11578,2024-10-21,CUST-1410,Europe,Home & Kitchen,Online,177.13,2
+ORD-10860,04-18-2023,CUST-1214,Africa,Electronics,Online,604.78,1
+ORD-10396,18/07/2024,CUST-1239,N. America,Sports & Outdoors,Online,243.55,2
+ORD-11577,08-18-2024,CUST-1365,Africa,Apparel,Marketplace,143.65,2
+ORD-11120,2023-01-23,CUST-1273,Asia Pacific,Electronics,Marketplace,558.99,1
+ORD-10888,2024-05-18,CUST-1038,Europe,Apparel,Online,54.3,1
+ORD-10479,2024-07-16,CUST-1359,Asia Pacific,Home & Kitchen,Online,63.1,1
+ORD-11684,2023-05-16,CUST-1239,Africa,Electronics,Online,653.33,1
+ORD-11447,2024-08-22,CUST-1241,North America,Apparel,Online,91.97,1
+ORD-11138,10-22-2024,CUST-1182,Africa,Home & Kitchen,Marketplace,35.92,1
+ORD-10918,04/12/2024,CUST-1148,North America,Home & Kitchen,Online,233.02,3
+ORD-10419,13/06/2023,CUST-1127,Africa,Office Supplies,Online,49.25,1
+ORD-11330,23/05/2023,CUST-1418,North America,Electronics,Retail Partner,326.09,1
+ORD-11730,2023-01-14,CUST-1059,Asia Pacific,Beauty & Personal Care,Online,69.66,2
+ORD-11638,10-09-2023,CUST-1109,Asia Pacific,Beauty & Personal Care,Online,72.16,1
+ORD-10638,2023-03-06,CUST-1183,Asia Pacific,Electronics,Online,985.41,2
+ORD-10683,2024-01-04,CUST-1261,North America,electronics,Retail Partner,557.57,1
+ORD-10643,2023-06-11,CUST-1475,Europe,SPORTS & OUTDOORS,Marketplace,191.31,1
+ORD-11766,2023-05-01,CUST-1322,,Apparel,Online,76.35,1
+ORD-11705,2024-09-08,CUST-1280,Europe,Home & Kitchen,Marketplace,126.33,2
+ORD-11368,2024-03-26,CUST-1338,North America,Electronics,Online,932.05,1
+ORD-10871,2023-05-22,CUST-1004,Europe,Sports & Outdoors,Online,187.39,1
+ORD-11556,2023-10-12,CUST-1482,Africa,Office Supplies,Online,47.71,1
+ORD-11681,2024-02-09,CUST-1154,Africa,Home & Kitchen,Retail Partner,68.35,1
+ORD-10438,2024-08-15,CUST-1335,Europe,Home & Kitchen,Retail Partner,180.41,1
+ORD-10553,2023-09-04,CUST-1288,Asia Pacific,Beauty & Personal Care,Online,9.98,2
+ORD-11739,2024-12-20,CUST-1078,Asia Pacific,HOME & KITCHEN,Online,132.67,1
+ORD-11726,29/09/2023,CUST-1413,Asia Pacific,Home & Kitchen,Online,,2
+ORD-10140,2024-11-24,CUST-1294,North America,Beauty & Personal Care,Online,77.08,1
+ORD-10754,2024-09-18,CUST-1471,Asia Pacific,Home & Kitchen,Retail Partner,229.56,1
+ORD-10412,04/10/2024,CUST-1455,Asia Pacific,Beauty & Personal Care,Online,70.25,1
+ORD-10281,2024-11-17,CUST-1168,Asia Pacific,Apparel,Retail Partner,117.07,3
+ORD-10241,2023-12-13,CUST-1445,Africa,Sports & Outdoors,Marketplace,211.31,1
+ORD-11351,2023-02-08,CUST-1017,North America,Apparel,Retail Partner,117.86,1
+ORD-11618,2024-09-21,CUST-1414,Europe,Apparel,Online,130.35,1
+ORD-11707,02/08/2023,CUST-1436,Europe,Home & Kitchen,Online,242.24,1
+ORD-10841,22/06/2023,CUST-1389,Europe,Apparel,Online,82.7,1
+ORD-10717,2023-01-13,CUST-1062,Asia Pacific,apparel,Marketplace,21.23,1
+ORD-10835,2024-09-27,CUST-1483,North America,beauty & personal care,Online,52.65,1
+ORD-11557,27/05/2024,CUST-1082,Asia Pacific,Beauty & Personal Care,Online,79.88,2
+ORD-10229,2024-03-10,CUST-1327,North America,Sports & Outdoors,Online,164.15,1
+ORD-10765,2023-04-06,CUST-1482,Europe,Electronics,Online,429.65,1
+ORD-10426,06/08/2024,CUST-1026,Europe,Home & Kitchen,Online,132.65,2
+ORD-10185,2023-02-10,CUST-1306,Asia Pacific,Electronics,Online,681.41,1
+ORD-10619,2024-07-10,CUST-1396,Middle East,Home & Kitchen,Online,33.55,1
+ORD-11523,2023-08-18,CUST-1237,Europe,apparel,Online,37.77,3
+ORD-10058,2024-06-04,CUST-1491,Europe,Apparel,Online,129.91,1
+ORD-11773,06-26-2024,CUST-1385,Asia Pacific,Electronics,Retail Partner,1081.62,1
+ORD-10454,2023-05-21,CUST-1139,Europe,Home & Kitchen,Online,68.64,1
+ORD-10441,2024-12-18,CUST-1485,Middle East,Apparel,Online,74.08,2
+ORD-11094,2024-08-24,CUST-1382,North America,Home & Kitchen,Retail Partner,146.63,1
+ORD-10386,10/07/2023,CUST-1376,North America,Home & Kitchen,Online,111.59,2
+ORD-11777,2024-02-16,CUST-1161,APAC,Home & Kitchen,Retail Partner,47.71,1
+ORD-10565,02-22-2024,CUST-1262,Europe,Sports & Outdoors,Marketplace,111.08,2
+ORD-11298,2023-07-30,CUST-1067,North America,Apparel,Online,40.7,1
+ORD-11241,2023-02-10,CUST-1376,Europe,Electronics,Retail Partner,210.23,1
+ORD-10795,15/09/2024,CUST-1292,North America,Home & Kitchen,Online,207.43,1
+ORD-11210,2024-04-13,CUST-1256,N. America,Electronics,Retail Partner,80.45,2
+ORD-10299,2023-01-08,CUST-1061,North America,Electronics,Retail Partner,160.73,1
+ORD-10732,2023-01-27,CUST-1092,Africa,Electronics,Marketplace,1023.23,1
+ORD-11316,2024-11-12,CUST-1469,Africa,APPAREL,Online,133.89,3
+ORD-10879,2024-09-18,CUST-1183,Europe,electronics,Online,452.66,3
+ORD-10051,2024-07-07,CUST-1333,Europe,Home & Kitchen,Retail Partner,78.65,1
+ORD-11499,05-05-2023,CUST-1154,North America,Apparel,Online,146.88,1
+ORD-11791,2024-03-08,CUST-1371,APAC,Sports & Outdoors,Online,24.3,1
+ORD-11212,2023-12-22,CUST-1009,Africa,Electronics,Online,1060.01,1
+ORD-10415,2023-11-17,CUST-1073,North America,Electronics,Retail Partner,512.93,1
+ORD-11665,18/09/2024,CUST-1331,Europe,Home & Kitchen,Online,207.4,1
+ORD-11674,01-14-2024,CUST-1127,APAC,Apparel,Online,10.13,2
+ORD-10007,2023-12-11,CUST-1490,North America,Sports & Outdoors,Online,205.51,3
+ORD-11324,2023-08-30,CUST-1355,Europe,Electronics,Retail Partner,896.33,3
+ORD-11340,2024-02-20,CUST-1195,Middle East,Electronics,Online,869.67,1
+ORD-11229,2024-12-05,CUST-1040,,Electronics,Online,531.12,1
+ORD-11651,05-18-2024,CUST-1399,Asia Pacific,Electronics,Online,114.07,1
+ORD-11271,2024-09-18,CUST-1107,Asia Pacific,home & kitchen,Marketplace,191.41,1
+ORD-10674,2023-03-09,CUST-1329,Europe,Home & Kitchen,Online,147.59,2
+ORD-11832,2023-05-28,CUST-1146,Asia Pacific,Apparel,Marketplace,60.32,2
+ORD-10237,04-03-2023,CUST-1067,North America,Electronics,Marketplace,1160.93,1
+ORD-11796,2024-06-30,CUST-1340,North America,Beauty & Personal Care,Retail Partner,20.19,3
+ORD-11195,2023-06-23,CUST-1156,Europe,Sports & Outdoors,Online,229.92,1
+ORD-11286,02-27-2023,CUST-1475,North America,Office Supplies,Online,98.6,1
+ORD-11844,2023-09-09,CUST-1086,North America,Electronics,Online,454.91,1
+ORD-11247,07-03-2023,CUST-1012,Europe,Apparel,Online,,1
+ORD-10905,15/07/2023,CUST-1234,Africa,Electronics,Retail Partner,151.79,1
+ORD-11687,27/09/2023,CUST-1448,Asia Pacific,Beauty & Personal Care,Online,66.58,1
+ORD-10872,2024-03-24,CUST-1183,Africa,Home & Kitchen,Online,16.73,1
+ORD-10350,2024-04-28,CUST-1469,Asia Pacific,Apparel,Online,107.43,2
+ORD-10953,2023-07-30,CUST-1053,North America,Electronics,Online,553.7,2
+ORD-11653,2023-09-25,CUST-1357,North America,Home & Kitchen,Online,219.43,1
+ORD-10430,2023-05-28,CUST-1386,North America,Sports & Outdoors,Online,145.82,1
+ORD-11574,2023-03-08,CUST-1086,Europe,Electronics,Marketplace,881.99,1
+ORD-10688,2024-11-02,CUST-1283,North America,Electronics,Online,324.04,1
+ORD-11620,01-09-2024,CUST-1102,Asia Pacific,Home & Kitchen,Retail Partner,187.94,1
+ORD-10594,18/12/2023,CUST-1159,Europe,Beauty & Personal Care,Retail Partner,55.04,2
+ORD-10955,2023-01-25,CUST-1078,APAC,Home & Kitchen,Retail Partner,141.26,1
+ORD-11252,2024-06-07,CUST-1499,North America,Electronics,Retail Partner,999.05,1
+ORD-10611,2023-06-27,CUST-1330,Asia Pacific,Electronics,Online,582.92,1
+ORD-11494,2023-06-29,CUST-1498,Europe,Beauty & Personal Care,Retail Partner,60.22,1
+ORD-11146,2024-07-08,CUST-1134,North America,ELECTRONICS,Retail Partner,377.46,2
+ORD-11516,24/08/2024,CUST-1427,North America,Electronics,Marketplace,503.58,1
+ORD-10635,2023-10-12,CUST-1263,Africa,Home & Kitchen,Online,159.28,1
+ORD-10278,30/04/2024,CUST-1351,North America,sports & outdoors,Online,265.83,2
+ORD-10694,2023-09-06,CUST-1318,Africa,Home & Kitchen,Online,37.32,1
+ORD-10206,15/12/2023,CUST-1212,Asia Pacific,Home & Kitchen,Marketplace,58.6,2
+ORD-11062,25/09/2024,CUST-1127,Asia Pacific,Sports & Outdoors,Online,31.04,2
+ORD-11481,23/10/2023,CUST-1091,Africa,Beauty & Personal Care,Online,12.47,1
+ORD-10339,2023-09-02,CUST-1273,Africa,Home & Kitchen,Online,50.54,1
+ORD-11752,2024-03-02,CUST-1199,Europe,Home & Kitchen,Retail Partner,131.12,1
+ORD-10704,2023-03-05,CUST-1290,Europe,Beauty & Personal Care,Online,53.07,1
+ORD-10363,2024-10-05,CUST-1336,Africa,Apparel,Online,39.77,1
+ORD-11542,2023-07-12,CUST-1425,North America,Home & Kitchen,Retail Partner,91.9,1
+ORD-11015,22/04/2023,CUST-1067,Europe,beauty & personal care,Online,47.28,1
+ORD-11168,2024-01-16,CUST-1166,North America,Electronics,Online,982.61,1
+ORD-10200,19/07/2024,CUST-1007,Asia Pacific,Electronics,Online,442.44,1
+ORD-10313,27/11/2023,CUST-1319,N. America,Apparel,Retail Partner,132.27,1
+ORD-11491,10/11/2023,CUST-1459,Asia Pacific,Office Supplies,Online,58.97,3
+ORD-10372,2024-01-31,CUST-1489,Asia Pacific,Sports & Outdoors,Retail Partner,186.1,2
+ORD-10287,11-22-2024,CUST-1314,North America,electronics,Retail Partner,149.77,1
+ORD-10194,2024-06-10,CUST-1206,North America,SPORTS & OUTDOORS,Marketplace,162.09,1
+ORD-11708,2024-10-24,CUST-1145,Middle East,Electronics,Retail Partner,363.26,1
+ORD-10071,28/09/2023,CUST-1068,Europe,Sports & Outdoors,Online,52.78,1
+ORD-10658,2024-01-29,CUST-1373,North America,Electronics,Online,1015.14,3
+ORD-11761,30/12/2023,CUST-1401,Asia Pacific,Home & Kitchen,Marketplace,153.72,1
+ORD-10828,31/12/2024,CUST-1175,Middle East,Home & Kitchen,Online,226.02,3
+ORD-10465,2023-12-10,CUST-1054,Africa,Office Supplies,Retail Partner,28.18,3
+ORD-10718,14/05/2023,CUST-1113,Asia Pacific,Sports & Outdoors,Online,283.45,1
+ORD-10669,2024-10-05,CUST-1146,Africa,Electronics,Marketplace,1083.17,1
+ORD-10217,12/02/2024,CUST-1354,North America,Apparel,Retail Partner,131.94,2
+ORD-11606,2024-11-14,CUST-1257,Asia Pacific,Electronics,Online,104.22,3
+ORD-11073,2023-07-11,CUST-1132,North America,Apparel,Online,12.95,2
+ORD-10172,20/08/2023,CUST-1316,North America,Electronics,Online,859.84,1
+ORD-11793,2024-10-28,CUST-1024,Europe,Beauty & Personal Care,Online,35.59,2
+ORD-11545,2023-01-18,CUST-1067,North America,Apparel,Retail Partner,63.35,2
+ORD-10885,2023-06-02,CUST-1197,Europe,Apparel,Marketplace,144.69,1
+ORD-10450,24/01/2024,CUST-1278,Europe,Office Supplies,Online,4.64,2
+ORD-10116,2023-03-21,CUST-1225,North America,Apparel,Online,77.36,1
+ORD-11723,30/05/2024,CUST-1393,Europe,sports & outdoors,Online,178.38,1
+ORD-11780,2024-11-07,CUST-1365,Europe,Office Supplies,Online,73.97,1
+ORD-10648,2024-12-21,CUST-1046,Africa,Home & Kitchen,Retail Partner,139.85,2
+ORD-11787,2023-05-10,CUST-1371,Europe,Sports & Outdoors,Retail Partner,130.5,1
+ORD-11152,05-13-2023,CUST-1480,North America,ELECTRONICS,Online,273.49,1
+ORD-10004,2024-10-27,CUST-1101,Europe,Sports & Outdoors,Online,163.99,1
+ORD-11537,02/12/2024,CUST-1423,Europe,Electronics,Marketplace,1118.65,1
+ORD-11520,08-04-2024,CUST-1363,Asia Pacific,Home & Kitchen,Retail Partner,225.34,1
+ORD-10046,2024-11-05,CUST-1049,Asia Pacific,Apparel,Retail Partner,121.41,2
+ORD-10262,2023-12-03,CUST-1119,Africa,Sports & Outdoors,Online,46.8,1
+ORD-11423,2023-02-16,CUST-1109,Europe,Sports & Outdoors,Retail Partner,208.77,2
+ORD-10357,2023-01-02,CUST-1219,Africa,Home & Kitchen,Online,208.08,1
+ORD-11333,08-06-2024,CUST-1153,Asia Pacific,Electronics,Retail Partner,849.76,1
+ORD-10020,2023-11-19,CUST-1367,Asia Pacific,Sports & Outdoors,Online,50.81,3
+ORD-10397,2024-05-05,CUST-1203,Asia Pacific,Home & Kitchen,Online,151.82,1
+ORD-11689,2023-06-04,CUST-1251,North America,Electronics,Online,806.98,1
+ORD-10501,2023-02-04,CUST-1304,Asia Pacific,Electronics,Retail Partner,138.06,1
+ORD-10921,2024-11-21,CUST-1213,Africa,Electronics,Online,407.77,1
+ORD-10370,2023-02-18,CUST-1399,Africa,Apparel,Online,43.87,1
+ORD-10571,01-05-2024,CUST-1039,Europe,Apparel,Marketplace,92.17,1
+ORD-11421,2024-11-25,CUST-1377,Europe,Sports & Outdoors,Retail Partner,197.84,2
+ORD-10556,2024-03-23,CUST-1050,Asia Pacific,Beauty & Personal Care,Retail Partner,54.06,2
+ORD-11416,2023-09-06,CUST-1023,Middle East,Apparel,Online,54.25,1
+ORD-10298,2023-11-05,CUST-1104,North America,Apparel,Online,113.24,1
+ORD-10489,2024-12-18,CUST-1176,,Electronics,Retail Partner,733.83,4
+ORD-10374,2024-09-08,CUST-1220,Asia Pacific,Apparel,Online,126.39,1
+ORD-11081,2024-06-13,CUST-1322,Middle East,Home & Kitchen,Online,182.95,1
+ORD-11692,2024-05-21,CUST-1458,North America,electronics,Retail Partner,547.1,1
+ORD-10179,08-26-2024,CUST-1320,Middle East,Home & Kitchen,Online,174.72,1
+ORD-11678,2023-08-29,CUST-1476,Europe,Sports & Outdoors,Marketplace,246.06,1
+ORD-10756,2023-04-01,CUST-1453,Europe,Apparel,Online,22.29,1
+ORD-10578,2024-08-12,CUST-1495,Asia Pacific,Electronics,Online,952.59,1
+ORD-11232,16/01/2023,CUST-1496,Asia Pacific,Apparel,Online,18.63,1
+ORD-11037,03-07-2023,CUST-1045,North America,Home & Kitchen,Online,162.63,1
+ORD-10328,2023-12-25,CUST-1072,Europe,Electronics,Online,1011.5,3
+ORD-10392,2023-06-11,CUST-1153,Africa,Sports & Outdoors,Retail Partner,53.76,2
+ORD-10720,03-18-2023,CUST-1469,Europe,office supplies,Retail Partner,49.68,2
+ORD-10758,21/04/2023,CUST-1131,Africa,SPORTS & OUTDOORS,Marketplace,25.64,1
+ORD-10898,2024-11-03,CUST-1366,Europe,Sports & Outdoors,Online,179.38,2
+ORD-10109,2024-06-14,CUST-1356,Europe,Electronics,Online,486.65,1
+ORD-10699,2023-11-11,CUST-1377,Africa,Electronics,Online,398.69,2
+ORD-10925,30/11/2024,CUST-1146,North America,Home & Kitchen,Marketplace,158.44,3
+ORD-10861,2023-04-27,CUST-1144,North America,Electronics,Online,941.35,1
+ORD-11606,2024-11-14,CUST-1257,Asia Pacific,Electronics,Online,104.22,3
+ORD-10671,2023-10-12,CUST-1078,Europe,Electronics,Retail Partner,483.73,1
+ORD-11412,2023-08-05,CUST-1060,Europe,Electronics,Marketplace,869.5,1
+ORD-11183,2023-01-12,CUST-1475,N. America,Sports & Outdoors,Online,76.39,3
+ORD-11038,2024-01-29,CUST-1370,Asia Pacific,Home & Kitchen,Retail Partner,229.17,1
+ORD-10095,11-17-2024,CUST-1377,Europe,sports & outdoors,Online,194.18,4
+ORD-10351,2024-09-22,CUST-1229,,sports & outdoors,Online,295.39,1
+ORD-10540,2023-09-16,CUST-1269,Europe,Home & Kitchen,Online,178.66,2
+ORD-10586,2024-12-19,CUST-1184,North America,Home & Kitchen,Online,64.54,1
+ORD-11476,01/10/2023,CUST-1459,N. America,Electronics,Retail Partner,776.67,1
+ORD-10146,2023-06-06,CUST-1362,Africa,Apparel,Online,,1
+ORD-10284,2024-05-08,CUST-1336,Europe,Electronics,Retail Partner,321.96,1
+ORD-11133,2023-06-21,CUST-1007,North America,Apparel,Online,25.48,1
+ORD-11555,2024-11-17,CUST-1094,Africa,Beauty & Personal Care,Online,58.74,1
+ORD-10933,2023-07-18,CUST-1397,Africa,Beauty & Personal Care,Online,28.68,1
+ORD-10983,2024-08-18,CUST-1416,Middle East,Apparel,Retail Partner,86.01,1
+ORD-11201,2023-12-06,CUST-1011,North America,Home & Kitchen,Online,201.75,2
+ORD-11588,02/02/2023,CUST-1487,Middle East,Office Supplies,Online,93.54,1
+ORD-10705,2023-10-26,CUST-1121,Africa,Apparel,Online,137.59,1
+ORD-11611,2023-12-11,CUST-1303,N. America,Electronics,Retail Partner,956.57,3
+ORD-10308,27/04/2023,CUST-1324,Asia Pacific,Apparel,Online,124.23,2
+ORD-11835,02-27-2024,CUST-1072,Europe,Beauty & Personal Care,Marketplace,24.03,2
+ORD-11382,2023-04-05,CUST-1317,North America,electronics,Retail Partner,1022.41,1
+ORD-11182,2023-08-21,CUST-1445,Africa,Electronics,Online,743.58,2
+ORD-11262,01/08/2023,CUST-1285,North America,beauty & personal care,Online,17.64,1
+ORD-11822,2024-10-07,CUST-1292,North America,Beauty & Personal Care,Online,19.4,2
+ORD-11813,2023-10-18,CUST-1156,North America,Office Supplies,Online,10.84,1
+ORD-10410,2024-10-28,CUST-1135,Middle East,Sports & Outdoors,Retail Partner,179.43,1
+ORD-10948,2023-10-17,CUST-1370,North America,apparel,Online,31.95,1
+ORD-10047,2024-10-31,CUST-1344,Europe,Electronics,Retail Partner,120.26,1
+ORD-10111,27/06/2024,CUST-1341,North America,Electronics,Online,399.31,1
+ORD-10687,07-03-2023,CUST-1076,Africa,Sports & Outdoors,Retail Partner,209.38,1
+ORD-11259,20/05/2024,CUST-1451,Africa,Home & Kitchen,Online,134.36,1
+ORD-10141,08/12/2024,CUST-1303,North America,Office Supplies,Online,60.75,1
+ORD-10506,02-28-2024,CUST-1113,Europe,Office Supplies,Online,53.31,1
+ORD-11116,28/06/2024,CUST-1380,Africa,Home & Kitchen,Marketplace,84.25,1
+ORD-11650,2024-02-21,CUST-1329,North America,Home & Kitchen,Online,146.22,2
+ORD-10728,2023-05-21,CUST-1196,,Electronics,Online,513.11,1
+ORD-10984,2023-02-07,CUST-1108,North America,Apparel,Online,118.92,1
+ORD-10344,2024-12-29,CUST-1052,North America,Sports & Outdoors,Online,,1
+ORD-11027,07-30-2023,CUST-1335,North America,Home & Kitchen,Online,129.9,1
+ORD-11177,2023-04-05,CUST-1153,Africa,Beauty & Personal Care,Online,50.07,1
+ORD-11323,2024-03-21,CUST-1401,Europe,Home & Kitchen,Online,165.64,2
+ORD-11810,01-16-2024,CUST-1060,Middle East,Home & Kitchen,Online,134.03,1
+ORD-11489,2024-08-30,CUST-1248,Africa,Apparel,Online,135.09,1
+ORD-11302,11-16-2023,CUST-1381,North America,Home & Kitchen,Online,136.25,3
+ORD-10800,2023-05-18,CUST-1116,North America,Electronics,Marketplace,292.94,2
+ORD-10341,2023-10-16,CUST-1236,North America,Beauty & Personal Care,Online,11.13,1
+ORD-11511,01/06/2023,CUST-1203,North America,Apparel,Online,28.45,2
+ORD-11377,2024-11-22,CUST-1236,Asia Pacific,Electronics,Marketplace,95.62,1
+ORD-10275,12-19-2024,CUST-1050,North America,Home & Kitchen,Online,99.63,2
+ORD-11642,2024-10-22,CUST-1010,North America,Apparel,Marketplace,77.39,1
+ORD-10423,2024-10-31,CUST-1305,APAC,Beauty & Personal Care,Retail Partner,62.46,2
+ORD-11750,2023-08-13,CUST-1259,North America,Electronics,Retail Partner,436.17,2
+ORD-11263,2023-12-24,CUST-1334,Asia Pacific,Beauty & Personal Care,Retail Partner,34.58,2
+ORD-10651,2024-05-04,CUST-1067,Europe,home & kitchen,Retail Partner,91.42,1
+ORD-11659,2023-05-14,CUST-1332,North America,Home & Kitchen,Retail Partner,192.83,1
+ORD-10945,2023-04-28,CUST-1004,Asia Pacific,Home & Kitchen,Retail Partner,88.83,3
+ORD-11569,2024-03-14,CUST-1437,Europe,Electronics,Retail Partner,376.13,1
+ORD-10263,2023-05-29,CUST-1141,Africa,Apparel,Online,64.73,1
+ORD-10101,28/03/2024,CUST-1226,North America,Home & Kitchen,Online,177.24,1
+ORD-10997,03-21-2023,CUST-1427,Middle East,Electronics,Online,95.7,1
+ORD-11126,2023-09-14,CUST-1098,Asia Pacific,Apparel,Marketplace,50.16,1
+ORD-10729,2024-10-07,CUST-1127,Europe,Apparel,Online,127.48,1
+ORD-10893,2024-07-24,CUST-1018,Asia Pacific,Apparel,Retail Partner,41.82,1
+ORD-10602,30/07/2023,CUST-1109,Europe,Sports & Outdoors,Online,44.36,1
+ORD-11760,04/05/2023,CUST-1116,North America,Office Supplies,Online,25.41,1
+ORD-11034,2024-06-04,CUST-1109,North America,Office Supplies,Online,35.71,1
+ORD-10471,2023-05-24,CUST-1094,Africa,Electronics,Online,112.67,1
+ORD-11598,2024-10-02,CUST-1013,Europe,Sports & Outdoors,Online,55.8,2
+ORD-10060,2024-08-06,CUST-1455,Europe,Apparel,Online,86.39,3
+ORD-10868,31/10/2023,CUST-1233,Asia Pacific,Electronics,Marketplace,325.02,1
+ORD-11162,30/01/2024,CUST-1272,North America,Home & Kitchen,Online,117.47,2
+ORD-10281,2024-11-17,CUST-1168,Asia Pacific,Apparel,Retail Partner,117.07,3
+ORD-11345,2023-05-20,CUST-1223,Europe,Home & Kitchen,Retail Partner,176.18,2
+ORD-10389,2023-05-06,CUST-1102,North America,Home & Kitchen,Online,101.73,1
+ORD-10684,2024-01-12,CUST-1085,North America,Beauty & Personal Care,Marketplace,8.78,2
+ORD-11169,15/09/2024,CUST-1165,Europe,Sports & Outdoors,Online,41.99,1
+ORD-10867,2023-04-14,CUST-1370,Africa,Beauty & Personal Care,Marketplace,33.29,2
+ORD-11280,16/10/2023,CUST-1353,Asia Pacific,Apparel,Retail Partner,77.54,1
+ORD-10500,17/01/2023,CUST-1314,Africa,Sports & Outdoors,Online,194.96,1
+ORD-11801,02/05/2024,CUST-1066,North America,Home & Kitchen,Retail Partner,155.04,1
+ORD-10028,2024-10-18,CUST-1136,North America,Apparel,Retail Partner,12.32,1
+ORD-11688,2024-03-22,CUST-1160,Africa,Beauty & Personal Care,Marketplace,22.43,1
+ORD-10224,2024-02-26,CUST-1271,Asia Pacific,Home & Kitchen,Online,102.19,4
+ORD-10734,2024-01-02,CUST-1271,Middle East,Beauty & Personal Care,Marketplace,15.69,1
+ORD-10367,14/02/2023,CUST-1103,Europe,Electronics,Retail Partner,1108.25,1
+ORD-10358,11/07/2023,CUST-1213,Europe,Sports & Outdoors,Online,68.65,2
+ORD-11841,2023-04-14,CUST-1345,North America,Home & Kitchen,Online,54.21,1
+ORD-10833,2023-11-11,CUST-1446,Asia Pacific,Apparel,Online,76.28,2
+ORD-10830,2024-04-27,CUST-1049,Middle East,Electronics,Retail Partner,1019.79,1
+ORD-11081,2024-06-13,CUST-1322,Middle East,Home & Kitchen,Online,182.95,1
+ORD-10455,06/09/2023,CUST-1122,Asia Pacific,home & kitchen,Online,240.08,3
+ORD-11166,2024-05-31,CUST-1205,Africa,Sports & Outdoors,Online,194.02,1
+ORD-10098,2023-05-11,CUST-1283,North America,Electronics,Online,797.78,1
+ORD-10802,05/08/2023,CUST-1226,North America,Apparel,Retail Partner,140.87,2
+ORD-11033,2024-11-06,CUST-1442,North America,Electronics,Retail Partner,530.83,3
+ORD-10981,2024-10-03,CUST-1134,Europe,sports & outdoors,Marketplace,146.32,2
+ORD-11397,2024-06-11,CUST-1001,Africa,Sports & Outdoors,Online,157.62,3
+ORD-10012,2023-03-23,CUST-1148,North America,Sports & Outdoors,Retail Partner,224.12,2
+ORD-10330,2024-12-02,CUST-1359,North America,Sports & Outdoors,Online,155.23,1
+ORD-11321,07/09/2023,CUST-1317,Asia Pacific,Sports & Outdoors,Retail Partner,67.27,2
+ORD-10167,27/03/2024,CUST-1245,Asia Pacific,Beauty & Personal Care,Marketplace,54.41,1
+ORD-10985,2024-10-31,CUST-1241,Europe,Office Supplies,Retail Partner,43.64,1
+ORD-10964,2024-07-12,CUST-1200,North America,Sports & Outdoors,Online,249.51,4
+ORD-10188,2023-06-29,CUST-1020,Europe,Electronics,Retail Partner,635.38,1
+ORD-11808,14/01/2024,CUST-1286,Asia Pacific,Electronics,Online,499.96,1
+ORD-10043,2024-06-10,CUST-1036,Europe,Electronics,Retail Partner,1188.86,1
+ORD-11039,29/12/2024,CUST-1146,Europe,sports & outdoors,Retail Partner,202.2,2
+ORD-10009,2024-01-23,CUST-1498,Europe,office supplies,Online,22.01,1
+ORD-11276,2024-12-26,CUST-1119,Africa,beauty & personal care,Online,53.17,2
+ORD-10147,2024-10-28,CUST-1494,North America,Electronics,Retail Partner,279.97,1
+ORD-11167,2024-03-29,CUST-1307,Asia Pacific,Beauty & Personal Care,Online,33.26,1
+ORD-10013,2024-10-12,CUST-1232,Europe,Electronics,Marketplace,778.09,1
+ORD-11102,2023-11-30,CUST-1440,North America,Electronics,Online,895.91,1
+ORD-10797,12-06-2023,CUST-1450,Europe,home & kitchen,Online,103.56,2
+ORD-10862,2023-09-27,CUST-1398,North America,Electronics,Online,994.65,2
+ORD-11297,04-11-2023,CUST-1393,Asia Pacific,Electronics,Marketplace,627.92,1
+ORD-11789,2023-06-13,CUST-1325,Europe,electronics,Retail Partner,624.78,1
+ORD-11496,2023-05-10,CUST-1294,Europe,Beauty & Personal Care,Retail Partner,29.96,2
+ORD-10340,18/07/2023,CUST-1240,Asia Pacific,Apparel,Online,26.07,2
+ORD-10528,2024-01-24,CUST-1117,Asia Pacific,Home & Kitchen,Retail Partner,76.16,1
+ORD-11208,06-04-2024,CUST-1194,,Sports & Outdoors,Marketplace,276.02,1
+ORD-10375,2023-03-23,CUST-1052,North America,Sports & Outdoors,Retail Partner,252.2,2
+ORD-10544,2023-02-02,CUST-1388,Asia Pacific,Electronics,Online,707.96,1
+ORD-10637,2023-04-06,CUST-1396,Asia Pacific,Home & Kitchen,Online,34.9,1
+ORD-11188,2023-03-26,CUST-1172,Europe,Office Supplies,Online,47.7,1
+ORD-11449,2023-07-18,CUST-1368,Europe,Apparel,Marketplace,92.53,1
+ORD-11277,2024-04-21,CUST-1012,Asia Pacific,Apparel,Online,48.84,1
+ORD-11347,11/03/2024,CUST-1476,North America,Electronics,Retail Partner,820.01,3
+ORD-11729,19/01/2023,CUST-1273,Middle East,apparel,Online,81.83,2
+ORD-10928,2024-06-07,CUST-1121,Asia Pacific,Office Supplies,Marketplace,9.33,2
+ORD-10698,02/01/2023,CUST-1171,Africa,Beauty & Personal Care,Retail Partner,70.46,1
+ORD-11380,21/06/2024,CUST-1050,Europe,Office Supplies,Marketplace,34.95,1
+ORD-10744,01/07/2023,CUST-1367,Africa,Home & Kitchen,Online,52.3,3
+ORD-10115,2024-06-17,CUST-1141,Europe,Home & Kitchen,Online,71.97,1
+ORD-10504,2024-08-12,CUST-1469,North America,Home & Kitchen,Marketplace,165.81,1
+ORD-10740,08-04-2024,CUST-1485,Asia Pacific,Sports & Outdoors,Online,131.81,1
+ORD-10096,12-05-2023,CUST-1340,North America,Office Supplies,Online,28.05,1
+ORD-10492,06/03/2024,CUST-1330,Africa,Home & Kitchen,Marketplace,178.23,2
+ORD-10857,30/04/2024,CUST-1129,Europe,Beauty & Personal Care,Online,70.99,1
+ORD-11376,2023-10-01,CUST-1138,North America,Office Supplies,Retail Partner,79.97,1
+ORD-10099,2023-06-28,CUST-1383,Asia Pacific,Home & Kitchen,Retail Partner,55.5,1
+ORD-11427,11/06/2023,CUST-1398,Africa,sports & outdoors,Online,,2
+ORD-11273,2024-09-11,CUST-1352,North America,Electronics,Online,452.61,1
+ORD-11153,2023-04-12,CUST-1098,Africa,home & kitchen,Marketplace,26.39,1
+ORD-10829,2023-11-04,CUST-1259,North America,Home & Kitchen,Online,63.41,1
+ORD-11533,2024-01-05,CUST-1139,Africa,Apparel,Marketplace,72.01,1
+ORD-11124,2023-03-24,CUST-1169,Europe,Office Supplies,Retail Partner,10.19,4
+ORD-10507,2024-08-28,CUST-1485,North America,Home & Kitchen,Retail Partner,180.57,1
+ORD-11435,07-16-2023,CUST-1120,Europe,Sports & Outdoors,Marketplace,49.71,1
+ORD-10270,2024-05-05,CUST-1031,Europe,Electronics,Retail Partner,1152.54,1
+ORD-10431,09/02/2023,CUST-1023,North America,Beauty & Personal Care,Online,58.55,2
+ORD-10117,07/07/2024,CUST-1457,Europe,Electronics,Online,1188.76,1
+ORD-11803,2024-05-25,CUST-1299,North America,Home & Kitchen,Online,27.98,3
+ORD-11738,2023-06-01,CUST-1237,North America,SPORTS & OUTDOORS,Online,43.22,1
+ORD-11662,16/10/2023,CUST-1409,Middle East,Electronics,Online,288.59,1
+ORD-10164,15/01/2023,CUST-1154,Africa,Apparel,Retail Partner,70.88,1
+ORD-10525,2023-11-24,CUST-1389,Africa,Electronics,Retail Partner,558.91,1
+ORD-11409,2024-05-26,CUST-1157,Middle East,Electronics,Retail Partner,507.82,3
+ORD-10527,2024-08-16,CUST-1299,North America,Apparel,Online,78.75,2
+ORD-10640,2023-12-12,CUST-1145,Europe,Electronics,Online,536.68,1
+ORD-10113,2024-07-15,CUST-1425,Middle East,Sports & Outdoors,Marketplace,92.21,1
+ORD-10063,15/05/2023,CUST-1202,Asia Pacific,Home & Kitchen,Online,178.73,1
+ORD-10378,2023-10-09,CUST-1222,N. America,Apparel,Online,63.83,1
+ORD-10562,2024-10-11,CUST-1364,North America,Beauty & Personal Care,Marketplace,63.35,2
+ORD-10186,04-04-2023,CUST-1013,North America,Sports & Outdoors,Online,56.26,2
+ORD-11510,2023-11-22,CUST-1251,Asia Pacific,Sports & Outdoors,Retail Partner,129.97,1
+ORD-10863,10-30-2023,CUST-1209,Europe,Sports & Outdoors,Online,252.28,1
+ORD-10517,2023-03-16,CUST-1447,Asia Pacific,Home & Kitchen,Online,117.08,2
+ORD-10294,2024-11-08,CUST-1226,North America,Home & Kitchen,Retail Partner,126.86,1
+ORD-11602,11-04-2024,CUST-1235,Asia Pacific,Electronics,Marketplace,1043.48,1
+ORD-10286,2024-03-15,CUST-1413,North America,Beauty & Personal Care,Marketplace,22.94,1
+ORD-11767,27/10/2023,CUST-1080,Africa,Sports & Outdoors,Online,78.17,1
+ORD-11287,2024-07-22,CUST-1161,North America,Beauty & Personal Care,Marketplace,15.48,1
+ORD-10300,21/12/2024,CUST-1272,Middle East,beauty & personal care,Online,27.24,3
+ORD-11565,2023-05-07,CUST-1160,Middle East,Office Supplies,Online,73.52,1
+ORD-10315,17/03/2023,CUST-1259,N. America,Home & Kitchen,Marketplace,62.95,1
+ORD-11814,2024-07-14,CUST-1062,Europe,Beauty & Personal Care,Online,26.34,2
+ORD-10603,06/03/2023,CUST-1407,Asia Pacific,Electronics,Retail Partner,326.96,1
+ORD-10359,05/01/2024,CUST-1499,North America,electronics,Online,469.69,1
+ORD-10130,01-24-2024,CUST-1450,Africa,Apparel,Online,58.4,1
+ORD-11433,2023-04-01,CUST-1486,Europe,Apparel,Online,109.98,2
+ORD-10189,2023-10-12,CUST-1469,Africa,Electronics,Marketplace,634.56,1
+ORD-10027,2023-04-28,CUST-1369,Africa,Apparel,Online,126.94,1
+ORD-11074,2023-12-18,CUST-1313,Europe,Apparel,Marketplace,77.79,1
+ORD-11336,11/05/2023,CUST-1206,Europe,Apparel,Online,135.17,1
+ORD-11645,2024-12-18,CUST-1490,North America,Apparel,Online,39.38,1
+ORD-10653,2023-11-03,CUST-1451,Africa,Sports & Outdoors,Marketplace,132.06,3
+ORD-11849,10-09-2024,CUST-1179,Europe,Home & Kitchen,Retail Partner,209.17,2
+ORD-10677,11-04-2024,CUST-1379,Asia Pacific,Electronics,Marketplace,195.18,1
+ORD-10558,2024-10-11,CUST-1015,North America,Electronics,Online,555.83,2
+ORD-11088,2024-04-02,CUST-1377,Europe,Sports & Outdoors,Retail Partner,272.46,2
+ORD-10755,2023-12-06,CUST-1072,North America,Electronics,Online,423.19,1
+ORD-11150,2024-07-18,CUST-1392,North America,Electronics,Online,800.57,1
+ORD-10660,14/09/2024,CUST-1369,Europe,Home & Kitchen,Online,152.06,1
+ORD-10625,2024-09-16,CUST-1363,Asia Pacific,Sports & Outdoors,Online,213.5,1
+ORD-11164,2024-10-15,CUST-1392,Asia Pacific,Home & Kitchen,Online,125.62,1
+ORD-10738,06-27-2023,CUST-1432,North America,Sports & Outdoors,Retail Partner,173.14,1
+ORD-10266,2023-11-28,CUST-1301,North America,electronics,Online,1081.49,3
+ORD-10868,31/10/2023,CUST-1233,Asia Pacific,Electronics,Marketplace,325.02,1
+ORD-10816,2024-09-14,CUST-1129,North America,Home & Kitchen,Online,229.04,1
+ORD-10325,10-08-2024,CUST-1026,North America,Electronics,Retail Partner,903.94,4
+ORD-11338,2023-04-23,CUST-1183,Europe,Sports & Outdoors,Online,199.82,1
+ORD-10452,03-28-2024,CUST-1177,Europe,Home & Kitchen,Online,85.45,1
+ORD-11554,07/05/2023,CUST-1049,North America,Office Supplies,Retail Partner,23.18,1
+ORD-11419,19/04/2023,CUST-1418,North America,Electronics,Marketplace,1114.1,1
+ORD-10956,2023-07-02,CUST-1027,Africa,Electronics,Online,590.23,2
+ORD-11828,2024-03-30,CUST-1296,Africa,Electronics,Online,1140.15,1
+ORD-11083,2023-08-09,CUST-1030,North America,Sports & Outdoors,Online,42.42,1
+ORD-11363,01-15-2023,CUST-1131,North America,Electronics,Online,251.3,1
+ORD-10017,24/07/2024,CUST-1352,North America,Apparel,Marketplace,44.9,1
+ORD-10587,12/09/2023,CUST-1393,North America,Electronics,Online,244.95,3
+ORD-10470,13/03/2024,CUST-1423,Asia Pacific,Electronics,Retail Partner,328.72,1
+ORD-10620,02-12-2023,CUST-1421,Europe,Sports & Outdoors,Marketplace,72.01,1
+ORD-10986,08-26-2024,CUST-1114,Middle East,Beauty & Personal Care,Online,48.94,1
+ORD-11390,22/09/2023,CUST-1030,Asia Pacific,Apparel,Online,75.49,3
+ORD-10824,28/02/2023,CUST-1123,Asia Pacific,Office Supplies,Retail Partner,74.94,2
+ORD-10930,2024-12-02,CUST-1489,North America,home & kitchen,Marketplace,179.85,2
+ORD-10118,2024-12-11,CUST-1196,North America,beauty & personal care,Retail Partner,49.67,2
+ORD-11782,2023-12-19,CUST-1160,Middle East,Electronics,Marketplace,986.61,5
+ORD-10054,2024-04-10,CUST-1474,Middle East,Beauty & Personal Care,Retail Partner,50.88,1
+ORD-10474,2023-03-05,CUST-1120,Europe,Home & Kitchen,Retail Partner,73.99,1
+ORD-10747,2024-01-09,CUST-1440,Europe,Apparel,Online,113.92,1
+ORD-10360,06-03-2024,CUST-1259,Africa,Apparel,Online,127.8,1
+ORD-10180,2023-04-28,CUST-1217,Asia Pacific,Electronics,Online,1064.61,3
+ORD-10259,01-22-2023,CUST-1497,North America,electronics,Retail Partner,540.35,2
+ORD-10663,2024-05-21,CUST-1122,North America,Home & Kitchen,Marketplace,204.33,1
+ORD-11820,2023-02-16,CUST-1276,Africa,Apparel,Online,13.55,2
+ORD-11751,2024-11-03,CUST-1436,Europe,Apparel,Retail Partner,48.29,1
+ORD-11508,2023-01-24,CUST-1100,Middle East,Apparel,Marketplace,86.6,1
+ORD-10210,2023-09-02,CUST-1357,North America,Sports & Outdoors,Online,147.46,1
+ORD-10707,2023-08-28,CUST-1139,Asia Pacific,home & kitchen,Online,234.66,1
+ORD-10514,2023-03-22,CUST-1331,Africa,Beauty & Personal Care,Online,6.15,1
+ORD-10376,2024-03-12,CUST-1367,Europe,Home & Kitchen,Online,117.13,2
+ORD-11648,30/08/2023,CUST-1387,North America,Home & Kitchen,Retail Partner,34.8,2
+ORD-11669,2024-04-09,CUST-1222,,Electronics,Online,348.94,1
+ORD-11085,2024-02-26,CUST-1010,North America,Sports & Outdoors,Marketplace,243.74,1
+ORD-11042,2024-12-16,CUST-1264,Europe,Electronics,Online,695.86,2
+ORD-10023,2024-06-05,CUST-1070,Europe,Office Supplies,Marketplace,27.42,1
+ORD-11695,2023-06-22,CUST-1092,Europe,Electronics,Online,351.51,1
+ORD-10737,2024-02-02,CUST-1294,Europe,Beauty & Personal Care,Online,34.49,1
+ORD-11087,19/10/2023,CUST-1399,Asia Pacific,Electronics,Online,1198.39,1
+ORD-10151,2023-12-11,CUST-1194,Asia Pacific,Home & Kitchen,Online,104.23,3
+ORD-10346,2023-08-16,CUST-1484,North America,Home & Kitchen,Marketplace,196.42,1
+ORD-11553,2023-03-09,CUST-1022,Africa,BEAUTY & PERSONAL CARE,Online,71.35,1
+ORD-11016,31/05/2024,CUST-1267,North America,Sports & Outdoors,Online,264.83,1
+ORD-11279,2024-10-14,CUST-1286,Europe,Apparel,Retail Partner,145.06,1
+ORD-11626,2024-10-24,CUST-1216,North America,Office Supplies,Online,58.83,2
+ORD-11008,2023-07-04,CUST-1472,Asia Pacific,Office Supplies,Online,95.18,1
+ORD-10142,2024-09-06,CUST-1350,North America,Sports & Outdoors,Online,,1
+ORD-10228,2023-03-17,CUST-1080,North America,Electronics,Marketplace,282.69,2
+ORD-10213,2024-05-29,CUST-1064,North America,Apparel,Retail Partner,108.35,1
+ORD-11501,2024-06-03,CUST-1279,North America,Apparel,Online,91.14,1
+ORD-11703,2024-08-05,CUST-1374,Europe,Electronics,Retail Partner,892.11,3
+ORD-11411,2023-12-12,CUST-1028,Europe,apparel,Online,12.14,1
+ORD-10731,2023-12-19,CUST-1248,Middle East,Electronics,Online,129.35,1
+ORD-10855,2024-11-08,CUST-1024,Europe,apparel,Online,12.24,4
+ORD-10449,08/10/2023,CUST-1369,Middle East,Apparel,Retail Partner,53.66,2
+ORD-10649,15/06/2024,CUST-1115,Africa,SPORTS & OUTDOORS,Online,253.22,1
+ORD-10015,2024-09-15,CUST-1036,North America,Beauty & Personal Care,Retail Partner,47.1,2
+ORD-11701,2024-05-06,CUST-1337,Asia Pacific,Electronics,Online,784.88,3
+ORD-11399,03-13-2023,CUST-1415,Asia Pacific,BEAUTY & PERSONAL CARE,Retail Partner,38.74,2
+ORD-11682,26/07/2024,CUST-1456,Europe,sports & outdoors,Marketplace,127.19,1
+ORD-11260,09/04/2024,CUST-1243,Africa,Beauty & Personal Care,Online,59.05,1
+ORD-11240,09/09/2023,CUST-1449,Africa,Electronics,Online,802.13,1
+ORD-10657,2023-03-30,CUST-1111,North America,Home & Kitchen,Online,18.9,1
+ORD-10311,2024-10-05,CUST-1090,North America,Electronics,Online,893.1,2
+ORD-10762,2023-06-16,CUST-1115,N. America,Beauty & Personal Care,Retail Partner,28.44,1
+ORD-10034,2023-09-04,CUST-1029,Africa,Electronics,Online,823.12,1
+ORD-10215,2023-05-28,CUST-1007,Europe,Electronics,Retail Partner,852.2,2
+ORD-11097,2024-04-29,CUST-1479,Africa,ELECTRONICS,Retail Partner,539.54,1
+ORD-10546,2024-03-20,CUST-1255,Asia Pacific,Apparel,Online,120.82,1
+ORD-10354,2023-09-02,CUST-1024,Middle East,Beauty & Personal Care,Retail Partner,17.45,2
+ORD-11048,2023-01-05,CUST-1294,Middle East,Home & Kitchen,Online,106.52,3
+ORD-10207,2024-08-24,CUST-1152,Asia Pacific,Sports & Outdoors,Retail Partner,195.34,1
+ORD-10947,11-25-2023,CUST-1453,Asia Pacific,Electronics,Online,930.05,1
+ORD-10691,2024-02-15,CUST-1023,North America,home & kitchen,Retail Partner,198.26,1
+ORD-10769,07/07/2024,CUST-1373,North America,Home & Kitchen,Marketplace,220.74,1
+ORD-11408,2024-02-03,CUST-1250,North America,sports & outdoors,Retail Partner,52.2,1
+ORD-11508,2023-01-24,CUST-1100,Middle East,Apparel,Marketplace,86.6,1
+ORD-10416,14/05/2023,CUST-1204,Europe,Sports & Outdoors,Marketplace,134.12,2
+ORD-11670,2024-12-31,CUST-1114,North America,Electronics,Marketplace,89.21,4
+ORD-11353,2024-09-16,CUST-1455,North America,Apparel,Online,98.05,1
+ORD-11666,2024-04-18,CUST-1498,Asia Pacific,Office Supplies,Online,24.06,1
+ORD-11051,2024-08-11,CUST-1416,Europe,Home & Kitchen,Online,205.07,1
+ORD-10361,2023-02-14,CUST-1240,Africa,Electronics,Retail Partner,444.12,1
+ORD-10019,2023-08-05,CUST-1033,Africa,Sports & Outdoors,Marketplace,,2
+ORD-10442,08/12/2024,CUST-1211,Europe,Electronics,Retail Partner,546.48,4
+ORD-11041,2024-06-14,CUST-1336,North America,SPORTS & OUTDOORS,Retail Partner,44.12,1
+ORD-10249,06/11/2023,CUST-1358,Africa,BEAUTY & PERSONAL CARE,Retail Partner,39.76,1
+ORD-11534,2023-02-19,CUST-1182,Asia Pacific,Electronics,Online,849.39,2
+ORD-10024,2023-04-23,CUST-1440,North America,Electronics,Retail Partner,643.0,1
+ORD-10110,2023-05-05,CUST-1469,Europe,Office Supplies,Retail Partner,26.01,1
+ORD-11348,04-05-2024,CUST-1419,North America,Sports & Outdoors,Marketplace,144.13,1
+ORD-11664,07/08/2024,CUST-1452,Asia Pacific,Apparel,Online,51.07,1
+ORD-10463,22/05/2024,CUST-1403,Europe,Electronics,Online,1024.89,4
+ORD-11829,2024-02-16,CUST-1164,Asia Pacific,Home & Kitchen,Marketplace,188.11,1
+ORD-10348,2023-03-25,CUST-1197,Asia Pacific,HOME & KITCHEN,Retail Partner,241.65,1
+ORD-11315,23/09/2024,CUST-1458,North America,Apparel,Marketplace,71.81,1
+ORD-10715,2024-02-19,CUST-1487,Europe,Electronics,Retail Partner,1096.98,1
+ORD-10403,2023-11-27,CUST-1082,North America,Home & Kitchen,Online,20.49,2
+ORD-10362,2023-01-17,CUST-1129,North America,Sports & Outdoors,Online,254.37,1
+ORD-10026,2024-07-20,CUST-1128,Africa,BEAUTY & PERSONAL CARE,Online,59.62,1
+ORD-11067,2024-06-07,CUST-1468,North America,Sports & Outdoors,Online,268.81,1
+ORD-11834,2023-01-28,CUST-1092,North America,Office Supplies,Retail Partner,88.06,1
+ORD-10177,2023-10-23,CUST-1118,Asia Pacific,Home & Kitchen,Online,188.33,1
+ORD-11823,2024-10-21,CUST-1063,North America,Electronics,Retail Partner,821.08,1
+ORD-11158,2024-10-16,CUST-1239,Asia Pacific,electronics,Retail Partner,610.63,1
+ORD-10702,2023-03-28,CUST-1234,Europe,Electronics,Retail Partner,998.48,1
+ORD-10595,2023-04-10,CUST-1243,North America,Apparel,Marketplace,148.52,2
+ORD-10252,14/12/2024,CUST-1486,Middle East,Electronics,Online,88.47,1
+ORD-10414,2024-05-10,CUST-1212,Europe,Office Supplies,Online,86.76,1
+ORD-10193,01/04/2023,CUST-1232,Asia Pacific,Electronics,Marketplace,224.33,1
+ORD-11077,2023-04-13,CUST-1416,Middle East,Electronics,Marketplace,142.0,1
+ORD-11281,28/11/2023,CUST-1281,Asia Pacific,Home & Kitchen,Online,211.89,1
+ORD-10927,29/07/2024,CUST-1378,North America,Electronics,Marketplace,107.6,1
+ORD-10445,2023-12-29,CUST-1279,Africa,Home & Kitchen,Retail Partner,61.82,2
+ORD-11624,04-27-2023,CUST-1122,North America,BEAUTY & PERSONAL CARE,Retail Partner,28.01,1
+ORD-11025,2024-02-23,CUST-1278,Europe,APPAREL,Online,18.81,1
+ORD-11756,2024-05-18,CUST-1310,Europe,Electronics,Retail Partner,616.53,1
+ORD-10451,2023-05-30,CUST-1176,North America,Electronics,Online,408.51,2
+ORD-10464,10-24-2023,CUST-1446,Asia Pacific,ELECTRONICS,Marketplace,300.56,3
+ORD-11431,2024-04-06,CUST-1267,Asia Pacific,Beauty & Personal Care,Online,55.31,2
+ORD-10458,2023-06-11,CUST-1281,Asia Pacific,Apparel,Online,104.38,1
+ORD-11301,2023-02-17,CUST-1239,Africa,Sports & Outdoors,Online,,1
+ORD-11221,29/05/2023,CUST-1499,North America,Beauty & Personal Care,Online,48.01,1
+ORD-11790,2024-07-06,CUST-1455,North America,Beauty & Personal Care,Online,44.5,1
+ORD-10369,2024-10-24,CUST-1385,Africa,Home & Kitchen,Marketplace,81.16,2
+ORD-10484,2023-12-02,CUST-1084,Europe,Electronics,Marketplace,333.26,1
+ORD-10596,15/02/2023,CUST-1153,North America,Apparel,Retail Partner,78.96,1
+ORD-11121,2024-03-24,CUST-1366,Europe,Electronics,Marketplace,984.13,1
+ORD-10307,2023-12-14,CUST-1158,Europe,apparel,Marketplace,43.7,2
+ORD-10285,07-23-2024,CUST-1432,North America,Electronics,Retail Partner,594.98,1
+ORD-11367,2024-05-22,CUST-1428,Asia Pacific,Home & Kitchen,Retail Partner,74.95,1
+ORD-11187,2023-10-24,CUST-1221,Europe,Sports & Outdoors,Online,154.96,1
+ORD-11309,2024-03-12,CUST-1044,Europe,Home & Kitchen,Online,69.37,1
+ORD-10556,2024-03-23,CUST-1050,Asia Pacific,Beauty & Personal Care,Retail Partner,54.06,2
+ORD-10768,2024-02-24,CUST-1097,Middle East,Home & Kitchen,Online,29.67,1
+ORD-11238,2024-06-21,CUST-1274,Africa,Beauty & Personal Care,Online,39.51,1
+ORD-10666,30/11/2024,CUST-1279,Europe,Home & Kitchen,Online,52.92,3
+ORD-11190,15/12/2024,CUST-1222,Middle East,Electronics,Retail Partner,376.59,4
+ORD-10097,2023-11-13,CUST-1259,Europe,Home & Kitchen,Retail Partner,71.43,1
+ORD-10692,15/11/2023,CUST-1144,Africa,home & kitchen,Online,18.03,3
+ORD-11266,2024-09-01,CUST-1358,North America,Electronics,Marketplace,394.8,1
+ORD-11428,2023-03-24,CUST-1249,Europe,electronics,Online,514.3,1
+ORD-10139,2023-04-21,CUST-1159,Europe,Home & Kitchen,Marketplace,100.16,1
+ORD-10701,2024-06-16,CUST-1459,Europe,Apparel,Online,17.98,1
+ORD-10194,2024-06-10,CUST-1206,North America,SPORTS & OUTDOORS,Marketplace,162.09,1
+ORD-11599,2024-01-01,CUST-1176,North America,Home & Kitchen,Online,95.63,1
+ORD-10978,06/12/2023,CUST-1375,Asia Pacific,Apparel,Online,43.14,1
+ORD-10789,2024-07-19,CUST-1203,Europe,Electronics,Online,470.69,1
+ORD-10128,2023-05-19,CUST-1219,Europe,Sports & Outdoors,Online,257.01,1
+ORD-10716,09-13-2023,CUST-1281,North America,Electronics,Online,747.16,1
+ORD-11098,20/06/2024,CUST-1203,North America,Sports & Outdoors,Online,104.47,1
+ORD-11467,27/06/2024,CUST-1170,Europe,office supplies,Retail Partner,84.61,1
+ORD-11288,29/12/2023,CUST-1409,Asia Pacific,APPAREL,Online,29.76,2
+ORD-11561,2023-04-12,CUST-1371,Europe,Sports & Outdoors,Retail Partner,182.78,2
+ORD-10264,28/06/2023,CUST-1408,Middle East,Electronics,Retail Partner,532.84,1
+ORD-10882,2023-11-18,CUST-1335,North America,Electronics,Retail Partner,230.57,2
+ORD-10817,2023-10-09,CUST-1329,North America,Home & Kitchen,Marketplace,53.0,3
+ORD-11502,10/08/2024,CUST-1148,North America,Electronics,Online,163.16,1
+ORD-10498,2023-09-11,CUST-1117,Africa,Sports & Outdoors,Online,244.0,1
+ORD-11257,2023-01-04,CUST-1103,Europe,Office Supplies,Online,7.53,2
+ORD-11568,2023-11-16,CUST-1307,North America,Apparel,Online,103.94,2
+ORD-11106,14/11/2023,CUST-1273,APAC,Apparel,Online,72.97,2
+ORD-10432,2023-06-02,CUST-1233,Europe,Apparel,Online,118.55,1
+ORD-11113,2024-10-23,CUST-1366,Europe,Apparel,Retail Partner,42.65,2
+ORD-10700,2023-05-26,CUST-1497,Asia Pacific,Electronics,Online,1159.1,1
+ORD-10068,2024-07-10,CUST-1426,Asia Pacific,Electronics,Online,1144.07,3
+ORD-10593,2023-03-29,CUST-1471,North America,Home & Kitchen,Online,208.26,1
+ORD-11699,2024-11-27,CUST-1348,North America,Office Supplies,Retail Partner,76.98,3
+ORD-11702,2023-12-04,CUST-1002,North America,Apparel,Marketplace,119.77,1
+ORD-11548,2023-05-02,CUST-1417,Europe,Electronics,Online,694.7,1
+ORD-10338,09-17-2024,CUST-1227,North America,Apparel,Online,89.15,1
+ORD-11200,2023-12-18,CUST-1007,Europe,Electronics,Online,206.12,3
+ORD-10383,2023-06-07,CUST-1309,North America,Home & Kitchen,Marketplace,149.43,1
+ORD-10820,2024-01-19,CUST-1431,Middle East,Beauty & Personal Care,Retail Partner,71.07,1
+ORD-10055,2024-07-23,CUST-1374,Europe,Beauty & Personal Care,Online,13.71,1
+ORD-10610,2024-05-13,CUST-1095,Europe,Apparel,Online,14.89,1
+ORD-10739,2024-01-03,CUST-1357,North America,HOME & KITCHEN,Online,198.87,4
+ORD-11448,2024-09-16,CUST-1475,North America,Electronics,Online,817.28,1
+ORD-10631,2024-12-19,CUST-1064,Europe,Home & Kitchen,Online,245.43,1
+ORD-11781,2024-11-28,CUST-1453,Europe,Electronics,Retail Partner,352.5,2
+ORD-10170,2024-07-30,CUST-1415,Africa,Home & Kitchen,Marketplace,243.2,3
+ORD-11089,2024-04-19,CUST-1146,North America,Electronics,Retail Partner,1074.86,1
+ORD-10321,2023-12-18,CUST-1428,Europe,Apparel,Retail Partner,19.08,1
+ORD-10326,2024-01-31,CUST-1347,Africa,Home & Kitchen,Retail Partner,199.63,1
+ORD-10503,2023-02-27,CUST-1442,North America,Sports & Outdoors,Online,141.17,1
+ORD-10883,05/12/2024,CUST-1267,Europe,Electronics,Retail Partner,91.77,2
+ORD-10409,2023-02-16,CUST-1041,Europe,Electronics,Online,781.38,1
+ORD-10297,2024-02-09,CUST-1112,Europe,Apparel,Retail Partner,135.32,1
+ORD-10777,20/08/2023,CUST-1134,Europe,Sports & Outdoors,Marketplace,218.63,1
+ORD-10725,2023-08-08,CUST-1181,Asia Pacific,Apparel,Online,144.11,1
+ORD-10664,24/06/2024,CUST-1036,Asia Pacific,OFFICE SUPPLIES,Online,46.66,1
+ORD-11826,2023-07-04,CUST-1272,Europe,Beauty & Personal Care,Retail Partner,68.97,1
+ORD-10623,2023-03-31,CUST-1418,Asia Pacific,Apparel,Marketplace,124.44,2
+ORD-11414,2023-03-15,CUST-1119,Africa,beauty & personal care,Online,43.54,1
+ORD-10331,2024-01-07,CUST-1009,Africa,Apparel,Online,112.13,2
+ORD-11592,2024-05-14,CUST-1199,Africa,Apparel,Retail Partner,125.74,1
+ORD-11454,2023-08-10,CUST-1250,Asia Pacific,Beauty & Personal Care,Online,21.11,1
+ORD-10372,2024-01-31,CUST-1489,Asia Pacific,Sports & Outdoors,Retail Partner,186.1,2
+ORD-11329,22/10/2024,CUST-1253,Europe,Electronics,Marketplace,928.37,2
+ORD-10531,03-02-2023,CUST-1490,Europe,Home & Kitchen,Marketplace,200.48,1
+ORD-10407,2023-06-25,CUST-1078,Asia Pacific,Sports & Outdoors,Online,104.65,1
+ORD-10199,2024-09-15,CUST-1322,North America,Sports & Outdoors,Marketplace,291.29,2
+ORD-10473,11-06-2023,CUST-1168,Asia Pacific,Home & Kitchen,Online,192.25,2
+ORD-11278,2024-09-22,CUST-1409,Asia Pacific,Home & Kitchen,Retail Partner,146.92,2
+ORD-10216,03-18-2023,CUST-1079,North America,Electronics,Retail Partner,871.25,1
+ORD-10253,2024-02-29,CUST-1079,North America,Office Supplies,Online,93.64,1
+ORD-10152,10-14-2023,CUST-1174,Africa,Home & Kitchen,Retail Partner,117.49,1
+ORD-10870,2023-11-17,CUST-1346,North America,Home & Kitchen,Online,98.38,1
+ORD-11317,26/04/2023,CUST-1243,North America,Sports & Outdoors,Online,297.79,1
+ORD-11189,2024-02-13,CUST-1280,Europe,Beauty & Personal Care,Marketplace,51.97,1
+ORD-11364,2023-06-04,CUST-1378,North America,Electronics,Online,1128.46,1
+ORD-11487,2023-08-26,CUST-1410,Africa,Sports & Outdoors,Online,186.41,1
+ORD-11524,2023-06-07,CUST-1001,Africa,Home & Kitchen,Online,,1
+ORD-11172,2024-09-02,CUST-1145,Europe,apparel,Online,127.06,1
+ORD-10530,2023-12-27,CUST-1086,North America,Home & Kitchen,Online,,3
+ORD-11256,2023-10-23,CUST-1228,Asia Pacific,Home & Kitchen,Online,107.52,1
+ORD-11186,2024-04-01,CUST-1201,APAC,Electronics,Retail Partner,720.53,2
+ORD-10240,2024-05-08,CUST-1467,Middle East,Electronics,Retail Partner,577.0,2
+ORD-11342,2024-01-04,CUST-1196,Middle East,Beauty & Personal Care,Marketplace,34.82,1
+ORD-11547,26/06/2023,CUST-1175,Africa,ELECTRONICS,Marketplace,900.18,1
+ORD-10187,2023-01-22,CUST-1300,Asia Pacific,Sports & Outdoors,Retail Partner,174.24,1
+ORD-10246,2024-01-16,CUST-1481,APAC,Beauty & Personal Care,Retail Partner,37.67,2
+ORD-11318,2023-12-23,CUST-1393,Europe,Apparel,Marketplace,67.81,1
+ORD-11312,2024-04-21,CUST-1498,Middle East,Sports & Outdoors,Online,172.21,1
+ORD-11215,02-07-2024,CUST-1174,Africa,Electronics,Online,631.92,1
+ORD-10302,17/11/2023,CUST-1039,North America,Electronics,Online,1164.0,1
+ORD-10283,2023-04-17,CUST-1180,Middle East,Apparel,Marketplace,70.55,1
+ORD-11527,2023-01-30,CUST-1125,Asia Pacific,Home & Kitchen,Marketplace,207.81,2
+ORD-10505,2023-08-31,CUST-1164,North America,Home & Kitchen,Retail Partner,38.82,1
+ORD-11818,02/06/2023,CUST-1229,Asia Pacific,Electronics,Online,809.48,1
+ORD-11621,04/11/2023,CUST-1391,Asia Pacific,Electronics,Online,220.74,1
+ORD-11395,2023-06-02,CUST-1254,N. America,HOME & KITCHEN,Online,189.73,1
+ORD-11194,2023-12-23,CUST-1187,Africa,ELECTRONICS,Marketplace,593.24,3
+ORD-10746,2023-05-26,CUST-1469,Europe,Home & Kitchen,Retail Partner,150.26,1
+ORD-10621,03-11-2024,CUST-1111,North America,Electronics,Online,746.64,1
+ORD-11635,2024-09-06,CUST-1121,North America,Sports & Outdoors,Online,237.64,3
+ORD-10122,04/02/2024,CUST-1385,Africa,Apparel,Online,132.81,1
+ORD-10721,2023-07-22,CUST-1033,North America,Office Supplies,Online,82.0,1
+ORD-10510,2024-12-14,CUST-1163,North America,Electronics,Retail Partner,778.49,1
+ORD-10280,03/03/2023,CUST-1284,Europe,Office Supplies,Retail Partner,82.78,1
+ORD-11018,2024-05-30,CUST-1272,North America,Office Supplies,Marketplace,39.5,2
+ORD-11313,16/12/2024,CUST-1410,Africa,Electronics,Online,592.1,1
+ORD-10876,20/06/2023,CUST-1408,N. America,Apparel,Online,132.88,1
+ORD-11816,2024-01-22,CUST-1400,North America,Electronics,Online,429.89,1
+ORD-11698,25/05/2024,CUST-1393,N. America,Electronics,Retail Partner,417.37,1
+ORD-10518,2023-08-11,CUST-1286,Europe,Apparel,Retail Partner,43.88,2
+ORD-10681,2023-01-31,CUST-1460,North America,Apparel,Marketplace,16.3,2
+ORD-11425,2024-01-14,CUST-1356,Asia Pacific,Electronics,Retail Partner,542.78,1
+ORD-10067,2023-09-08,CUST-1450,Europe,Sports & Outdoors,Online,270.75,1
+ORD-11825,02/05/2024,CUST-1384,North America,BEAUTY & PERSONAL CARE,Online,11.06,2
+ORD-10568,2024-07-26,CUST-1371,North America,Electronics,Online,225.69,1
+ORD-10832,2023-12-10,CUST-1348,Europe,Apparel,Online,135.64,1
+ORD-11132,2024-11-13,CUST-1026,Europe,Home & Kitchen,Online,82.11,4
+ORD-11354,2024-11-15,CUST-1491,North America,Electronics,Online,1125.65,4
+ORD-10920,2024-07-29,CUST-1180,Asia Pacific,Apparel,Retail Partner,74.17,1
+ORD-10472,2023-09-25,CUST-1003,North America,Home & Kitchen,Online,231.09,4
+ORD-10845,2024-06-27,CUST-1387,Europe,Beauty & Personal Care,Online,11.41,3
+ORD-10511,2023-09-04,CUST-1242,North America,Office Supplies,Online,68.57,2
+ORD-10961,29/05/2024,CUST-1183,North America,Electronics,Online,1101.67,1
+ORD-11389,11/10/2023,CUST-1037,Asia Pacific,Home & Kitchen,Marketplace,129.3,1
+ORD-11522,2023-11-06,CUST-1423,Europe,Electronics,Retail Partner,698.49,1
+ORD-10318,2023-02-12,CUST-1283,Europe,Electronics,Online,1061.85,4
+ORD-11622,2023-07-28,CUST-1324,Europe,Sports & Outdoors,Retail Partner,189.29,1
+ORD-10915,2024-09-08,CUST-1211,North America,Beauty & Personal Care,Retail Partner,25.6,1
+ORD-10581,2024-12-26,CUST-1236,Europe,Electronics,Online,554.14,3
+ORD-10132,2024-07-06,CUST-1383,Europe,apparel,Online,132.1,3
+ORD-11627,22/09/2023,CUST-1014,Middle East,Office Supplies,Marketplace,23.81,1
+ORD-10742,2023-08-27,CUST-1028,Asia Pacific,SPORTS & OUTDOORS,Marketplace,36.69,1
+ORD-10971,2024-10-22,CUST-1236,Africa,Electronics,Online,678.98,4
+ORD-11838,28/04/2023,CUST-1197,Asia Pacific,Electronics,Online,82.75,1
+ORD-10368,11-14-2023,CUST-1161,North America,Sports & Outdoors,Retail Partner,245.37,1
+ORD-11734,2023-07-15,CUST-1007,Middle East,ELECTRONICS,Online,741.46,1
+ORD-10125,11/12/2023,CUST-1199,North America,Office Supplies,Retail Partner,,1
+ORD-11118,11/04/2024,CUST-1326,Africa,Sports & Outdoors,Online,84.98,2
+ORD-10936,09-19-2023,CUST-1299,Asia Pacific,electronics,Retail Partner,295.59,1
+ORD-10256,2024-12-03,CUST-1050,N. America,Beauty & Personal Care,Online,44.39,2
+ORD-11176,2024-01-11,CUST-1135,Asia Pacific,Electronics,Marketplace,1100.12,3
+ORD-11046,2024-07-26,CUST-1371,North America,Home & Kitchen,Marketplace,60.81,2
+ORD-10289,2023-01-07,CUST-1179,North America,Sports & Outdoors,Online,74.49,1
+ORD-10081,2023-08-31,CUST-1473,North America,Home & Kitchen,Marketplace,224.21,1
+ORD-10053,2023-03-02,CUST-1205,North America,ELECTRONICS,Online,880.35,1
+ORD-10943,2023-08-12,CUST-1150,Middle East,Apparel,Online,24.79,2
+ORD-10557,2024-09-01,CUST-1314,Africa,Electronics,Online,882.36,1
+ORD-10040,03-07-2023,CUST-1115,Middle East,Office Supplies,Marketplace,38.91,1
+ORD-11064,2024-07-08,CUST-1438,Europe,Apparel,Retail Partner,113.97,1
+ORD-10261,2023-08-01,CUST-1283,Africa,Electronics,Retail Partner,585.98,1
+ORD-10875,2024-05-04,CUST-1435,Europe,Office Supplies,Retail Partner,11.07,2
+ORD-10912,2024-09-06,CUST-1336,North America,Beauty & Personal Care,Online,,1
+ORD-10083,26/02/2024,CUST-1170,Middle East,Office Supplies,Retail Partner,55.0,1
+ORD-11056,2023-12-28,CUST-1489,North America,electronics,Online,400.63,1
+ORD-11661,06-27-2023,CUST-1133,Africa,Electronics,Retail Partner,232.19,1
+ORD-11465,2023-07-09,CUST-1207,Asia Pacific,Electronics,Online,882.63,1
+ORD-10970,2023-02-25,CUST-1436,Asia Pacific,Home & Kitchen,Retail Partner,186.99,1
+ORD-10030,2023-04-19,CUST-1259,Europe,Electronics,Marketplace,1062.62,1
+ORD-10513,2024-06-26,CUST-1285,,Office Supplies,Retail Partner,88.65,1
+ORD-11228,2023-08-25,CUST-1313,N. America,Sports & Outdoors,Retail Partner,197.32,1
+ORD-11583,01-27-2024,CUST-1091,Middle East,Electronics,Online,904.34,1
+ORD-10903,2024-02-24,CUST-1369,Europe,Home & Kitchen,Online,87.73,3
+ORD-11463,2023-11-09,CUST-1342,APAC,Home & Kitchen,Online,216.6,3
+ORD-11619,02/08/2024,CUST-1478,Europe,Apparel,Online,48.06,1
+ORD-11504,2023-05-23,CUST-1020,Europe,Home & Kitchen,Retail Partner,41.92,4
+ORD-10837,2023-06-04,CUST-1027,Middle East,Beauty & Personal Care,Marketplace,44.57,1
+ORD-11402,2024-01-10,CUST-1046,Europe,Home & Kitchen,Online,26.27,2
+ORD-11731,2024-11-04,CUST-1444,North America,Office Supplies,Marketplace,89.64,2
+ORD-11768,2023-04-12,CUST-1255,Asia Pacific,Sports & Outdoors,Online,,1
+ORD-10048,2023-12-14,CUST-1206,North America,Apparel,Online,15.23,2
+ORD-11125,2023-09-30,CUST-1028,North America,Apparel,Online,22.1,1
+ORD-10467,2024-04-14,CUST-1374,Middle East,Office Supplies,Online,97.8,2
+ORD-10153,23/07/2024,CUST-1141,Asia Pacific,electronics,Marketplace,625.92,2
+ORD-11794,2023-01-06,CUST-1293,Asia Pacific,Apparel,Retail Partner,59.5,1
+ORD-10394,25/07/2023,CUST-1062,Europe,Electronics,Online,705.68,1
+ORD-10123,2024-07-05,CUST-1214,Europe,Home & Kitchen,Online,85.82,2
+ORD-10355,06/03/2023,CUST-1234,North America,Electronics,Retail Partner,670.69,2
+ORD-10134,2023-02-01,CUST-1386,Europe,Beauty & Personal Care,Marketplace,74.42,1
+ORD-10268,2024-08-30,CUST-1262,North America,Apparel,Marketplace,101.12,1
+ORD-10385,2023-10-13,CUST-1332,Europe,Sports & Outdoors,Online,216.63,4
+ORD-10609,12-11-2024,CUST-1191,North America,Electronics,Online,651.85,3
+ORD-10220,2023-08-29,CUST-1035,North America,Electronics,Marketplace,325.52,3
+ORD-10041,2024-08-25,CUST-1117,Europe,Office Supplies,Marketplace,85.74,1
+ORD-10219,2024-05-14,CUST-1367,Europe,APPAREL,Online,112.42,1
+ORD-10597,22/04/2023,CUST-1331,Europe,Sports & Outdoors,Online,111.91,1
+ORD-10921,2024-11-21,CUST-1213,Africa,Electronics,Online,407.77,1
+ORD-11180,2023-11-04,CUST-1328,Europe,beauty & personal care,Online,41.31,3
+ORD-10680,2023-10-03,CUST-1399,Africa,Electronics,Retail Partner,916.73,1
+ORD-11022,01-26-2024,CUST-1246,Europe,Electronics,Online,194.61,1
+ORD-11797,2024-08-09,CUST-1341,Asia Pacific,Beauty & Personal Care,Retail Partner,11.38,1
+ORD-11128,2023-07-23,CUST-1017,Asia Pacific,Home & Kitchen,Online,219.46,1
+ORD-10541,2023-03-22,CUST-1203,Europe,Home & Kitchen,Marketplace,163.38,1
+ORD-10954,03-21-2024,CUST-1396,North America,Apparel,Online,23.67,1
+ORD-10748,09/11/2024,CUST-1482,Asia Pacific,Apparel,Online,107.29,1
+ORD-11405,2023-04-20,CUST-1199,North America,Apparel,Online,130.74,3
+ORD-11775,01-06-2024,CUST-1349,Asia Pacific,Sports & Outdoors,Marketplace,179.36,1
+ORD-11369,20/12/2023,CUST-1431,Europe,Apparel,Retail Partner,53.87,3
+ORD-11586,2023-10-28,CUST-1103,Europe,Beauty & Personal Care,Online,34.66,1
+ORD-11223,2023-11-22,CUST-1094,Africa,APPAREL,Marketplace,65.48,1
+ORD-11078,03-18-2024,CUST-1284,Asia Pacific,Beauty & Personal Care,Retail Partner,66.79,1
+ORD-11490,31/03/2024,CUST-1280,Europe,Home & Kitchen,Marketplace,233.38,1
+ORD-11497,07-29-2024,CUST-1105,Africa,Apparel,Online,107.51,1
+ORD-11686,2023-10-15,CUST-1255,North America,Apparel,Online,115.6,1
+ORD-11484,11-29-2024,CUST-1496,Africa,Apparel,Retail Partner,98.02,1
+ORD-11719,2024-06-19,CUST-1127,Africa,Apparel,Online,41.29,2
+ORD-11805,05-28-2023,CUST-1083,North America,Electronics,Online,366.08,1
+ORD-11139,05-09-2023,CUST-1054,Asia Pacific,Electronics,Online,773.42,1
+ORD-11636,04/02/2024,CUST-1299,Europe,Home & Kitchen,Online,97.96,1
+ORD-10336,2024-12-10,CUST-1425,Europe,Sports & Outdoors,Online,205.86,3
+ORD-10232,2023-02-20,CUST-1381,North America,Apparel,Online,126.04,1
+ORD-11485,2024-10-22,CUST-1227,,beauty & personal care,Marketplace,21.17,1
+ORD-11344,2023-05-28,CUST-1008,Middle East,Electronics,Online,453.37,1
+ORD-10158,07-17-2024,CUST-1217,Asia Pacific,Apparel,Retail Partner,103.11,1
+ORD-10468,2023-12-12,CUST-1007,Europe,Beauty & Personal Care,Online,53.05,1
+ORD-10856,2024-03-02,CUST-1059,Africa,Electronics,Retail Partner,1124.47,1
+ORD-11674,01-14-2024,CUST-1127,APAC,Apparel,Online,10.13,2
+ORD-10957,08-22-2023,CUST-1294,Asia Pacific,Office Supplies,Online,70.1,1
+ORD-11275,09/10/2024,CUST-1373,,Electronics,Online,989.8,2
+ORD-10585,03-04-2024,CUST-1354,Europe,Electronics,Marketplace,995.01,2
+ORD-10205,2023-05-20,CUST-1260,Asia Pacific,Electronics,Online,114.87,1
+ORD-10003,2023-08-27,CUST-1111,Europe,HOME & KITCHEN,Retail Partner,47.78,1
+ORD-11469,2024-12-02,CUST-1106,Africa,Beauty & Personal Care,Retail Partner,31.79,3
+ORD-10806,07-25-2023,CUST-1426,Europe,Home & Kitchen,Online,79.39,3
+ORD-11649,2024-10-08,CUST-1224,Africa,Electronics,Retail Partner,841.4,2
+ORD-11742,2024-12-31,CUST-1433,Asia Pacific,Sports & Outdoors,Marketplace,148.56,1
+ORD-11806,2024-12-22,CUST-1495,Europe,Sports & Outdoors,Retail Partner,153.07,2
+ORD-10693,2023-10-26,CUST-1102,Middle East,Apparel,Online,,1
+ORD-11581,2023-05-18,CUST-1321,North America,electronics,Online,486.92,1
+ORD-11562,2024-12-25,CUST-1435,North America,Sports & Outdoors,Online,89.07,1
+ORD-10714,24/09/2023,CUST-1153,Europe,Apparel,Marketplace,90.78,1
+ORD-10838,2024-08-06,CUST-1209,Africa,Electronics,Online,676.37,1
+ORD-11070,2024-04-13,CUST-1089,Middle East,Home & Kitchen,Online,76.63,1
+ORD-10891,04-03-2024,CUST-1293,North America,Electronics,Online,856.06,2
+ORD-10895,31/07/2023,CUST-1287,Europe,Home & Kitchen,Online,198.72,1
+ORD-10976,2023-11-20,CUST-1186,North America,Electronics,Online,736.99,1
+ORD-11049,2024-07-26,CUST-1054,Asia Pacific,sports & outdoors,Online,43.31,2
+ORD-11137,2024-10-02,CUST-1496,Middle East,office supplies,Online,81.68,1
+ORD-11714,2023-07-10,CUST-1314,N. America,Electronics,Online,190.5,1
+ORD-10157,11-10-2024,CUST-1156,Africa,Sports & Outdoors,Online,23.08,1
+ORD-10967,07-14-2024,CUST-1275,North America,Sports & Outdoors,Online,44.75,1
+ORD-10523,2024-01-03,CUST-1332,Europe,Electronics,Online,1111.26,1
+ORD-10462,2023-06-30,CUST-1451,Asia Pacific,HOME & KITCHEN,Online,116.71,1
+ORD-10652,2023-04-02,CUST-1196,North America,Office Supplies,Marketplace,41.33,2
+ORD-10160,2024-07-02,CUST-1061,North America,Apparel,Online,64.5,1
+ORD-10305,2024-12-07,CUST-1425,Middle East,Apparel,Retail Partner,114.73,2
+ORD-10656,26/02/2024,CUST-1470,Europe,Electronics,Online,548.32,2
+ORD-10547,08/04/2023,CUST-1498,Asia Pacific,Sports & Outdoors,Online,41.2,1
+ORD-10713,2023-09-12,CUST-1364,N. America,Home & Kitchen,Online,187.58,1
+ORD-10395,2023-01-27,CUST-1252,Africa,Sports & Outdoors,Retail Partner,140.38,1
+ORD-10783,2024-08-07,CUST-1257,North America,Office Supplies,Online,10.12,1
+ORD-10399,2024-04-22,CUST-1230,Asia Pacific,Home & Kitchen,Online,20.98,1
+ORD-10798,2023-10-03,CUST-1243,Europe,HOME & KITCHEN,Online,239.05,1
+ORD-10618,2024-05-22,CUST-1289,North America,Office Supplies,Online,72.46,2
+ORD-11455,03-14-2024,CUST-1373,North America,Beauty & Personal Care,Online,39.06,1
+ORD-11075,2024-01-17,CUST-1358,Asia Pacific,Office Supplies,Online,34.07,2
+ORD-11587,2024-07-09,CUST-1133,Asia Pacific,Beauty & Personal Care,Online,39.55,2
+ORD-10736,02-27-2023,CUST-1417,Europe,Electronics,Online,278.33,1
+ORD-11371,2024-06-29,CUST-1385,Europe,Electronics,Retail Partner,668.16,1
+ORD-11584,2024-09-28,CUST-1155,Europe,Home & Kitchen,Online,158.11,1
+ORD-10869,2023-02-10,CUST-1447,Europe,Apparel,Online,113.93,1
+ORD-10459,2024-10-28,CUST-1244,Asia Pacific,Home & Kitchen,Online,224.18,2
+ORD-10062,2023-11-20,CUST-1267,North America,Beauty & Personal Care,Online,28.92,2
+ORD-11002,2024-09-08,CUST-1185,Middle East,Apparel,Online,115.49,1
+ORD-10858,07/10/2024,CUST-1351,Africa,electronics,Online,306.01,2
+ORD-10457,2024-04-28,CUST-1169,,Electronics,Retail Partner,955.08,1
+ORD-10840,2023-11-17,CUST-1090,Asia Pacific,apparel,Online,103.34,1
+ORD-10478,2023-06-06,CUST-1244,North America,Home & Kitchen,Marketplace,237.42,2
+ORD-10977,2024-10-18,CUST-1364,North America,Home & Kitchen,Retail Partner,119.03,2
+ORD-11403,2024-04-15,CUST-1041,Asia Pacific,Electronics,Retail Partner,364.08,1
+ORD-10790,2023-01-13,CUST-1234,Africa,Electronics,Online,1193.65,1
+ORD-10617,2023-10-09,CUST-1016,North America,Sports & Outdoors,Marketplace,267.76,2
+ORD-11753,2024-01-04,CUST-1376,Africa,Beauty & Personal Care,Online,55.92,2
+ORD-11267,2024-08-15,CUST-1383,Europe,SPORTS & OUTDOORS,Online,207.67,1
+ORD-11343,2024-11-17,CUST-1446,Europe,apparel,Retail Partner,46.0,4
+ORD-11082,2023-11-04,CUST-1249,Europe,Electronics,Marketplace,226.31,2
+ORD-11535,2023-07-18,CUST-1263,APAC,Office Supplies,Online,42.03,1
+ORD-10347,2023-02-24,CUST-1212,Europe,Sports & Outdoors,Online,159.39,1
+ORD-10899,16/08/2023,CUST-1337,Africa,home & kitchen,Online,122.61,1
+ORD-11134,2023-01-10,CUST-1124,Europe,Sports & Outdoors,Retail Partner,139.37,1
+ORD-11205,2024-04-21,CUST-1027,North America,HOME & KITCHEN,Online,142.81,1
+ORD-10760,23/01/2024,CUST-1252,Africa,Home & Kitchen,Marketplace,26.57,1
+ORD-10446,10/12/2024,CUST-1411,Europe,Electronics,Online,657.77,3
+ORD-10650,2023-12-18,CUST-1356,Europe,Home & Kitchen,Marketplace,74.02,2
+ORD-11171,2024-04-08,CUST-1492,North America,Office Supplies,Online,17.77,1
+ORD-11697,04/07/2023,CUST-1292,Europe,Home & Kitchen,Retail Partner,131.28,2
+ORD-10379,2024-10-14,CUST-1343,Middle East,Apparel,Retail Partner,80.88,1
+ORD-10564,2023-05-16,CUST-1052,North America,Sports & Outdoors,Online,176.05,1
+ORD-11644,2023-09-17,CUST-1122,Africa,Electronics,Online,301.18,2
+ORD-10993,31/07/2023,CUST-1342,Asia Pacific,Sports & Outdoors,Online,285.2,1
+ORD-11809,2023-05-04,CUST-1056,North America,Apparel,Retail Partner,28.82,2
+ORD-11493,2023-06-14,CUST-1316,,Sports & Outdoors,Online,165.46,1
+ORD-10231,2024-12-17,CUST-1151,Asia Pacific,Electronics,Marketplace,588.24,3
+ORD-11812,2024-08-26,CUST-1401,Europe,Home & Kitchen,Marketplace,86.47,1
+ORD-10382,2024-10-22,CUST-1398,North America,Apparel,Online,11.07,1
+ORD-11563,2023-07-05,CUST-1054,Asia Pacific,Home & Kitchen,Online,85.65,1
+ORD-11149,2024-02-01,CUST-1275,Europe,Sports & Outdoors,Marketplace,21.02,1
+ORD-10072,09/06/2023,CUST-1283,Africa,Electronics,Online,865.09,1
+ORD-10070,2024-07-21,CUST-1418,Asia Pacific,Sports & Outdoors,Online,158.44,1
+ORD-11391,2023-07-25,CUST-1251,Asia Pacific,Electronics,Online,804.22,2
+ORD-11050,2023-04-30,CUST-1484,Asia Pacific,Home & Kitchen,Online,197.81,1
+ORD-10171,2023-05-02,CUST-1127,Asia Pacific,Sports & Outdoors,Online,252.1,1
+ORD-10935,11/02/2023,CUST-1193,North America,Beauty & Personal Care,Marketplace,23.35,1
+ORD-10168,2024-05-04,CUST-1441,North America,Apparel,Online,148.27,3
+ORD-10493,01-22-2024,CUST-1229,North America,Sports & Outdoors,Online,116.7,1
+ORD-11673,2023-09-26,CUST-1148,Europe,Electronics,Marketplace,237.66,1
+ORD-11545,2023-01-18,CUST-1067,North America,Apparel,Retail Partner,63.35,2
+ORD-10887,2024-04-25,CUST-1258,Europe,Office Supplies,Online,59.12,1
+ORD-10272,2024-09-14,CUST-1164,Africa,Sports & Outdoors,Marketplace,85.7,1
+ORD-11227,2024-09-18,CUST-1390,Europe,Sports & Outdoors,Online,124.5,1
+ORD-10420,2023-11-17,CUST-1369,Africa,Electronics,Online,481.76,3
+ORD-10094,2024-07-05,CUST-1266,Europe,Apparel,Online,71.25,2
+ORD-11294,30/03/2024,CUST-1047,Africa,Apparel,Online,62.92,1
+ORD-11495,2023-06-07,CUST-1341,North America,Apparel,Online,21.15,1
+ORD-11506,2023-04-05,CUST-1182,North America,Sports & Outdoors,Retail Partner,79.28,1
+ORD-10042,2023-03-02,CUST-1323,Asia Pacific,Home & Kitchen,Online,145.85,3
+ORD-10056,2023-10-31,CUST-1097,Asia Pacific,Beauty & Personal Care,Online,12.34,1
+ORD-11748,2023-12-22,CUST-1330,Africa,Home & Kitchen,Online,17.12,1
+ORD-11047,2023-08-20,CUST-1141,Asia Pacific,Beauty & Personal Care,Online,47.66,2
+ORD-11109,2023-12-19,CUST-1069,North America,Home & Kitchen,Online,90.33,2
+ORD-11314,2024-04-21,CUST-1363,North America,Sports & Outdoors,Online,130.34,1
+ORD-11413,11-25-2024,CUST-1234,Africa,Office Supplies,Online,27.05,2
+ORD-10038,2024-07-06,CUST-1108,Asia Pacific,Apparel,Retail Partner,80.37,1
+ORD-10306,2024-03-22,CUST-1124,North America,Home & Kitchen,Marketplace,67.78,1
+ORD-11151,04-24-2023,CUST-1164,N. America,Sports & Outdoors,Marketplace,155.26,1
+ORD-10006,2023-06-13,CUST-1388,North America,Electronics,Retail Partner,572.97,1
+ORD-11573,2024-08-27,CUST-1355,North America,Beauty & Personal Care,Online,12.84,1
+ORD-10782,2024-02-09,CUST-1040,Europe,Apparel,Online,133.19,1
+ORD-10408,2024-07-31,CUST-1431,North America,home & kitchen,Online,,1
+ORD-11157,2024-05-18,CUST-1335,Africa,Electronics,Retail Partner,934.89,1
+ORD-10781,2024-12-04,CUST-1274,North America,Electronics,Online,1172.87,1
+ORD-10166,2024-05-17,CUST-1444,Asia Pacific,ELECTRONICS,Marketplace,579.53,1
+ORD-10534,2023-03-03,CUST-1191,Africa,Sports & Outdoors,Marketplace,,1
+ORD-10583,2024-11-05,CUST-1129,North America,Beauty & Personal Care,Online,65.2,6
+ORD-11192,2023-09-10,CUST-1268,Middle East,Sports & Outdoors,Online,250.37,1
+ORD-11799,2024-01-05,CUST-1421,North America,Home & Kitchen,Online,96.95,2
+ORD-11350,2024-05-28,CUST-1364,Asia Pacific,Office Supplies,Online,7.6,2
+ORD-11170,2024-07-17,CUST-1192,Europe,Sports & Outdoors,Marketplace,241.95,1
+ORD-11196,2024-03-28,CUST-1411,Middle East,Beauty & Personal Care,Online,42.61,1
+ORD-11788,2023-04-06,CUST-1109,North America,Apparel,Online,129.33,2
+ORD-11058,2023-12-17,CUST-1420,Europe,Beauty & Personal Care,Online,43.87,2
+ORD-11732,2024-09-23,CUST-1498,Africa,Apparel,Online,114.37,1
+ORD-10813,2023-08-08,CUST-1494,Europe,Sports & Outdoors,Online,151.33,2
+ORD-10316,2023-10-21,CUST-1425,Africa,electronics,Online,957.85,1
+ORD-11444,16/08/2024,CUST-1303,,Apparel,Retail Partner,34.85,1
+ORD-11630,08/09/2024,CUST-1160,Europe,Home & Kitchen,Retail Partner,235.4,1
+ORD-10516,22/01/2024,CUST-1137,Middle East,Electronics,Online,565.61,1
+ORD-11010,29/03/2023,CUST-1484,Europe,Home & Kitchen,Online,149.6,1
+ORD-11582,2023-03-11,CUST-1425,Europe,ELECTRONICS,Retail Partner,599.99,1
+ORD-11127,2023-09-12,CUST-1393,North America,Home & Kitchen,Retail Partner,227.85,3
+ORD-10533,11/03/2023,CUST-1118,North America,HOME & KITCHEN,Retail Partner,133.24,1
+ORD-10173,2024-08-25,CUST-1152,North America,Home & Kitchen,Online,200.82,1
+ORD-10951,07-04-2024,CUST-1085,Asia Pacific,Electronics,Retail Partner,1095.82,1
+ORD-10271,2024-05-17,CUST-1055,North America,Apparel,Online,73.05,2
+ORD-10548,2024-12-09,CUST-1461,APAC,ELECTRONICS,Online,1062.63,1
+ORD-10668,2023-03-03,CUST-1020,Africa,Electronics,Online,518.94,1
+ORD-11551,2023-02-13,CUST-1220,North America,BEAUTY & PERSONAL CARE,Online,31.35,1
+ORD-10453,2023-07-26,CUST-1109,Asia Pacific,Electronics,Marketplace,957.18,2
+ORD-10606,04-13-2024,CUST-1432,Asia Pacific,Electronics,Online,312.45,1
+ORD-11836,2023-05-04,CUST-1482,Africa,office supplies,Online,,2
+ORD-11544,2023-04-27,CUST-1410,Asia Pacific,Electronics,Online,393.75,1
+ORD-10804,2024-12-27,CUST-1159,Europe,Electronics,Retail Partner,267.67,1
+ORD-10598,2023-09-07,CUST-1379,North America,Electronics,Marketplace,276.55,1
+ORD-11479,2024-11-20,CUST-1188,APAC,Electronics,Online,452.97,1
+ORD-11625,2024-04-20,CUST-1158,Europe,Electronics,Online,940.68,1
+ORD-11095,24/01/2023,CUST-1437,Europe,Electronics,Online,1067.01,1
+ORD-10751,2024-01-23,CUST-1089,Africa,Electronics,Retail Partner,1134.45,1
+ORD-10570,2023-06-21,CUST-1032,Asia Pacific,Apparel,Retail Partner,15.45,2
+ORD-11690,24/02/2023,CUST-1225,North America,Home & Kitchen,Marketplace,108.43,1
+ORD-10061,2023-03-25,CUST-1317,Middle East,Sports & Outdoors,Online,39.42,1
+ORD-11308,2024-04-27,CUST-1014,North America,Electronics,Online,861.75,2
+ORD-10536,2023-01-13,CUST-1210,North America,electronics,Retail Partner,900.29,1
+ORD-11116,28/06/2024,CUST-1380,Africa,Home & Kitchen,Marketplace,84.25,1
+ORD-11293,25/04/2023,CUST-1089,Asia Pacific,ELECTRONICS,Retail Partner,178.24,1
+ORD-11374,30/11/2024,CUST-1271,Europe,Beauty & Personal Care,Online,49.32,2
+ORD-10809,28/11/2024,CUST-1063,Africa,Electronics,Online,1130.63,4
+ORD-10244,07/05/2023,CUST-1274,Middle East,Electronics,Marketplace,535.74,2
+ORD-10025,2023-03-07,CUST-1305,Asia Pacific,Electronics,Online,628.19,4
+ORD-11453,2024-07-20,CUST-1295,Asia Pacific,Apparel,Online,115.51,1
+ORD-10946,2024-09-28,CUST-1314,Europe,ELECTRONICS,Retail Partner,277.0,1
+ORD-10222,2023-04-13,CUST-1446,North America,Office Supplies,Marketplace,66.08,1
+ORD-11366,2023-05-29,CUST-1043,Africa,Home & Kitchen,Retail Partner,30.48,1
+ORD-10105,2024-09-17,CUST-1243,Africa,Sports & Outdoors,Online,168.99,1
+ORD-10673,2024-10-11,CUST-1300,Africa,Apparel,Marketplace,50.52,1
+ORD-10642,2024-04-15,CUST-1320,Africa,office supplies,Retail Partner,10.45,1
+ORD-11203,2024-01-21,CUST-1009,APAC,Sports & Outdoors,Marketplace,88.52,1
+ORD-10665,2023-05-16,CUST-1162,North America,Electronics,Retail Partner,137.45,1
+ORD-10509,10-20-2024,CUST-1482,Africa,Office Supplies,Retail Partner,10.47,1
+ORD-10131,2023-09-16,CUST-1215,Europe,Home & Kitchen,Online,237.61,1
+ORD-11104,2023-07-01,CUST-1276,Asia Pacific,Electronics,Marketplace,856.02,1
+ORD-11283,2023-12-13,CUST-1426,Europe,Electronics,Marketplace,920.89,1
+ORD-10444,2023-11-18,CUST-1192,Africa,Home & Kitchen,Online,168.14,2
+ORD-11020,26/10/2024,CUST-1347,North America,Electronics,Online,1199.4,2
+ORD-10508,2024-07-23,CUST-1218,Europe,Electronics,Online,621.0,1
+ORD-10866,04-03-2023,CUST-1076,Africa,Electronics,Online,396.7,1
+ORD-11044,2023-12-28,CUST-1204,APAC,Apparel,Marketplace,23.63,1
+ORD-11028,12/03/2024,CUST-1079,North America,Electronics,Online,780.94,1
+ORD-10602,30/07/2023,CUST-1109,Europe,Sports & Outdoors,Online,44.36,1
+ORD-10075,2023-12-08,CUST-1001,Asia Pacific,Apparel,Online,136.89,1
+ORD-10036,2023-05-09,CUST-1272,Europe,Beauty & Personal Care,Retail Partner,68.69,1
+ORD-11677,08/04/2023,CUST-1037,,Electronics,Online,812.29,1
+ORD-10057,2023-11-18,CUST-1031,North America,Home & Kitchen,Online,159.72,3
+ORD-10196,2024-01-06,CUST-1265,Asia Pacific,Electronics,Retail Partner,686.22,3
+ORD-11567,2024-05-20,CUST-1167,Europe,Home & Kitchen,Online,110.69,1
+ORD-10992,2024-05-14,CUST-1389,Asia Pacific,Apparel,Online,97.16,1
+ORD-11741,02-22-2023,CUST-1200,Europe,Beauty & Personal Care,Online,79.53,2
+ORD-11327,2024-02-20,CUST-1489,North America,home & kitchen,Retail Partner,22.28,1
+ORD-10321,2023-12-18,CUST-1428,Europe,Apparel,Retail Partner,19.08,1
+ORD-11528,2024-09-05,CUST-1034,North America,Home & Kitchen,Online,216.02,1
+ORD-11616,2024-08-13,CUST-1095,North America,Beauty & Personal Care,Online,65.68,2
+ORD-10477,21/09/2024,CUST-1188,Middle East,Apparel,Online,91.21,1
+ORD-10086,2023-07-24,CUST-1113,Europe,Sports & Outdoors,Marketplace,62.12,1
+ORD-11749,2023-07-16,CUST-1371,Africa,Electronics,Online,740.93,1
+ORD-10561,2023-03-17,CUST-1365,Europe,Electronics,Online,858.0,1
+ORD-10771,2023-01-04,CUST-1184,Europe,Apparel,Retail Partner,81.48,1
+ORD-10334,2024-06-23,CUST-1276,North America,beauty & personal care,Online,63.25,1
+ORD-11165,2023-04-17,CUST-1218,Middle East,Electronics,Online,173.38,2
+ORD-11307,2024-09-19,CUST-1159,N. America,Home & Kitchen,Marketplace,,2
+ORD-11720,2023-03-20,CUST-1282,Europe,Electronics,Marketplace,112.07,1
+ORD-11242,2023-02-20,CUST-1322,North America,Apparel,Marketplace,149.85,1
+ORD-10708,2024-08-21,CUST-1399,Europe,Office Supplies,Online,9.02,1
+ORD-11225,14/10/2024,CUST-1381,Europe,Electronics,Online,689.8,1
+ORD-11470,2024-11-21,CUST-1484,North America,office supplies,Online,10.02,2
+ORD-11261,2023-01-07,CUST-1307,Asia Pacific,Electronics,Marketplace,122.22,1
+ORD-11269,2024-07-17,CUST-1431,North America,home & kitchen,Online,189.94,3
+ORD-11475,2023-08-03,CUST-1359,Asia Pacific,Home & Kitchen,Online,177.11,1
+ORD-10538,2024-03-16,CUST-1345,North America,Electronics,Online,760.68,1
+ORD-11117,2023-03-12,CUST-1436,Europe,Home & Kitchen,Online,207.22,2
+ORD-11358,11-08-2023,CUST-1305,Europe,Electronics,Online,1002.66,1
+ORD-11114,2023-03-23,CUST-1134,Africa,Electronics,Online,473.91,1
+ORD-11466,2023-01-02,CUST-1324,North America,Apparel,Online,76.73,2
+ORD-11005,2023-09-07,CUST-1011,Africa,home & kitchen,Retail Partner,69.92,1
+ORD-10418,2023-02-21,CUST-1049,Asia Pacific,Sports & Outdoors,Online,267.37,1
+ORD-11246,2024-12-13,CUST-1480,Africa,Electronics,Marketplace,580.35,1
+ORD-11772,29/02/2024,CUST-1386,North America,Home & Kitchen,Online,240.47,1
+ORD-11744,2024-08-28,CUST-1262,North America,Home & Kitchen,Online,99.73,2
+ORD-10573,01-07-2023,CUST-1155,Asia Pacific,Office Supplies,Online,54.18,1
+ORD-11011,2024-05-08,CUST-1241,Europe,Home & Kitchen,Online,71.13,3
+ORD-10087,2023-08-22,CUST-1156,Middle East,Sports & Outdoors,Marketplace,151.23,1
+ORD-10332,2024-05-12,CUST-1174,Africa,Electronics,Retail Partner,815.79,3
+ORD-10464,10-24-2023,CUST-1446,Asia Pacific,ELECTRONICS,Marketplace,300.56,3
+ORD-10851,18/02/2024,CUST-1084,Europe,electronics,Retail Partner,1162.23,3
+ORD-10972,2023-09-14,CUST-1034,Asia Pacific,Home & Kitchen,Retail Partner,154.92,2
+ORD-10810,2024-04-30,CUST-1491,Africa,Sports & Outdoors,Online,113.74,1
+ORD-10735,2023-06-13,CUST-1498,North America,Electronics,Retail Partner,798.84,1
+ORD-10901,2023-04-19,CUST-1359,Middle East,home & kitchen,Online,138.63,1
+ORD-11704,2024-10-21,CUST-1410,North America,Apparel,Retail Partner,120.66,1
+ORD-10574,2023-12-04,CUST-1411,Middle East,Apparel,Marketplace,110.11,1
+ORD-11628,2023-06-30,CUST-1281,Middle East,ELECTRONICS,Retail Partner,459.46,1
+ORD-11388,2024-12-09,CUST-1218,Asia Pacific,Home & Kitchen,Retail Partner,160.57,2
+ORD-11381,2023-10-18,CUST-1112,Europe,ELECTRONICS,Online,651.64,3
+ORD-11843,27/05/2024,CUST-1325,North America,Beauty & Personal Care,Retail Partner,11.67,2
+ORD-11529,2023-09-22,CUST-1444,North America,Electronics,Online,973.7,1
+ORD-11090,2023-12-12,CUST-1413,North America,Sports & Outdoors,Marketplace,95.21,1
+ORD-11743,07-21-2024,CUST-1374,North America,APPAREL,Online,8354.0,3
+ORD-11604,2024-08-07,CUST-1193,Europe,Home & Kitchen,Retail Partner,219.97,1
+ORD-11483,29/07/2023,CUST-1077,North America,Office Supplies,Online,91.52,2
+ORD-10008,14/02/2023,CUST-1413,Europe,Electronics,Marketplace,948.15,3
+ORD-11396,2023-09-30,CUST-1199,,Electronics,Retail Partner,554.25,1
+ORD-11754,2023-06-15,CUST-1432,Europe,Beauty & Personal Care,Retail Partner,10.33,2
+ORD-11631,2024-02-21,CUST-1489,North America,Electronics,Online,102.41,1
+ORD-11274,2023-11-21,CUST-1311,North America,Beauty & Personal Care,Online,20.01,3
+ORD-11717,2023-10-25,CUST-1042,North America,Office Supplies,Online,73.25,2
+ORD-10304,2023-06-25,CUST-1166,Africa,Apparel,Online,145.59,2
+ORD-11580,2024-04-10,CUST-1075,North America,Home & Kitchen,Retail Partner,,2
+ORD-11643,25/02/2023,CUST-1339,Europe,Electronics,Marketplace,664.19,3
+ORD-10074,2023-02-22,CUST-1464,Asia Pacific,Office Supplies,Marketplace,76.08,1
+ORD-11178,2023-03-21,CUST-1111,North America,Electronics,Online,564.33,1
+ORD-10522,19/07/2024,CUST-1122,Asia Pacific,Apparel,Online,96.35,2
+ORD-10335,2024-09-24,CUST-1392,North America,Electronics,Marketplace,235.95,1
+ORD-10995,11-28-2023,CUST-1332,Asia Pacific,Electronics,Marketplace,1032.15,3
+ORD-10569,2024-12-02,CUST-1086,Asia Pacific,Apparel,Online,101.61,1
+ORD-10590,2024-06-15,CUST-1261,North America,Sports & Outdoors,Online,115.94,2
+ORD-10088,2023-12-03,CUST-1204,North America,Sports & Outdoors,Marketplace,299.92,5
+ORD-10874,2024-04-12,CUST-1204,Africa,Apparel,Retail Partner,131.01,1
+ORD-11543,2024-06-22,CUST-1487,Asia Pacific,Electronics,Online,647.76,1
+ORD-11436,2024-09-25,CUST-1048,Middle East,Electronics,Online,260.43,4
+ORD-10712,2024-12-14,CUST-1360,North America,Home & Kitchen,Retail Partner,151.71,1
+ORD-11746,2024-03-08,CUST-1009,North America,Electronics,Online,478.09,1
+ORD-11306,2023-11-23,CUST-1281,Africa,Beauty & Personal Care,Online,70.18,3
+ORD-10221,03/04/2023,CUST-1382,North America,Sports & Outdoors,Retail Partner,159.49,1
+ORD-10319,2023-07-12,CUST-1333,Europe,Beauty & Personal Care,Marketplace,49.48,1
+ORD-11802,25/08/2024,CUST-1206,North America,Sports & Outdoors,Retail Partner,181.66,2
+ORD-10878,05/08/2024,CUST-1247,Asia Pacific,Home & Kitchen,Online,45.33,1
+ORD-11700,2023-01-30,CUST-1078,Europe,Electronics,Online,440.04,1
+ORD-10825,24/11/2023,CUST-1338,Europe,Electronics,Online,834.61,1
+ORD-11832,2023-05-28,CUST-1146,Asia Pacific,Apparel,Marketplace,60.32,2
+ORD-11384,2023-03-30,CUST-1061,North America,Electronics,Online,458.28,1
+ORD-10138,2023-04-28,CUST-1310,Africa,Home & Kitchen,Online,121.32,1
+ORD-10163,2023-07-18,CUST-1426,Europe,Apparel,Online,117.93,1
+ORD-11680,2023-01-06,CUST-1023,Europe,Apparel,Retail Partner,79.58,1
+ORD-10960,22/08/2024,CUST-1032,Asia Pacific,office supplies,Marketplace,19.95,2
+ORD-11360,2024-10-01,CUST-1414,Middle East,electronics,Online,618.65,1
+ORD-11817,2023-05-22,CUST-1390,Asia Pacific,Apparel,Retail Partner,67.65,1
+ORD-11331,2023-05-31,CUST-1000,Asia Pacific,Home & Kitchen,Retail Partner,212.08,1
+ORD-10633,05-26-2023,CUST-1250,North America,Apparel,Online,141.36,2
+ORD-11122,2023-01-16,CUST-1077,Asia Pacific,Home & Kitchen,Online,147.34,3
+ORD-10655,2024-03-26,CUST-1084,Asia Pacific,Electronics,Retail Partner,329.4,1
+ORD-10016,2024-01-24,CUST-1236,Europe,Home & Kitchen,Online,40.35,1
+ORD-11539,2023-01-14,CUST-1073,Africa,Home & Kitchen,Online,38.62,1
+ORD-11712,02/02/2024,CUST-1453,Middle East,Electronics,Marketplace,617.87,1
+ORD-10137,2023-09-20,CUST-1358,Europe,Home & Kitchen,Online,231.17,1
+ORD-11159,03-01-2024,CUST-1480,APAC,Home & Kitchen,Online,174.17,2
+ORD-10697,2023-12-21,CUST-1277,Africa,HOME & KITCHEN,Online,163.61,1
+ORD-11525,2024-10-13,CUST-1427,,Apparel,Online,79.45,1
+ORD-10448,2023-11-21,CUST-1250,Europe,Home & Kitchen,Online,154.86,1
+ORD-11785,2024-10-26,CUST-1400,Europe,Home & Kitchen,Marketplace,194.09,3
+ORD-10327,2024-09-09,CUST-1336,Asia Pacific,Home & Kitchen,Retail Partner,153.13,1
+ORD-10317,2023-04-03,CUST-1442,Asia Pacific,Electronics,Retail Partner,306.78,3
+ORD-11442,2023-02-23,CUST-1379,North America,Apparel,Online,72.85,1
+ORD-10526,2023-08-15,CUST-1288,Asia Pacific,ELECTRONICS,Marketplace,407.47,1
+ORD-10087,2023-08-22,CUST-1156,Middle East,Sports & Outdoors,Marketplace,151.23,1
+ORD-11206,11-09-2024,CUST-1138,Africa,Sports & Outdoors,Retail Partner,141.53,2
+ORD-10148,2024-04-21,CUST-1247,North America,Electronics,Retail Partner,1038.38,2
+ORD-11532,04-17-2024,CUST-1163,Asia Pacific,Sports & Outdoors,Marketplace,46.12,2
+ORD-11417,2024-10-09,CUST-1088,North America,office supplies,Online,74.13,1
+ORD-11379,2023-01-09,CUST-1344,Europe,BEAUTY & PERSONAL CARE,Online,36.68,1
+ORD-10365,2024-12-02,CUST-1089,North America,Sports & Outdoors,Retail Partner,176.92,1
+ORD-10589,2023-12-06,CUST-1204,North America,ELECTRONICS,Online,477.96,1
+ORD-11426,17/05/2023,CUST-1020,North America,Apparel,Retail Partner,125.95,1
+ORD-10198,2024-03-24,CUST-1147,N. America,Beauty & Personal Care,Online,,1
+ORD-11786,2023-03-28,CUST-1154,North America,electronics,Online,351.4,1
+ORD-10192,15/02/2024,CUST-1483,Africa,Beauty & Personal Care,Retail Partner,61.45,1
+ORD-10404,22/03/2023,CUST-1145,North America,Sports & Outdoors,Online,287.66,1
+ORD-11068,2024-06-22,CUST-1027,Europe,Office Supplies,Online,37.17,2
+ORD-11248,2023-07-26,CUST-1458,Europe,Sports & Outdoors,Online,131.24,1
+ORD-10483,2024-06-01,CUST-1462,Europe,Electronics,Online,937.41,1
+ORD-11237,2024-09-18,CUST-1201,Europe,Home & Kitchen,Online,101.41,1
+ORD-10791,2024-03-05,CUST-1267,North America,Electronics,Online,978.69,1
+ORD-10799,2023-11-07,CUST-1418,North America,Home & Kitchen,Online,199.04,3
+ORD-10384,2023-03-20,CUST-1390,Asia Pacific,Home & Kitchen,Online,160.01,1
+ORD-10750,2023-11-21,CUST-1332,Europe,Apparel,Online,10.91,3
+ORD-10422,2023-08-09,CUST-1123,North America,ELECTRONICS,Retail Partner,1014.24,2
+ORD-10314,10-08-2024,CUST-1226,N. America,Home & Kitchen,Online,,2
+ORD-11021,26/06/2024,CUST-1357,Europe,Home & Kitchen,Online,81.9,1
+ORD-10543,2023-03-24,CUST-1350,Europe,Sports & Outdoors,Online,162.19,1
+ORD-10913,15/09/2024,CUST-1214,Asia Pacific,Home & Kitchen,Marketplace,84.07,1
+ORD-10662,2023-10-30,CUST-1200,North America,Beauty & Personal Care,Online,72.82,1
+ORD-10902,2024-05-19,CUST-1084,Africa,Electronics,Online,512.64,1
+ORD-11713,03/04/2023,CUST-1216,Europe,Home & Kitchen,Online,103.06,2
+ORD-10685,2023-04-29,CUST-1345,Europe,Apparel,Online,22.58,1
+ORD-11614,09/04/2024,CUST-1263,Europe,Home & Kitchen,Online,85.04,1
+ORD-10159,25/08/2023,CUST-1128,Europe,Home & Kitchen,Online,26.04,1
+ORD-10999,2023-12-20,CUST-1444,North America,Beauty & Personal Care,Online,62.39,1
+ORD-11231,2023-05-21,CUST-1242,North America,Office Supplies,Online,44.11,1
+ORD-11676,2024-12-31,CUST-1108,Europe,Beauty & Personal Care,Online,28.75,1
+ORD-10202,2024-05-25,CUST-1078,North America,Sports & Outdoors,Retail Partner,81.82,1
+ORD-11023,14/12/2024,CUST-1464,Africa,Sports & Outdoors,Online,121.27,1
+ORD-11446,27/02/2024,CUST-1377,North America,Beauty & Personal Care,Online,15.79,1
+ORD-11123,25/05/2024,CUST-1409,North America,Office Supplies,Online,13.98,1
+ORD-10112,2024-03-29,CUST-1456,North America,Apparel,Online,147.53,1
+ORD-11706,2023-09-03,CUST-1091,APAC,Home & Kitchen,Marketplace,79.52,1
+ORD-10980,2023-10-15,CUST-1430,North America,Apparel,Online,149.39,1
+ORD-10922,08/03/2024,CUST-1433,Africa,Sports & Outdoors,Online,49.21,1
+ORD-11401,12-08-2023,CUST-1183,North America,Electronics,Online,505.56,1
+ORD-11500,2024-04-14,CUST-1074,Asia Pacific,Apparel,Retail Partner,71.05,1
+ORD-11830,2024-03-23,CUST-1174,Africa,APPAREL,Marketplace,59.96,1
+ORD-11509,2024-11-18,CUST-1346,Europe,Office Supplies,Marketplace,25.15,1
+ORD-10815,2024-11-29,CUST-1399,N. America,Electronics,Retail Partner,349.7,2
+ORD-11450,2023-12-10,CUST-1103,Asia Pacific,Sports & Outdoors,Online,86.43,2
+ORD-11538,2023-04-09,CUST-1185,Europe,Beauty & Personal Care,Online,14.19,2
+ORD-10679,2023-09-23,CUST-1400,Africa,Apparel,Online,48.63,2
+ORD-11093,2023-10-05,CUST-1202,Asia Pacific,Office Supplies,Online,,1
+ORD-10080,11-13-2024,CUST-1127,Africa,Beauty & Personal Care,Online,52.07,3
+ORD-11660,2024-04-07,CUST-1163,Europe,Apparel,Online,8700.0,1
+ORD-11305,2024-09-29,CUST-1490,North America,Home & Kitchen,Online,220.99,1
+ORD-11445,2023-11-30,CUST-1346,Middle East,Electronics,Online,319.88,2
+ORD-10752,01/07/2023,CUST-1065,North America,Apparel,Retail Partner,67.03,1
+ORD-11249,2024-12-09,CUST-1165,Asia Pacific,Electronics,Online,1032.36,1
+ORD-11054,2023-01-29,CUST-1441,North America,Electronics,Marketplace,537.74,1
+ORD-10242,2023-08-20,CUST-1386,Asia Pacific,Apparel,Online,140.33,1
+ORD-11571,2024-05-18,CUST-1345,North America,Sports & Outdoors,Online,252.03,2
+ORD-10641,2023-12-18,CUST-1403,Middle East,APPAREL,Retail Partner,19.58,1
+ORD-10696,2023-01-07,CUST-1077,Europe,SPORTS & OUTDOORS,Online,105.61,1
+ORD-10209,2024-04-11,CUST-1193,Africa,Home & Kitchen,Online,130.52,1
+ORD-10632,2023-09-11,CUST-1424,Europe,Beauty & Personal Care,Online,54.4,1
+ORD-10770,2024-02-07,CUST-1025,Asia Pacific,Beauty & Personal Care,Online,56.77,3
+ORD-11654,14/07/2024,CUST-1416,Europe,Electronics,Online,1199.45,2
+ORD-10435,2023-11-03,CUST-1288,Asia Pacific,electronics,Online,909.81,1
+ORD-11063,2024-11-23,CUST-1040,Middle East,SPORTS & OUTDOORS,Retail Partner,168.41,1
+ORD-10974,2023-10-19,CUST-1051,Asia Pacific,Electronics,Online,904.36,1
+ORD-10551,2023-08-01,CUST-1492,Europe,Electronics,Online,599.95,2
+ORD-11319,2023-04-20,CUST-1418,North America,Electronics,Retail Partner,215.82,1
+ORD-11386,2023-04-24,CUST-1458,Asia Pacific,Beauty & Personal Care,Marketplace,42.12,1
+ORD-11013,2024-06-07,CUST-1337,Europe,Home & Kitchen,Online,241.9,1
+ORD-11779,2024-08-11,CUST-1462,North America,beauty & personal care,Marketplace,51.06,1
+ORD-10466,04-24-2024,CUST-1258,North America,Apparel,Marketplace,36.62,2
+ORD-11600,25/10/2024,CUST-1120,North America,Beauty & Personal Care,Online,8.29,1
+ORD-11236,2023-02-12,CUST-1397,North America,Electronics,Online,879.81,1
+ORD-10277,03-13-2024,CUST-1160,Asia Pacific,Apparel,Marketplace,129.2,1
+ORD-11069,2023-02-03,CUST-1276,North America,Home & Kitchen,Online,230.12,2
+ORD-11017,2024-05-02,CUST-1090,North America,Sports & Outdoors,Online,69.99,1
+ORD-11251,06-20-2024,CUST-1043,Europe,Home & Kitchen,Retail Partner,233.66,2
+ORD-10722,12-06-2023,CUST-1463,Europe,apparel,Online,17.64,3
+ORD-11839,10/05/2024,CUST-1033,Asia Pacific,office supplies,Retail Partner,27.7,2
+ORD-10786,2023-02-13,CUST-1064,Europe,Office Supplies,Online,92.31,1
+ORD-11457,2024-08-10,CUST-1076,Europe,Electronics,Online,645.31,1
+ORD-11778,2023-02-07,CUST-1388,Africa,Electronics,Marketplace,320.83,1
+ORD-11295,2024-05-27,CUST-1463,Europe,Beauty & Personal Care,Online,29.33,1
+ORD-11233,2023-07-27,CUST-1343,Africa,Electronics,Online,853.49,1
+ORD-10906,2023-02-17,CUST-1212,North America,Sports & Outdoors,Online,256.27,1
+ORD-10563,2023-01-06,CUST-1046,North America,Beauty & Personal Care,Online,37.43,1
+ORD-10388,2023-10-20,CUST-1313,Africa,Electronics,Online,146.67,1
+ORD-10022,14/03/2024,CUST-1299,North America,Home & Kitchen,Marketplace,90.95,1
+ORD-11156,14/03/2023,CUST-1310,North America,beauty & personal care,Online,28.25,2
+ORD-10124,2023-08-14,CUST-1308,North America,Sports & Outdoors,Online,172.19,2
+ORD-11179,07/12/2024,CUST-1422,Europe,Electronics,Retail Partner,793.89,1
+ORD-10773,2024-10-15,CUST-1087,Asia Pacific,Sports & Outdoors,Marketplace,107.62,2
+ORD-10880,14/05/2023,CUST-1350,Middle East,Apparel,Online,134.76,1
+ORD-11144,09-05-2024,CUST-1444,Europe,Home & Kitchen,Online,57.22,1
+ORD-10050,03-29-2024,CUST-1038,North America,Apparel,Online,99.24,2
+ORD-11320,2024-04-17,CUST-1272,Africa,Beauty & Personal Care,Online,10.97,3
+ORD-11375,18/03/2024,CUST-1181,Asia Pacific,Office Supplies,Online,63.41,1
+ORD-11105,2024-07-31,CUST-1449,Europe,Electronics,Retail Partner,,1
+ORD-10703,08/02/2024,CUST-1326,Africa,electronics,Online,767.27,2
+ORD-10482,2023-03-21,CUST-1185,Asia Pacific,Apparel,Online,132.62,1
+ORD-11145,2024-06-27,CUST-1035,Europe,Electronics,Retail Partner,461.05,2
+ORD-11800,2023-03-25,CUST-1210,Europe,Sports & Outdoors,Online,283.86,4
+ORD-10066,06-02-2024,CUST-1109,Asia Pacific,Home & Kitchen,Retail Partner,192.32,1
+ORD-11623,2024-10-23,CUST-1146,North America,Apparel,Online,14.62,2
+ORD-10733,2023-10-15,CUST-1458,North America,electronics,Online,660.79,1
+ORD-11683,2023-09-24,CUST-1091,North America,Electronics,Marketplace,771.66,4
+ORD-10801,03/10/2023,CUST-1164,North America,Office Supplies,Online,86.39,1
+ORD-11458,2023-02-11,CUST-1022,North America,Electronics,Retail Partner,300.06,1
+ORD-11633,2024-06-18,CUST-1061,Europe,Office Supplies,Retail Partner,22.4,1
+ORD-10907,2024-04-06,CUST-1395,North America,Office Supplies,Online,22.31,1
+ORD-10031,03/06/2024,CUST-1327,Asia Pacific,Apparel,Online,43.86,1
+ORD-10417,2023-11-23,CUST-1054,Europe,Office Supplies,Online,13.6,3
+ORD-10881,2024-02-26,CUST-1454,Middle East,Electronics,Online,886.91,1
+ORD-10632,2023-09-11,CUST-1424,Europe,Beauty & Personal Care,Online,54.4,1
+ORD-11473,27/12/2024,CUST-1287,Asia Pacific,Electronics,Retail Partner,1036.07,1
+ORD-11464,2024-04-19,CUST-1232,Europe,Home & Kitchen,Online,187.08,1
+ORD-10064,16/03/2023,CUST-1384,Africa,sports & outdoors,Online,69.68,2
+ORD-11531,2023-09-23,CUST-1432,Africa,Electronics,Marketplace,991.91,2
+ORD-11517,21/06/2024,CUST-1444,Europe,Beauty & Personal Care,Online,26.85,1
+ORD-10077,08/12/2024,CUST-1452,Asia Pacific,Apparel,Marketplace,62.48,1
+ORD-10491,2023-05-19,CUST-1393,Europe,Apparel,Online,140.61,2
+ORD-11334,2024-03-21,CUST-1479,Europe,Home & Kitchen,Retail Partner,75.48,1
+ORD-11438,2023-08-02,CUST-1337,North America,Beauty & Personal Care,Retail Partner,21.61,1
+ORD-10532,15/11/2024,CUST-1038,Middle East,Home & Kitchen,Online,133.82,4
+ORD-10065,07-30-2024,CUST-1318,Middle East,Home & Kitchen,Online,197.46,1
+ORD-11596,2023-10-19,CUST-1180,Africa,BEAUTY & PERSONAL CARE,Online,21.58,1
+ORD-10296,11-25-2024,CUST-1347,Africa,Home & Kitchen,Online,212.6,1
+ORD-10591,2024-02-05,CUST-1191,North America,Apparel,Online,88.88,2
+ORD-10767,2024-03-20,CUST-1310,,Home & Kitchen,Retail Partner,225.79,2
+ORD-10724,2023-01-31,CUST-1254,Europe,Home & Kitchen,Retail Partner,145.35,2
+ORD-11346,2024-04-11,CUST-1212,Africa,Apparel,Online,78.05,1
+ORD-10626,31/07/2023,CUST-1105,North America,Home & Kitchen,Online,210.27,1
+ORD-11332,2024-08-14,CUST-1315,North America,Home & Kitchen,Online,79.19,1
+ORD-11833,2024-02-22,CUST-1487,North America,Apparel,Online,29.31,1
+ORD-11675,2023-05-17,CUST-1240,Asia Pacific,Home & Kitchen,Marketplace,111.31,1
+ORD-10251,19/05/2023,CUST-1275,Europe,Apparel,Retail Partner,117.08,2
+ORD-11716,08/06/2023,CUST-1365,Asia Pacific,Home & Kitchen,Online,213.72,2
+ORD-11244,2024-12-07,CUST-1027,Europe,Home & Kitchen,Marketplace,167.94,1
+ORD-11792,23/09/2023,CUST-1190,Europe,Apparel,Online,100.51,1
+ORD-10982,2023-01-20,CUST-1038,Europe,Electronics,Online,355.32,2
+ORD-11770,2023-01-07,CUST-1393,Europe,Home & Kitchen,Retail Partner,227.15,3
+ORD-10706,2024-02-07,CUST-1410,North America,Beauty & Personal Care,Retail Partner,29.85,1
+ORD-10487,04-18-2024,CUST-1286,APAC,Electronics,Online,1090.17,2
+ORD-10273,2024-10-10,CUST-1319,Middle East,Office Supplies,Online,84.68,1
+ORD-11420,2023-07-27,CUST-1032,Europe,Home & Kitchen,Online,115.21,1
+ORD-11576,2024-03-10,CUST-1119,Europe,Sports & Outdoors,Retail Partner,115.68,1
+ORD-10963,2023-02-01,CUST-1338,Asia Pacific,Electronics,Retail Partner,533.82,1
+ORD-10877,2023-06-13,CUST-1482,Europe,Electronics,Marketplace,654.13,1
+ORD-11326,2023-11-30,CUST-1237,Africa,Sports & Outdoors,Online,30.81,2
+ORD-11710,2024-09-09,CUST-1350,Africa,Beauty & Personal Care,Retail Partner,75.68,2
+ORD-10411,10-16-2024,CUST-1316,Europe,electronics,Online,688.19,1
+ORD-10667,2024-08-24,CUST-1008,Asia Pacific,electronics,Online,380.36,1
+ORD-10149,2023-09-09,CUST-1436,Africa,Electronics,Online,1083.9,1
+ORD-10644,2024-03-14,CUST-1490,North America,Home & Kitchen,Online,173.82,1
+ORD-11515,10/03/2024,CUST-1412,Europe,Electronics,Online,866.42,1
+ORD-10218,30/06/2024,CUST-1439,Europe,Sports & Outdoors,Online,270.55,1
+ORD-10239,2024-06-27,CUST-1187,North America,Electronics,Online,869.24,1
+ORD-11131,2023-09-17,CUST-1062,Asia Pacific,Sports & Outdoors,Marketplace,174.15,2
+ORD-11216,2024-06-17,CUST-1195,North America,Apparel,Online,99.51,1
+ORD-10792,13/04/2023,CUST-1298,Africa,Apparel,Marketplace,131.24,1
+ORD-10191,17/11/2024,CUST-1164,Asia Pacific,Apparel,Marketplace,131.42,3
+ORD-10333,2023-03-21,CUST-1079,North America,Home & Kitchen,Online,73.04,2
+ORD-11253,24/06/2023,CUST-1022,Asia Pacific,Electronics,Online,646.51,1
+ORD-10962,2023-10-16,CUST-1044,North America,Beauty & Personal Care,Online,33.15,1
+ORD-11268,2023-11-03,CUST-1393,Europe,Electronics,Online,280.3,4
+ORD-11837,2024-09-03,CUST-1122,Asia Pacific,Apparel,Online,89.31,1
+ORD-11559,2023-08-11,CUST-1270,,Sports & Outdoors,Marketplace,65.54,2
+ORD-11526,2023-10-22,CUST-1457,Asia Pacific,Apparel,Retail Partner,66.25,2
+ORD-10582,23/02/2024,CUST-1434,Asia Pacific,Sports & Outdoors,Retail Partner,79.14,2
+ORD-11798,2023-04-18,CUST-1126,Africa,Home & Kitchen,Retail Partner,94.65,2
+ORD-11355,2024-04-25,CUST-1005,Asia Pacific,Apparel,Marketplace,62.3,1
+ORD-10839,11-20-2023,CUST-1073,North America,Home & Kitchen,Retail Partner,242.91,2
+ORD-10627,2024-07-05,CUST-1305,Europe,Home & Kitchen,Online,85.49,1
+ORD-10323,19/06/2024,CUST-1268,Europe,Electronics,Online,454.35,2
+ORD-11550,2024-12-08,CUST-1217,North America,APPAREL,Marketplace,80.72,2
+ORD-11160,2023-09-30,CUST-1315,Europe,Home & Kitchen,Marketplace,165.9,1
+ORD-10778,2024-12-14,CUST-1077,Africa,Beauty & Personal Care,Online,70.95,2
+ORD-11076,2023-05-15,CUST-1292,Africa,Home & Kitchen,Online,96.61,1
+ORD-10939,2024-11-08,CUST-1431,North America,electronics,Retail Partner,1021.19,3
+ORD-10437,2024-12-05,CUST-1371,Europe,Sports & Outdoors,Online,289.94,1
+ORD-10119,22/04/2024,CUST-1277,Europe,Office Supplies,Marketplace,96.61,1
+ORD-11285,07-03-2024,CUST-1442,North America,Home & Kitchen,Online,120.11,1
+ORD-11566,2024-01-05,CUST-1253,N. America,Home & Kitchen,Online,20.3,1
+ORD-11026,2023-01-08,CUST-1380,APAC,Beauty & Personal Care,Online,67.71,1
+ORD-11303,11/10/2023,CUST-1146,Asia Pacific,Apparel,Online,63.36,1
+ORD-10076,2024-12-23,CUST-1282,N. America,home & kitchen,Online,42.92,1
+ORD-11053,2024-04-14,CUST-1173,Africa,Electronics,Retail Partner,650.65,1
+ORD-10900,10/10/2024,CUST-1181,North America,Office Supplies,Marketplace,27.02,1
+ORD-10371,2024-01-12,CUST-1063,North America,Apparel,Online,51.99,2
+ORD-11757,07/11/2023,CUST-1252,Africa,Beauty & Personal Care,Marketplace,35.71,4
+ORD-11361,26/03/2023,CUST-1248,North America,Beauty & Personal Care,Online,19.61,2
+ORD-10102,2023-06-23,CUST-1491,Africa,Electronics,Marketplace,1111.38,1
+ORD-10941,2024-06-01,CUST-1402,North America,Beauty & Personal Care,Retail Partner,48.56,2
+ORD-10577,2023-10-26,CUST-1163,Africa,Apparel,Online,108.72,1
+ORD-10819,2024-08-21,CUST-1203,North America,Sports & Outdoors,Online,124.18,2
+ORD-11385,2024-10-25,CUST-1460,Europe,Electronics,Online,757.71,1
+ORD-11406,2024-03-24,CUST-1323,Europe,Electronics,Retail Partner,543.6,1
+ORD-11634,2024-06-21,CUST-1396,Europe,Sports & Outdoors,Retail Partner,195.06,4
+ORD-11304,2023-06-02,CUST-1139,Europe,Sports & Outdoors,Marketplace,114.06,1
+ORD-10886,2023-02-25,CUST-1313,North America,office supplies,Online,59.24,1
+ORD-10968,2023-12-19,CUST-1462,Africa,Home & Kitchen,Online,246.75,3
+ORD-11032,11/11/2023,CUST-1129,Asia Pacific,Office Supplies,Retail Partner,18.12,1
+ORD-10785,2023-06-21,CUST-1088,Europe,Home & Kitchen,Online,191.75,1
+ORD-11552,2023-03-02,CUST-1303,Africa,Home & Kitchen,Retail Partner,38.48,2
+ORD-11518,2024-08-27,CUST-1491,North America,Beauty & Personal Care,Marketplace,44.58,1
+ORD-10301,13/02/2023,CUST-1441,Africa,Electronics,Online,190.2,1
+ORD-10689,2023-03-21,CUST-1138,Europe,Electronics,Retail Partner,442.35,1
+ORD-10812,2023-01-29,CUST-1145,North America,Electronics,Online,799.93,1
+ORD-11061,2023-09-29,CUST-1446,Europe,Electronics,Online,1009.83,1
+ORD-10236,2023-11-13,CUST-1020,North America,electronics,Online,1125.94,1
+ORD-11115,19/09/2024,CUST-1391,Asia Pacific,Electronics,Retail Partner,979.6,1
+ORD-11352,2024-12-08,CUST-1246,Middle East,Beauty & Personal Care,Online,26.03,4
+ORD-10499,26/04/2023,CUST-1096,North America,sports & outdoors,Online,106.74,1
+ORD-11564,2023-08-22,CUST-1263,Europe,Sports & Outdoors,Marketplace,94.47,1
+ORD-11079,2023-06-03,CUST-1378,Africa,OFFICE SUPPLIES,Online,14.36,1
+ORD-10794,2024-02-25,CUST-1449,Europe,Office Supplies,Marketplace,12.44,2
+ORD-11443,2024-06-11,CUST-1248,North America,Sports & Outdoors,Online,135.39,1
+ORD-11819,2024-09-30,CUST-1340,Asia Pacific,Electronics,Online,634.59,1
+ORD-10990,2024-08-02,CUST-1485,Europe,Electronics,Online,1064.92,3
+ORD-11296,2024-06-20,CUST-1247,Europe,Sports & Outdoors,Marketplace,165.1,1
+ORD-10934,2023-03-18,CUST-1349,North America,Apparel,Marketplace,134.72,1
+ORD-10387,2023-09-24,CUST-1134,Africa,Home & Kitchen,Marketplace,239.44,2
+ORD-10390,2024-03-31,CUST-1365,Asia Pacific,Electronics,Online,477.34,3
+ORD-10743,2024-09-20,CUST-1169,Europe,Apparel,Online,82.75,4
+ORD-10352,2023-08-09,CUST-1131,North America,Sports & Outdoors,Retail Partner,62.59,1
+ORD-11217,2024-03-03,CUST-1116,North America,Sports & Outdoors,Online,275.84,2
+ORD-10235,11-06-2024,CUST-1369,North America,Electronics,Online,143.94,1
+ORD-11610,05/04/2023,CUST-1490,Europe,Electronics,Online,123.96,1
+ORD-10480,08-12-2023,CUST-1422,Europe,Sports & Outdoors,Online,39.92,1
+ORD-10567,10-26-2023,CUST-1006,,Home & Kitchen,Retail Partner,204.57,2
+ORD-11140,2023-12-22,CUST-1330,Asia Pacific,Electronics,Online,175.66,2
+ORD-11589,2024-01-28,CUST-1060,Europe,Home & Kitchen,Retail Partner,197.0,1
+ORD-11758,2024-01-01,CUST-1133,North America,Electronics,Online,530.13,1
+ORD-11477,2023-12-20,CUST-1190,Asia Pacific,Apparel,Online,107.33,1
+ORD-10120,03/02/2024,CUST-1215,Asia Pacific,Electronics,Online,910.06,1
+ORD-11632,2023-05-24,CUST-1203,North America,Electronics,Online,721.93,2
+ORD-11024,08-27-2023,CUST-1392,Asia Pacific,Electronics,Online,625.86,1
+ORD-11086,2024-08-13,CUST-1101,Asia Pacific,Beauty & Personal Care,Marketplace,16.68,1
+ORD-11272,2024-06-25,CUST-1322,Europe,Office Supplies,Retail Partner,7.25,1
+ORD-10926,01-03-2024,CUST-1016,North America,Beauty & Personal Care,Online,52.93,1
+ORD-10515,2024-07-02,CUST-1047,Europe,Office Supplies,Online,84.46,1
+ORD-10223,29/11/2023,CUST-1023,North America,Electronics,Online,598.14,2
+ORD-11461,2024-12-10,CUST-1006,Asia Pacific,Electronics,Online,270.57,1
+ORD-10613,2023-01-10,CUST-1487,Asia Pacific,Home & Kitchen,Retail Partner,44.49,2
+ORD-10843,2024-05-03,CUST-1219,Europe,HOME & KITCHEN,Marketplace,231.82,1
+ORD-11245,2023-04-03,CUST-1231,Asia Pacific,Electronics,Marketplace,654.28,1
+ORD-10052,2023-08-31,CUST-1474,North America,Office Supplies,Marketplace,70.51,1
+ORD-11740,26/07/2023,CUST-1124,Africa,Beauty & Personal Care,Marketplace,77.96,1
+ORD-10485,2024-08-20,CUST-1367,North America,Electronics,Retail Partner,1162.87,1
+ORD-11804,2024-05-16,CUST-1485,Africa,Apparel,Online,139.46,2
+ORD-10818,2023-08-12,CUST-1129,Asia Pacific,Apparel,Marketplace,87.56,1
+ORD-10155,2023-09-04,CUST-1388,North America,Sports & Outdoors,Marketplace,167.19,1
+ORD-10600,2023-07-10,CUST-1094,N. America,Apparel,Online,49.01,1
+ORD-11513,28/07/2024,CUST-1228,Africa,Electronics,Online,606.23,1
+ORD-10248,2023-03-06,CUST-1331,Europe,Home & Kitchen,Online,102.71,1
+ORD-10761,2024-05-05,CUST-1424,North America,Electronics,Online,1042.21,1
+ORD-11724,2024-11-08,CUST-1379,APAC,Home & Kitchen,Online,232.94,1
+ORD-11130,27/11/2023,CUST-1479,Europe,Apparel,Online,54.23,3
+ORD-10542,2023-09-07,CUST-1289,Africa,Electronics,Online,239.98,1
+ORD-10793,2023-10-20,CUST-1051,Europe,Office Supplies,Online,98.73,2
+ORD-11141,05-18-2023,CUST-1183,Europe,HOME & KITCHEN,Retail Partner,31.86,1
+ORD-11656,2023-05-20,CUST-1328,Europe,beauty & personal care,Marketplace,61.19,3
+ORD-10628,24/10/2023,CUST-1149,North America,Electronics,Online,1090.7,1
+ORD-10150,06/04/2024,CUST-1451,North America,Electronics,Online,733.01,1
+ORD-11549,2024-12-05,CUST-1072,Middle East,Sports & Outdoors,Marketplace,244.4,4
+ORD-10291,2023-08-09,CUST-1271,North America,Electronics,Retail Partner,233.56,1
+ORD-10381,2023-05-10,CUST-1017,Middle East,home & kitchen,Online,61.08,1
+ORD-10686,2023-01-13,CUST-1022,Asia Pacific,Home & Kitchen,Online,182.96,1
+ORD-11224,02-28-2024,CUST-1163,Europe,Electronics,Online,607.28,2
+ORD-10897,04-10-2024,CUST-1432,North America,Electronics,Retail Partner,652.43,1
+ORD-10854,17/10/2024,CUST-1192,APAC,Apparel,Online,44.96,1
+ORD-11071,11-20-2023,CUST-1235,Middle East,beauty & personal care,Online,49.31,2
+ORD-10447,2023-11-02,CUST-1285,North America,Home & Kitchen,Online,19.54,3
+ORD-11612,2023-11-06,CUST-1421,Europe,Electronics,Online,729.56,3
+ORD-11595,2024-08-28,CUST-1253,Europe,Electronics,Online,137.49,1
+ORD-10891,04-03-2024,CUST-1293,North America,Electronics,Online,856.06,2
+ORD-10048,2023-12-14,CUST-1206,North America,Apparel,Online,15.23,2
+ORD-10615,2024-03-01,CUST-1251,Asia Pacific,Apparel,Retail Partner,42.82,1
+ORD-10154,2023-09-05,CUST-1043,Europe,Electronics,Online,686.63,1
+ORD-11193,2023-11-28,CUST-1220,North America,Apparel,Retail Partner,67.53,1
+ORD-11617,2024-04-23,CUST-1480,Africa,Sports & Outdoors,Online,68.33,1
+ORD-10729,2024-10-07,CUST-1127,Europe,Apparel,Online,127.48,1
+ORD-11679,11-17-2024,CUST-1310,Middle East,Electronics,Online,575.21,1
+ORD-10322,11/09/2023,CUST-1020,Europe,Apparel,Retail Partner,122.7,1
+ORD-11459,2024-06-27,CUST-1217,Middle East,Sports & Outdoors,Online,111.72,1
+ORD-11282,2024-09-22,CUST-1291,North America,Apparel,Marketplace,104.94,1
+ORD-10082,2024-02-27,CUST-1451,North America,electronics,Online,475.75,1
+ORD-10512,2024-04-19,CUST-1412,North America,Electronics,Retail Partner,1050.03,3
+ORD-11807,29/04/2024,CUST-1233,Asia Pacific,home & kitchen,Online,216.0,1
+ORD-10929,2023-02-18,CUST-1340,Africa,Electronics,Retail Partner,1180.38,2
+ORD-11815,2024-05-07,CUST-1213,Asia Pacific,Electronics,Marketplace,484.08,1
+ORD-11357,10-24-2023,CUST-1150,Africa,Home & Kitchen,Marketplace,20.22,1
+ORD-10010,2024-10-05,CUST-1150,Europe,Electronics,Marketplace,479.56,1
+ORD-10831,2024-07-26,CUST-1413,Africa,Apparel,Retail Partner,117.76,3
+ORD-10032,27/06/2024,CUST-1276,Asia Pacific,Apparel,Online,58.89,2
+ORD-11429,2023-04-02,CUST-1091,Asia Pacific,Electronics,Retail Partner,273.56,1
+ORD-10413,2024-12-02,CUST-1125,,Sports & Outdoors,Online,265.59,3
+ORD-10580,2023-07-04,CUST-1279,North America,Apparel,Online,138.98,1
+ORD-11736,2023-09-05,CUST-1332,Africa,Electronics,Online,706.42,1
+ORD-11795,2024-08-02,CUST-1297,Europe,Beauty & Personal Care,Online,20.17,1
+ORD-10614,2024-06-01,CUST-1287,Africa,Apparel,Marketplace,64.23,1
+ORD-11045,2023-03-12,CUST-1360,Europe,Office Supplies,Online,56.29,1
+ORD-11014,2024-04-09,CUST-1175,North America,Home & Kitchen,Retail Partner,63.41,2
+ORD-10089,2024-11-26,CUST-1204,Asia Pacific,Office Supplies,Marketplace,26.99,1
+ORD-11605,2024-05-15,CUST-1413,North America,Beauty & Personal Care,Online,54.86,1
+ORD-10601,2023-07-22,CUST-1314,APAC,Home & Kitchen,Marketplace,242.93,1
+ORD-11237,2024-09-18,CUST-1201,Europe,Home & Kitchen,Online,101.41,1
+ORD-11735,12/07/2023,CUST-1496,Asia Pacific,Sports & Outdoors,Online,100.83,3
+ORD-10133,2023-12-25,CUST-1487,Africa,Office Supplies,Retail Partner,17.8,2
+ORD-11370,2024-04-20,CUST-1085,Asia Pacific,Electronics,Online,1085.53,1
+ORD-10555,27/05/2024,CUST-1040,Africa,Beauty & Personal Care,Online,19.62,2
+ORD-11031,2024-07-24,CUST-1401,Asia Pacific,Home & Kitchen,Online,49.22,1
+ORD-11478,2024-11-25,CUST-1272,Africa,Home & Kitchen,Marketplace,46.48,1
+ORD-10320,2023-03-05,CUST-1077,Africa,Electronics,Retail Partner,478.15,2
+ORD-11671,07-31-2023,CUST-1438,Asia Pacific,Sports & Outdoors,Retail Partner,208.23,1
+ORD-11211,06-26-2024,CUST-1472,North America,Home & Kitchen,Online,98.42,1
+ORD-11640,2024-05-01,CUST-1216,Asia Pacific,Office Supplies,Online,71.89,1
+ORD-10634,2023-03-19,CUST-1231,North America,Office Supplies,Online,36.71,1
+ORD-10552,2024-02-12,CUST-1364,Africa,Electronics,Online,821.09,1
+ORD-11328,09-02-2024,CUST-1416,Europe,Sports & Outdoors,Marketplace,198.37,1
+ORD-11055,14/08/2023,CUST-1403,North America,Beauty & Personal Care,Online,43.15,1
+ORD-11471,2024-09-25,CUST-1238,Africa,home & kitchen,Online,76.6,1
+ORD-10796,2024-09-15,CUST-1316,North America,Home & Kitchen,Online,69.89,1
+ORD-11591,11-07-2023,CUST-1337,North America,Electronics,Online,1148.98,1
+ORD-11264,2023-03-31,CUST-1471,Europe,beauty & personal care,Online,59.8,1
+ORD-11615,2023-01-20,CUST-1451,Middle East,Home & Kitchen,Online,213.94,1
+ORD-10174,2023-04-12,CUST-1312,Asia Pacific,Apparel,Online,13.42,2
+ORD-10766,09/05/2024,CUST-1457,Asia Pacific,Electronics,Online,381.46,1
+ORD-10245,2023-09-26,CUST-1344,Europe,Beauty & Personal Care,Marketplace,35.31,1
+ORD-11080,2024-05-26,CUST-1215,Europe,Apparel,Retail Partner,11.41,1
+ORD-10598,2023-09-07,CUST-1379,North America,Electronics,Marketplace,276.55,1
+ORD-10145,2024-01-06,CUST-1491,Europe,Electronics,Retail Partner,537.78,1
+ORD-10090,2023-09-25,CUST-1496,Middle East,Apparel,Online,104.04,1
+ORD-10682,2024-12-30,CUST-1134,Europe,Office Supplies,Online,48.14,1
+ORD-10310,06-27-2023,CUST-1101,Asia Pacific,Apparel,Online,86.3,4
+ORD-11383,2023-08-11,CUST-1457,North America,Sports & Outdoors,Retail Partner,92.53,2
+ORD-10093,2024-08-13,CUST-1197,,APPAREL,Retail Partner,39.81,1
+ORD-11480,2024-04-13,CUST-1456,Europe,Home & Kitchen,Online,90.12,2
+ORD-10924,2023-10-01,CUST-1102,Africa,Electronics,Online,135.23,1
+ORD-11594,10/06/2023,CUST-1287,Europe,Home & Kitchen,Retail Partner,224.38,1
+ORD-11035,01/12/2024,CUST-1356,Europe,Electronics,Online,472.79,2
+ORD-11400,2024-05-08,CUST-1418,Europe,Office Supplies,Retail Partner,55.22,1
+ORD-10243,2024-07-24,CUST-1495,N. America,Apparel,Online,101.17,1
+ORD-11111,25/08/2023,CUST-1305,Europe,Beauty & Personal Care,Online,14.77,1
+ORD-10214,2024-03-26,CUST-1432,Europe,Apparel,Online,59.09,1
+ORD-11197,2023-08-28,CUST-1473,Asia Pacific,Beauty & Personal Care,Online,74.17,1
+ORD-10998,2023-08-17,CUST-1464,Africa,Sports & Outdoors,Online,171.76,1
+ORD-10853,2023-06-23,CUST-1258,Asia Pacific,Home & Kitchen,Online,232.29,1
+ORD-10425,01-10-2024,CUST-1206,Europe,electronics,Marketplace,1141.41,1
+ORD-11663,02-07-2024,CUST-1093,Middle East,Apparel,Online,94.47,1
+ORD-11142,2024-03-24,CUST-1361,Asia Pacific,Sports & Outdoors,Online,111.56,1
+ORD-11143,2023-07-11,CUST-1290,Asia Pacific,Apparel,Online,137.26,3
+ORD-10226,2024-08-20,CUST-1467,Asia Pacific,Home & Kitchen,Online,154.2,2
+ORD-11097,2024-04-29,CUST-1479,Africa,ELECTRONICS,Retail Partner,539.54,1
+ORD-10000,2023-04-25,CUST-1327,Europe,office supplies,Retail Partner,61.07,1
+ORD-11418,2023-04-10,CUST-1406,Asia Pacific,Home & Kitchen,Online,168.14,2
+ORD-10401,2023-05-13,CUST-1494,Europe,Electronics,Marketplace,588.48,1
+ORD-11103,2024-03-31,CUST-1280,Europe,Beauty & Personal Care,Online,35.48,1
+ORD-10084,12/09/2023,CUST-1415,Africa,Electronics,Marketplace,1001.24,3
+ORD-10162,2024-06-21,CUST-1389,Africa,Electronics,Online,373.74,1
+ORD-10114,2024-05-01,CUST-1441,Asia Pacific,Apparel,Retail Partner,49.2,2
+ORD-10670,19/12/2024,CUST-1216,Europe,Electronics,Retail Partner,1005.19,1
+ORD-11174,2024-12-07,CUST-1395,Asia Pacific,Home & Kitchen,Retail Partner,19.78,1
+ORD-11441,2024-04-09,CUST-1315,Europe,electronics,Retail Partner,319.39,1
+ORD-11432,2024-09-02,CUST-1019,Europe,Sports & Outdoors,Retail Partner,172.0,1
+ORD-11392,2024-07-07,CUST-1073,Asia Pacific,Apparel,Online,54.42,1
+ORD-10889,2023-02-21,CUST-1142,Middle East,Office Supplies,Online,58.37,2
+ORD-10625,2024-09-16,CUST-1363,Asia Pacific,Sports & Outdoors,Online,213.5,1
+ORD-11846,2024-09-27,CUST-1424,Europe,Electronics,Online,997.46,4
+ORD-10952,2023-08-07,CUST-1322,Europe,Office Supplies,Retail Partner,32.25,1
+ORD-10807,2023-02-21,CUST-1233,Europe,Electronics,Online,519.28,3
+ORD-10258,10/04/2024,CUST-1421,North America,Apparel,Marketplace,94.23,2
+ORD-10624,03/08/2023,CUST-1121,North America,Electronics,Retail Partner,540.54,1
+ORD-10826,2023-09-23,CUST-1151,Europe,Apparel,Online,114.91,1
+ORD-10234,27/12/2023,CUST-1410,Africa,Home & Kitchen,Marketplace,204.33,2
+ORD-10135,2024-09-28,CUST-1010,Middle East,Sports & Outdoors,Online,277.84,2
+ORD-10616,2023-02-01,CUST-1289,Middle East,Beauty & Personal Care,Marketplace,24.91,1
+ORD-11847,2023-03-03,CUST-1000,Europe,Apparel,Retail Partner,64.88,2
+ORD-10836,2023-05-03,CUST-1256,North America,Home & Kitchen,Retail Partner,216.61,1
+ORD-10842,2023-04-01,CUST-1402,North America,Electronics,Online,817.3,1
+ORD-10959,2024-07-01,CUST-1060,Asia Pacific,home & kitchen,Retail Partner,116.08,1
+ORD-10592,2023-12-20,CUST-1077,Europe,Apparel,Online,97.36,1
+ORD-11314,2024-04-21,CUST-1363,North America,Sports & Outdoors,Online,130.34,1
+ORD-11291,2023-11-19,CUST-1361,North America,Beauty & Personal Care,Online,54.68,1
+ORD-10343,2024-05-07,CUST-1328,Africa,Apparel,Online,81.75,2
+ORD-11558,2023-04-12,CUST-1034,Africa,Sports & Outdoors,Online,117.37,2
+ORD-11488,2024-02-26,CUST-1171,North America,Office Supplies,Online,25.06,1
+ORD-10293,2024-09-24,CUST-1080,North America,apparel,Online,128.21,1
+ORD-10364,2023-12-07,CUST-1387,Africa,Office Supplies,Marketplace,77.31,4
+ORD-10178,2023-08-28,CUST-1351,Europe,Home & Kitchen,Online,69.9,1
+ORD-10659,2023-10-11,CUST-1126,North America,Sports & Outdoors,Marketplace,137.5,1
+ORD-10996,2024-01-21,CUST-1089,North America,Electronics,Online,724.89,1
+ORD-10014,2023-08-03,CUST-1181,North America,Home & Kitchen,Retail Partner,164.83,2
+ORD-11110,10/01/2023,CUST-1153,Europe,Home & Kitchen,Online,190.42,2
+ORD-11394,2023-09-14,CUST-1292,Europe,BEAUTY & PERSONAL CARE,Online,64.24,1
+ORD-10165,2023-02-25,CUST-1023,Asia Pacific,Beauty & Personal Care,Online,49.27,1
+ORD-11774,2024-02-24,CUST-1211,North America,Electronics,Marketplace,1029.4,4
+ORD-11359,15/08/2024,CUST-1242,Asia Pacific,Electronics,Retail Partner,511.15,1
+ORD-10059,2023-03-11,CUST-1304,North America,Apparel,Online,92.01,3
+ORD-10709,2024-04-22,CUST-1230,North America,Apparel,Marketplace,73.24,1
+ORD-10676,2023-04-29,CUST-1222,Asia Pacific,Electronics,Marketplace,1191.0,1
+ORD-11378,2024-11-24,CUST-1172,Africa,Beauty & Personal Care,Online,13.1,1
+ORD-10780,2023-03-04,CUST-1283,North America,Electronics,Marketplace,414.07,2
+ORD-10424,2024-03-17,CUST-1055,North America,Apparel,Online,67.06,1
+ORD-10292,2023-11-29,CUST-1159,N. America,Electronics,Marketplace,977.72,3
+ORD-11065,2024-09-27,CUST-1190,North America,Home & Kitchen,Retail Partner,177.95,4
+ORD-11691,2023-09-24,CUST-1240,Asia Pacific,Apparel,Marketplace,64.79,2
+ORD-10329,14/11/2023,CUST-1043,North America,Office Supplies,Online,44.68,2
+ORD-10429,2024-01-18,CUST-1201,North America,Apparel,Marketplace,94.49,1
+ORD-11012,2023-05-27,CUST-1307,North America,Home & Kitchen,Online,23.26,1
+ORD-10079,2023-02-10,CUST-1407,Europe,Office Supplies,Online,56.72,3
+ORD-11052,2024-07-30,CUST-1193,Africa,Electronics,Online,1125.42,2
+ORD-10937,2023-06-08,CUST-1479,Asia Pacific,beauty & personal care,Online,68.28,1
+ORD-10834,2023-05-01,CUST-1237,Asia Pacific,Electronics,Retail Partner,1029.25,1
+ORD-10749,2024-03-23,CUST-1080,Africa,Apparel,Online,28.65,1
+ORD-10890,2024-02-17,CUST-1193,Asia Pacific,Office Supplies,Online,18.66,3
+ORD-10254,2023-10-14,CUST-1480,Europe,electronics,Online,424.16,2
+ORD-11637,2024-03-09,CUST-1478,Africa,Electronics,Online,966.64,1
+ORD-11482,2023-10-10,CUST-1084,Middle East,Apparel,Online,29.61,1
+ORD-11845,2023-02-12,CUST-1231,North America,sports & outdoors,Online,32.75,1
+ORD-11407,26/01/2023,CUST-1098,Africa,Home & Kitchen,Online,,1
+ORD-11337,2024-07-16,CUST-1461,Asia Pacific,HOME & KITCHEN,Online,110.43,2
+ORD-11108,2023-01-01,CUST-1005,Africa,Sports & Outdoors,Online,262.2,1
+ORD-10136,2023-04-28,CUST-1342,Europe,Home & Kitchen,Online,93.77,2
+ORD-11135,2024-05-01,CUST-1353,Asia Pacific,Electronics,Online,971.01,1
+ORD-11218,2024-09-11,CUST-1465,Asia Pacific,Electronics,Marketplace,669.79,1
+ORD-10852,2023-05-15,CUST-1114,Africa,BEAUTY & PERSONAL CARE,Online,52.31,1
+ORD-11202,29/09/2024,CUST-1247,North America,Apparel,Online,95.63,1
+ORD-10723,10/08/2024,CUST-1473,Europe,Electronics,Online,134.17,2
+ORD-10859,2024-11-08,CUST-1215,Africa,Home & Kitchen,Online,192.77,3
+ORD-10969,2023-09-16,CUST-1427,North America,Electronics,Online,730.46,2
+ORD-10496,2023-01-04,CUST-1114,Asia Pacific,Electronics,Retail Partner,1166.69,1
+ORD-10950,2024-10-29,CUST-1151,North America,Home & Kitchen,Retail Partner,74.3,2
+ORD-10805,2024-08-05,CUST-1450,Asia Pacific,beauty & personal care,Retail Partner,16.68,1
+ORD-10129,2024-01-24,CUST-1133,Asia Pacific,Electronics,Online,888.92,2
+ORD-10337,02-14-2023,CUST-1224,Asia Pacific,Electronics,Online,371.38,2
+ORD-11204,2023-03-03,CUST-1087,Asia Pacific,Office Supplies,Marketplace,13.67,3
+ORD-10608,2023-05-01,CUST-1160,Europe,Office Supplies,Retail Partner,41.59,2
+ORD-11148,2024-09-27,CUST-1186,North America,Apparel,Online,136.11,3
+ORD-10195,2024-02-28,CUST-1236,Africa,office supplies,Retail Partner,28.2,1
+ORD-11250,04-27-2023,CUST-1046,Europe,Sports & Outdoors,Online,56.34,1
+ORD-11292,07/04/2024,CUST-1190,North America,Home & Kitchen,Online,190.87,1
+ORD-11445,2023-11-30,CUST-1346,Middle East,Electronics,Online,319.88,2
+ORD-10909,02-19-2023,CUST-1376,Africa,Electronics,Online,517.83,3
+ORD-10584,2024-08-19,CUST-1245,Asia Pacific,Apparel,Marketplace,,2
+ORD-10103,2024-10-10,CUST-1339,Asia Pacific,Beauty & Personal Care,Online,20.7,1
+ORD-11747,03-03-2024,CUST-1331,Asia Pacific,Electronics,Online,1030.6,1
+ORD-11763,2024-03-24,CUST-1484,North America,Sports & Outdoors,Online,297.42,1
+ORD-10719,2024-10-22,CUST-1480,Middle East,Electronics,Retail Partner,125.12,1
+ORD-10884,08/05/2024,CUST-1127,Europe,Apparel,Online,64.49,2
+ORD-10776,2024-01-14,CUST-1195,Asia Pacific,APPAREL,Online,110.85,1
+ORD-10849,2024-06-16,CUST-1372,North America,Home & Kitchen,Marketplace,76.67,1
+ORD-10894,2024-09-25,CUST-1493,Europe,Office Supplies,Retail Partner,38.98,2
+ORD-10227,11-13-2024,CUST-1130,Africa,Apparel,Retail Partner,28.42,4
+ORD-11776,2024-06-13,CUST-1367,,Apparel,Online,89.07,1
+ORD-11325,2024-12-29,CUST-1378,Middle East,Electronics,Retail Partner,143.99,2
+ORD-11299,2023-04-29,CUST-1267,Africa,electronics,Marketplace,264.27,1
+ORD-10126,2023-05-11,CUST-1470,Africa,Apparel,Marketplace,120.4,1
+ORD-10405,2024-10-02,CUST-1064,Africa,Sports & Outdoors,Marketplace,100.75,3
+ORD-10775,2023-04-04,CUST-1135,North America,Beauty & Personal Care,Online,68.68,1
+ORD-10821,2023-11-02,CUST-1144,Europe,Electronics,Retail Partner,1109.51,1
+ORD-10711,06-11-2023,CUST-1046,Africa,Electronics,Marketplace,1133.36,1
+ORD-11783,12-18-2024,CUST-1075,Africa,Home & Kitchen,Online,119.12,1
+ORD-11060,2023-07-14,CUST-1465,North America,Home & Kitchen,Online,125.4,1
+ORD-11163,03/07/2023,CUST-1320,Asia Pacific,Electronics,Online,,3
+ORD-10303,19/02/2024,CUST-1058,Africa,home & kitchen,Online,43.53,1
+ORD-10267,27/04/2023,CUST-1269,North America,Home & Kitchen,Online,136.98,1
+ORD-10545,14/10/2024,CUST-1028,North America,electronics,Retail Partner,679.94,2
+ORD-10212,11-10-2024,CUST-1197,Asia Pacific,Electronics,Online,197.52,1
+ORD-10896,2024-01-08,CUST-1174,Europe,Home & Kitchen,Marketplace,71.0,1
+ORD-11492,18/02/2023,CUST-1432,North America,Apparel,Online,55.18,1
+ORD-11222,2024-07-24,CUST-1034,Middle East,Apparel,Online,42.77,1
+ORD-10916,2024-07-14,CUST-1359,Europe,Sports & Outdoors,Retail Partner,196.88,1
+ORD-10675,2023-09-02,CUST-1488,APAC,beauty & personal care,Marketplace,46.71,2
+ORD-11289,2024-07-01,CUST-1320,North America,Apparel,Marketplace,39.21,1
+ORD-10814,2023-07-31,CUST-1346,N. America,Sports & Outdoors,Online,211.48,1
+ORD-11265,07-02-2023,CUST-1213,North America,Sports & Outdoors,Retail Partner,270.53,1
+ORD-10342,2023-07-24,CUST-1082,,Office Supplies,Marketplace,67.9,1
+ORD-10549,15/10/2023,CUST-1473,Middle East,Electronics,Retail Partner,163.0,1
+ORD-11410,2023-01-17,CUST-1230,Middle East,sports & outdoors,Online,244.99,4
+ORD-11214,31/01/2023,CUST-1455,North America,Apparel,Online,49.69,3
+ORD-10966,2023-05-25,CUST-1284,North America,OFFICE SUPPLIES,Marketplace,,1
+ORD-11230,2024-01-18,CUST-1332,Europe,Electronics,Marketplace,708.49,1
+ORD-10295,2023-04-27,CUST-1262,Europe,Sports & Outdoors,Marketplace,287.49,2
+ORD-10695,07-20-2023,CUST-1252,North America,Office Supplies,Online,54.59,2
+ORD-11452,2024-10-15,CUST-1080,,Home & Kitchen,Marketplace,213.63,1
+ORD-10073,2023-12-18,CUST-1367,Africa,Electronics,Online,1185.04,3
+ORD-10605,2023-11-17,CUST-1327,Asia Pacific,Electronics,Online,,1
+ORD-10104,2024-11-19,CUST-1120,Africa,HOME & KITCHEN,Online,190.66,2
+ORD-10645,2023-11-06,CUST-1332,Europe,Electronics,Online,1006.58,3
+ORD-11404,2023-02-10,CUST-1283,North America,Home & Kitchen,Online,246.68,1
+ORD-10462,2023-06-30,CUST-1451,Asia Pacific,HOME & KITCHEN,Online,116.71,1
+ORD-11040,2023-06-29,CUST-1396,Asia Pacific,Electronics,Online,909.37,2
+ORD-10439,06/05/2024,CUST-1298,Africa,Beauty & Personal Care,Marketplace,62.08,3
+ORD-11019,2024-09-09,CUST-1461,North America,BEAUTY & PERSONAL CARE,Retail Partner,79.18,1
+ORD-10091,09/02/2023,CUST-1135,North America,Beauty & Personal Care,Online,62.92,1
+ORD-11112,2024-02-26,CUST-1096,North America,Electronics,Online,1041.79,1
+ORD-11658,2024-06-12,CUST-1127,Europe,Home & Kitchen,Online,173.09,1
+ORD-10908,2024-05-25,CUST-1493,Europe,electronics,Online,347.4,1
+ORD-11474,2024-05-04,CUST-1332,North America,Beauty & Personal Care,Marketplace,54.29,1
+ORD-10102,2023-06-23,CUST-1491,Africa,Electronics,Marketplace,1111.38,1
+ORD-10238,2023-05-16,CUST-1102,Africa,Sports & Outdoors,Online,164.37,1
+ORD-11609,16/02/2024,CUST-1293,Europe,Apparel,Marketplace,37.38,1
+ORD-10942,15/08/2023,CUST-1178,North America,Home & Kitchen,Online,45.52,1
+ORD-11270,2024-12-12,CUST-1062,Asia Pacific,Apparel,Online,106.69,1
+ORD-10938,2023-02-22,CUST-1305,Europe,Electronics,Retail Partner,732.33,1
+ORD-11601,2023-11-09,CUST-1444,Asia Pacific,apparel,Online,113.21,2
+ORD-11181,12-09-2023,CUST-1028,Africa,Apparel,Online,22.01,3
+ORD-11503,2024-03-28,CUST-1472,North America,Apparel,Online,132.02,1
+ORD-10005,26/08/2024,CUST-1229,Africa,Electronics,Online,1142.75,3
+ORD-11715,04-19-2024,CUST-1174,Europe,Electronics,Online,838.45,1
+ORD-10965,25/10/2024,CUST-1454,North America,Beauty & Personal Care,Marketplace,73.69,1
+ORD-10018,23/08/2023,CUST-1028,North America,Electronics,Online,260.57,2
+ORD-11430,2024-05-02,CUST-1355,North America,Beauty & Personal Care,Marketplace,21.61,1
+ORD-10121,12/08/2024,CUST-1438,North America,SPORTS & OUTDOORS,Online,65.82,1
+ORD-10661,2024-11-05,CUST-1013,North America,Electronics,Retail Partner,525.41,3
+ORD-11593,2024-11-06,CUST-1251,Africa,Apparel,Marketplace,20.12,1
+ORD-10274,03/09/2024,CUST-1195,North America,Beauty & Personal Care,Online,66.96,2
+ORD-10433,2024-09-19,CUST-1167,North America,Electronics,Retail Partner,140.85,2
+ORD-10811,2023-09-22,CUST-1083,Europe,Electronics,Retail Partner,992.11,1
+ORD-11300,2023-02-15,CUST-1477,North America,Electronics,Marketplace,433.04,1
+ORD-11335,19/08/2024,CUST-1045,Asia Pacific,home & kitchen,Retail Partner,66.99,1
+ORD-11764,2023-04-19,CUST-1499,Europe,Home & Kitchen,Online,225.48,2
+ORD-11784,2024-09-25,CUST-1319,North America,Apparel,Retail Partner,85.33,1
+ORD-11570,02/05/2024,CUST-1430,APAC,Apparel,Retail Partner,66.23,3
+ORD-10181,2023-05-26,CUST-1423,Africa,electronics,Marketplace,339.47,3
+ORD-10184,2024-05-27,CUST-1139,Middle East,Electronics,Online,929.23,1
+ORD-10406,2024-10-18,CUST-1257,Europe,Home & Kitchen,Online,51.22,1
+ORD-10865,18/11/2024,CUST-1006,Europe,Beauty & Personal Care,Retail Partner,74.71,2
+ORD-10520,2023-05-01,CUST-1492,North America,Electronics,Online,594.01,2
+ORD-11003,2024-02-29,CUST-1117,Europe,Electronics,Online,1035.68,2
+ORD-10380,2024-11-26,CUST-1383,North America,Home & Kitchen,Online,25.73,2
+ORD-11434,04/03/2024,CUST-1178,Europe,home & kitchen,Retail Partner,73.72,1
+ORD-11393,2024-03-28,CUST-1467,N. America,Electronics,Marketplace,228.52,1
+ORD-11424,2023-10-08,CUST-1061,Europe,Apparel,Marketplace,62.31,1
+ORD-10427,2023-03-17,CUST-1147,North America,Electronics,Online,410.73,1
+ORD-10078,16/03/2024,CUST-1075,North America,Office Supplies,Online,97.08,1
+ORD-11597,2023-05-12,CUST-1023,North America,Electronics,Marketplace,980.71,1
+ORD-11009,20/01/2023,CUST-1326,Asia Pacific,Apparel,Online,78.64,2
+ORD-11424,2023-10-08,CUST-1061,Europe,Apparel,Marketplace,62.31,1
+ORD-10607,2024-09-21,CUST-1152,Europe,Home & Kitchen,Retail Partner,51.31,1
+ORD-10622,03/02/2023,CUST-1152,Europe,Apparel,Online,75.93,1
+ORD-11546,03-28-2024,CUST-1418,North America,Apparel,Online,21.17,1
+ORD-11722,2024-08-05,CUST-1368,North America,Beauty & Personal Care,Online,63.98,1
+ORD-11057,10-22-2023,CUST-1127,Africa,Sports & Outdoors,Online,40.46,1
+ORD-11440,2024-10-22,CUST-1027,Asia Pacific,Home & Kitchen,Online,77.28,1
+ORD-11514,2024-03-01,CUST-1227,Europe,Electronics,Online,1177.5,1
+ORD-11585,2024-06-16,CUST-1338,Europe,Apparel,Online,107.75,1
+ORD-11091,2023-06-15,CUST-1040,Europe,Apparel,Online,71.89,1
+ORD-11560,2024-07-04,CUST-1386,Europe,sports & outdoors,Online,74.32,1
+ORD-11101,24/06/2023,CUST-1269,North America,apparel,Marketplace,53.17,2
+ORD-11129,2024-04-29,CUST-1106,Europe,Home & Kitchen,Retail Partner,121.55,4
+ORD-11235,2024-04-13,CUST-1166,Europe,Home & Kitchen,Online,208.91,1
+ORD-11668,2023-06-24,CUST-1188,Asia Pacific,Beauty & Personal Care,Marketplace,59.68,2
+ORD-10958,19/03/2024,CUST-1207,Middle East,Beauty & Personal Care,Online,64.89,1
+ORD-10559,2024-07-20,CUST-1182,North America,Electronics,Retail Partner,508.73,2
+ORD-10846,2023-09-12,CUST-1320,Africa,Electronics,Online,560.65,1
+ORD-10690,2023-02-23,CUST-1344,Europe,Electronics,Online,1011.3,2
+ORD-11519,07/10/2023,CUST-1468,Europe,Home & Kitchen,Retail Partner,246.71,3
+ORD-11827,2023-09-09,CUST-1105,Europe,Home & Kitchen,Marketplace,53.98,1
+ORD-11762,12-07-2024,CUST-1436,N. America,Home & Kitchen,Marketplace,226.73,3
+ORD-10436,02/03/2024,CUST-1056,Europe,Electronics,Marketplace,430.95,2
+ORD-10490,2024-04-28,CUST-1478,North America,apparel,Online,110.02,2
+ORD-11575,2024-09-01,CUST-1102,Europe,Apparel,Online,36.45,2
+ORD-11737,05/07/2024,CUST-1404,Africa,Home & Kitchen,Retail Partner,212.51,1
+ORD-11629,2024-05-12,CUST-1369,Asia Pacific,Home & Kitchen,Online,248.86,1
+ORD-11387,03-19-2023,CUST-1479,North America,Home & Kitchen,Online,208.95,1
+ORD-10069,25/06/2024,CUST-1334,Africa,home & kitchen,Online,92.24,1
+ORD-11572,2023-03-29,CUST-1346,Africa,Home & Kitchen,Online,84.64,2
+ORD-10808,2024-01-13,CUST-1140,Asia Pacific,Electronics,Marketplace,507.41,2
+ORD-11184,2023-02-12,CUST-1268,North America,Electronics,Online,354.11,2
+ORD-10011,2023-07-16,CUST-1295,North America,SPORTS & OUTDOORS,Online,296.33,2
+ORD-10144,12-16-2023,CUST-1331,Europe,Apparel,Online,35.47,4
+ORD-10917,2024-07-20,CUST-1478,North America,Apparel,Online,35.45,1
+ORD-11541,2023-04-15,CUST-1083,Europe,Home & Kitchen,Online,87.3,1
+ORD-11451,2023-06-25,CUST-1214,Asia Pacific,Apparel,Online,11130.0,2
+ORD-10639,2023-08-05,CUST-1422,Europe,Home & Kitchen,Marketplace,42.88,3
+ORD-10176,02-23-2024,CUST-1001,Asia Pacific,Home & Kitchen,Online,162.46,2
+ORD-10994,10/04/2024,CUST-1469,Europe,SPORTS & OUTDOORS,Marketplace,44.48,3
+ORD-10440,2024-01-25,CUST-1317,N. America,Electronics,Retail Partner,801.45,1
+ORD-10521,10/09/2024,CUST-1356,Africa,Electronics,Marketplace,1019.11,2
+ORD-11079,2023-06-03,CUST-1378,Africa,OFFICE SUPPLIES,Online,14.36,1
+ORD-11831,2023-11-21,CUST-1270,North America,Electronics,Marketplace,839.8,1
+ORD-11004,2024-11-22,CUST-1246,North America,Electronics,Marketplace,,2
+ORD-11255,22/02/2023,CUST-1364,North America,Electronics,Online,640.22,2
+ORD-11234,2024-03-25,CUST-1474,Europe,Electronics,Retail Partner,1167.15,1
+ORD-10143,2023-12-22,CUST-1021,Europe,Electronics,Retail Partner,587.68,1
+ORD-10753,2024-08-04,CUST-1200,North America,electronics,Marketplace,726.37,2
+ORD-10519,2023-11-07,CUST-1170,North America,sports & outdoors,Retail Partner,23.85,1
+ORD-10679,2023-09-23,CUST-1400,Africa,Apparel,Online,48.63,2
+ORD-11322,2023-08-02,CUST-1174,Europe,Home & Kitchen,Online,43.64,1
+ORD-10822,2024-10-17,CUST-1141,Middle East,Home & Kitchen,Online,97.64,2
+ORD-10428,2024-09-30,CUST-1422,Asia Pacific,Office Supplies,Online,90.89,1
+ORD-10612,2024-04-06,CUST-1161,Africa,Electronics,Retail Partner,394.78,1
+ORD-11505,16/02/2024,CUST-1012,Europe,Beauty & Personal Care,Online,67.5,1
+ORD-11032,11/11/2023,CUST-1129,Asia Pacific,Office Supplies,Retail Partner,18.12,1
+ORD-10156,2023-01-18,CUST-1405,North America,Sports & Outdoors,Online,181.42,1
+ORD-10539,2024-06-20,CUST-1049,Europe,Electronics,Online,1155.05,1
+ORD-11530,18/01/2024,CUST-1061,Europe,Home & Kitchen,Online,173.89,2
+ORD-11460,11/04/2023,CUST-1356,North America,Beauty & Personal Care,Online,72.4,1
+ORD-11290,2023-04-30,CUST-1304,Africa,Electronics,Retail Partner,417.38,1
+ORD-10461,2023-02-08,CUST-1273,Europe,Electronics,Online,,1
+ORD-10576,2024-12-12,CUST-1485,Europe,Beauty & Personal Care,Retail Partner,53.65,3
+ORD-11362,16/05/2023,CUST-1129,Europe,Home & Kitchen,Retail Partner,82.72,1
+ORD-10255,2023-08-11,CUST-1189,North America,Apparel,Retail Partner,48.17,1
+ORD-10979,2023-04-22,CUST-1282,Europe,Electronics,Marketplace,829.58,1
+ORD-11185,08-15-2023,CUST-1357,Africa,Sports & Outdoors,Online,73.56,1
+ORD-11006,2024-08-29,CUST-1293,Africa,Sports & Outdoors,Online,262.65,1
+ORD-11521,24/10/2023,CUST-1195,Europe,APPAREL,Retail Partner,143.08,1
+ORD-10560,2024-01-25,CUST-1338,Asia Pacific,Electronics,Retail Partner,375.75,3
+ORD-10208,2024-07-05,CUST-1228,Asia Pacific,Apparel,Retail Partner,77.41,1
+ORD-10910,2024-05-09,CUST-1299,Asia Pacific,Electronics,Online,434.93,1
+ORD-11311,2023-11-16,CUST-1182,North America,Home & Kitchen,Online,16.99,3
+ORD-10001,09-08-2023,CUST-1140,North America,Sports & Outdoors,Retail Partner,218.26,1
+ORD-11365,2024-12-18,CUST-1400,Asia Pacific,Home & Kitchen,Online,63.71,2
+ORD-10269,05/11/2024,CUST-1022,Europe,Beauty & Personal Care,Marketplace,54.64,1
+ORD-10265,2023-01-16,CUST-1067,Africa,Office Supplies,Online,13.1,2
+ORD-10914,12-18-2023,CUST-1493,Africa,Office Supplies,Online,67.24,1
+ORD-10230,2024-05-09,CUST-1196,North America,Home & Kitchen,Marketplace,75.66,1
+ORD-11520,08-04-2024,CUST-1363,Asia Pacific,Home & Kitchen,Retail Partner,225.34,1
+ORD-11119,2024-05-18,CUST-1318,APAC,HOME & KITCHEN,Online,117.88,1
+ORD-10241,2023-12-13,CUST-1445,Africa,Sports & Outdoors,Marketplace,211.31,1
+ORD-10864,2023-08-01,CUST-1466,Asia Pacific,Office Supplies,Retail Partner,38.25,3
+ORD-11066,09/10/2023,CUST-1294,Europe,Home & Kitchen,Online,216.38,1
+ORD-10873,04-06-2023,CUST-1375,North America,Home & Kitchen,Marketplace,113.87,1
+ORD-11696,2024-11-10,CUST-1288,Asia Pacific,Home & Kitchen,Retail Partner,185.98,1
+ORD-10398,2023-05-09,CUST-1037,Africa,Beauty & Personal Care,Online,17.51,1
+ORD-11725,2024-12-22,CUST-1213,Europe,Beauty & Personal Care,Online,66.58,3
+ORD-11652,2024-03-08,CUST-1367,North America,Apparel,Online,141.39,1
+ORD-10045,2023-09-06,CUST-1242,Asia Pacific,Sports & Outdoors,Marketplace,275.71,1
+ORD-10161,05-10-2024,CUST-1378,Africa,Home & Kitchen,Retail Partner,126.87,1
+ORD-10991,2024-05-10,CUST-1376,Europe,ELECTRONICS,Retail Partner,1004.49,1
+ORD-10727,2024-02-26,CUST-1255,APAC,Apparel,Online,103.31,1
+ORD-10629,26/11/2024,CUST-1460,Africa,Office Supplies,Marketplace,57.96,1
+ORD-10288,2024-12-11,CUST-1424,Asia Pacific,Apparel,Online,97.35,2
+ORD-11613,24/07/2023,CUST-1160,Europe,Home & Kitchen,Online,20.63,1
+ORD-11059,2024-08-10,CUST-1457,Asia Pacific,Office Supplies,Online,47.45,3
+ORD-11842,08-04-2024,CUST-1155,Africa,Sports & Outdoors,Marketplace,116.98,1
+ORD-10575,2024-08-31,CUST-1333,Europe,Beauty & Personal Care,Retail Partner,32.98,3
+ORD-10850,2023-12-17,CUST-1068,Europe,Apparel,Retail Partner,56.54,1
+ORD-11339,03-18-2024,CUST-1120,Asia Pacific,Electronics,Online,1037.72,1
+ORD-10911,2024-08-15,CUST-1354,Asia Pacific,Sports & Outdoors,Marketplace,120.71,1
+ORD-11254,2023-06-16,CUST-1076,Europe,Apparel,Retail Partner,86.67,1
+ORD-11718,2023-06-02,CUST-1153,Asia Pacific,Home & Kitchen,Marketplace,,3
+ORD-10932,2024-12-27,CUST-1360,North America,Office Supplies,Online,49.35,1
+ORD-11100,2023-10-18,CUST-1126,Europe,Apparel,Online,122.99,1
+ORD-11657,2024-10-05,CUST-1102,North America,Beauty & Personal Care,Online,24.01,1
+ORD-11207,27/10/2023,CUST-1009,North America,Apparel,Online,16.59,1
+ORD-10247,2024-07-28,CUST-1452,Europe,Electronics,Online,,1
+ORD-10476,2024-12-21,CUST-1454,North America,Electronics,Online,,2
+ORD-11694,2023-06-01,CUST-1443,Asia Pacific,Electronics,Online,465.91,1
+ORD-10085,2024-01-27,CUST-1055,Africa,Home & Kitchen,Marketplace,218.53,1
+ORD-10469,2024-09-17,CUST-1089,Europe,Beauty & Personal Care,Online,5.91,1
+ORD-10225,16/09/2024,CUST-1040,Asia Pacific,Apparel,Online,111.54,1
+ORD-10774,2024-02-12,CUST-1157,Africa,Beauty & Personal Care,Retail Partner,23.92,2
+ORD-10331,2024-01-07,CUST-1009,Africa,Apparel,Online,112.13,2
+ORD-10233,21/10/2023,CUST-1462,Africa,Beauty & Personal Care,Online,17.57,1
+ORD-10588,2024-07-30,CUST-1022,Middle East,Home & Kitchen,Online,202.6,1
+ORD-10475,2024-02-20,CUST-1081,Africa,Electronics,Online,1108.43,1
+ORD-11284,23/10/2024,CUST-1018,North America,Electronics,Retail Partner,933.48,1
+ORD-11765,15/04/2023,CUST-1439,Asia Pacific,APPAREL,Online,45.56,2
+ORD-10599,2024-04-18,CUST-1218,Europe,Apparel,Online,87.37,1
+ORD-10421,12/11/2023,CUST-1255,North America,Office Supplies,Online,99.79,1
+ORD-11711,2024-01-12,CUST-1426,Europe,Home & Kitchen,Online,121.06,1
+ORD-10182,2023-11-11,CUST-1084,Africa,Apparel,Online,34.71,1
+ORD-10988,09-02-2023,CUST-1339,Africa,Sports & Outdoors,Online,112.66,1
+ORD-11000,03-26-2024,CUST-1071,Africa,Electronics,Marketplace,766.69,1
+ORD-11641,05-29-2023,CUST-1479,Asia Pacific,Home & Kitchen,Retail Partner,133.39,1
+ORD-11356,07/03/2024,CUST-1169,Europe,Office Supplies,Online,30.92,1
+ORD-11462,2023-04-03,CUST-1331,Europe,home & kitchen,Marketplace,44.7,3
+ORD-10049,2024-03-08,CUST-1071,North America,Apparel,Retail Partner,40.21,1
+ORD-11771,21/10/2023,CUST-1174,Asia Pacific,Apparel,Online,83.46,1
+ORD-11029,2024-08-01,CUST-1216,Europe,Apparel,Retail Partner,33.91,1
+ORD-10529,2024-12-02,CUST-1483,North America,Electronics,Retail Partner,1067.49,4
+ORD-11258,2024-05-24,CUST-1234,APAC,Beauty & Personal Care,Marketplace,35.67,1
+ORD-10486,09/04/2024,CUST-1028,Asia Pacific,Sports & Outdoors,Online,104.82,1
+ORD-11840,20/01/2023,CUST-1467,Europe,Beauty & Personal Care,Marketplace,58.43,1
+ORD-10497,2024-07-11,CUST-1368,Africa,Sports & Outdoors,Online,,1
+ORD-11646,2024-03-29,CUST-1439,North America,Home & Kitchen,Retail Partner,145.38,1
+ORD-10106,2024-10-06,CUST-1212,Europe,Electronics,Online,502.56,1
+ORD-10443,2024-12-23,CUST-1031,North America,Apparel,Online,133.22,2
+ORD-11512,19/10/2023,CUST-1006,Europe,Apparel,Online,,2
+ORD-10646,16/01/2024,CUST-1042,N. America,Sports & Outdoors,Retail Partner,84.79,1
+ORD-11036,04/04/2023,CUST-1002,North America,Home & Kitchen,Online,50.58,2
+ORD-10726,2023-02-05,CUST-1076,North America,Apparel,Retail Partner,35.88,1
+ORD-10190,18/05/2024,CUST-1325,Asia Pacific,Home & Kitchen,Retail Partner,147.95,1
+ORD-10282,2023-02-22,CUST-1468,Europe,Electronics,Online,156.35,1
+ORD-10029,2023-09-27,CUST-1001,Africa,Electronics,Retail Partner,513.14,3
+ORD-10169,2024-10-06,CUST-1295,Africa,Office Supplies,Online,58.09,2
+ORD-11001,15/10/2023,CUST-1329,Europe,Electronics,Retail Partner,363.58,2
+ORD-11204,2023-03-03,CUST-1087,Asia Pacific,Office Supplies,Marketplace,13.67,3
+ORD-10100,2023-11-08,CUST-1000,,Electronics,Online,179.35,3
+ORD-10197,2023-07-28,CUST-1026,Africa,Office Supplies,Online,93.91,1
+ORD-10495,2024-02-07,CUST-1275,Europe,Electronics,Retail Partner,90258.0,1
+ORD-11745,2024-05-14,CUST-1444,Europe,Sports & Outdoors,Marketplace,57.02,2
+ORD-10647,2023-11-09,CUST-1320,Middle East,Electronics,Marketplace,1126.42,2
+ORD-10987,2024-05-28,CUST-1237,North America,Apparel,Online,110.46,2
+ORD-10044,2024-07-06,CUST-1109,Asia Pacific,Beauty & Personal Care,Retail Partner,5769.0,1
+ORD-11824,02-24-2023,CUST-1295,Europe,Beauty & Personal Care,Online,74.68,1
+ORD-10710,2023-08-01,CUST-1394,North America,Sports & Outdoors,Online,128.44,1
+ORD-10373,06-15-2024,CUST-1188,North America,Electronics,Retail Partner,118.83,1
+ORD-10678,2024-05-23,CUST-1083,Africa,Sports & Outdoors,Online,209.42,1
+ORD-10566,2023-04-06,CUST-1283,Asia Pacific,Sports & Outdoors,Online,181.48,1
+ORD-11672,2023-07-13,CUST-1346,Asia Pacific,Sports & Outdoors,Retail Partner,116.54,2
+ORD-10847,2023-05-13,CUST-1159,Asia Pacific,Electronics,Online,645.5,2
+ORD-10460,03-02-2023,CUST-1330,North America,Electronics,Retail Partner,581.39,1
+ORD-11437,03/06/2024,CUST-1276,Europe,Sports & Outdoors,Online,189.26,1
+ORD-11155,2024-08-27,CUST-1359,Europe,Electronics,Online,224.2,3
+ORD-10039,2024-11-18,CUST-1204,North America,Beauty & Personal Care,Online,6.82,1
+ORD-10434,2023-11-03,CUST-1431,North America,Apparel,Online,48.66,2
+ORD-10973,2024-01-01,CUST-1169,Africa,Apparel,Online,30.2,1
+ORD-11239,2024-06-17,CUST-1019,North America,Sports & Outdoors,Online,83.71,1
+ORD-11007,2024-08-09,CUST-1020,Europe,Electronics,Retail Partner,929.93,1
+ORD-11579,2024-09-09,CUST-1341,Asia Pacific,Sports & Outdoors,Marketplace,266.47,1
+ORD-11590,2024-04-15,CUST-1226,North America,home & kitchen,Online,125.23,1
+ORD-11498,2023-06-01,CUST-1176,Asia Pacific,Apparel,Online,38.52,1
+ORD-10456,2024-10-15,CUST-1115,Middle East,Apparel,Marketplace,20.58,1
+ORD-10260,2024-08-01,CUST-1064,Europe,Electronics,Retail Partner,387.78,2
+ORD-10035,2024-05-12,CUST-1043,Europe,Beauty & Personal Care,Retail Partner,21.82,2
+ORD-10827,06/02/2023,CUST-1377,North America,Beauty & Personal Care,Online,21.2,3
+ORD-10309,22/10/2024,CUST-1179,Asia Pacific,Electronics,Retail Partner,595.8,2
+ORD-10276,2024-04-09,CUST-1423,Europe,Home & Kitchen,Online,120.09,1
+ORD-10636,2024-05-14,CUST-1232,Europe,SPORTS & OUTDOORS,Marketplace,153.66,1
+ORD-10654,2024-06-27,CUST-1035,Middle East,Electronics,Retail Partner,818.65,1
+ORD-10622,03/02/2023,CUST-1152,Europe,Apparel,Online,75.93,1
+ORD-10844,2024-01-18,CUST-1102,Africa,Electronics,Online,456.68,2
+ORD-10393,2023-06-28,CUST-1326,Europe,Electronics,Online,552.68,1
+ORD-11769,2023-07-26,CUST-1062,Europe,Apparel,Marketplace,132.4,1
+ORD-10107,2024-05-21,CUST-1196,North America,Home & Kitchen,Online,224.27,1
+ORD-10349,2024-10-27,CUST-1429,N. America,Sports & Outdoors,Retail Partner,197.68,2
+ORD-10524,2024-05-24,CUST-1451,North America,Home & Kitchen,Marketplace,171.62,2
+ORD-10784,2023-05-31,CUST-1317,Europe,Home & Kitchen,Retail Partner,60.99,2
+ORD-10047,2024-10-31,CUST-1344,Europe,Electronics,Retail Partner,120.26,1
+ORD-10203,05-09-2024,CUST-1212,Africa,Electronics,Marketplace,249.18,1
+ORD-11027,07-30-2023,CUST-1335,North America,Home & Kitchen,Online,129.9,1
+ORD-11655,2023-02-23,CUST-1014,Asia Pacific,Electronics,Online,83.5,1
+ORD-10021,2023-05-23,CUST-1135,Asia Pacific,Sports & Outdoors,Online,163.01,1
+ORD-10402,2023-05-08,CUST-1028,Europe,Electronics,Online,1159.7,1
+ORD-11107,10/01/2024,CUST-1157,Europe,Sports & Outdoors,Online,134.97,2
+ORD-11154,2024-02-02,CUST-1328,Africa,Electronics,Online,807.05,1
+ORD-11439,2024-04-30,CUST-1350,North America,Sports & Outdoors,Marketplace,147.97,1
+ORD-10989,2024-12-01,CUST-1314,Europe,Beauty & Personal Care,Retail Partner,20.91,2
+ORD-10741,2024-05-19,CUST-1414,N. America,Sports & Outdoors,Online,224.64,1
+ORD-11721,2024-03-11,CUST-1261,Europe,Electronics,Online,1057.16,2
+ORD-11310,08-29-2024,CUST-1456,North America,Electronics,Online,782.53,1
+ORD-11147,2023-07-09,CUST-1194,Europe,Home & Kitchen,Marketplace,233.96,1
+ORD-10033,07/01/2024,CUST-1057,Asia Pacific,Beauty & Personal Care,Retail Partner,11.31,1
+ORD-10787,26/07/2023,CUST-1222,North America,Home & Kitchen,Online,15.05,2
+ORD-11540,05-11-2024,CUST-1398,Europe,Beauty & Personal Care,Retail Partner,57.8,1
+ORD-10923,26/01/2024,CUST-1012,Europe,Home & Kitchen,Online,167.65,2
+ORD-11043,01-01-2023,CUST-1335,Asia Pacific,Electronics,Online,1033.72,1
+ORD-11821,2023-10-12,CUST-1376,Asia Pacific,Home & Kitchen,Retail Partner,220.14,2
+ORD-11243,2023-10-20,CUST-1396,North America,Electronics,Online,491.35,2
+ORD-10579,2024-02-07,CUST-1402,Asia Pacific,Sports & Outdoors,Marketplace,170.06,1
+ORD-10481,2023-03-25,CUST-1305,Europe,Home & Kitchen,Marketplace,211.42,1
+ORD-10931,2024-03-29,CUST-1317,Europe,Home & Kitchen,Marketplace,165.66,1
+ORD-10356,2024-10-09,CUST-1008,North America,Beauty & Personal Care,Online,69.36,2
+ORD-11685,2023-05-26,CUST-1221,North America,Electronics,Retail Partner,631.17,1
+ORD-11248,2023-07-26,CUST-1458,Europe,Sports & Outdoors,Online,131.24,1
+ORD-10759,03-05-2024,CUST-1224,Europe,Apparel,Retail Partner,105.07,3
+ORD-10092,2024-03-22,CUST-1160,Europe,Apparel,Marketplace,66.49,1
+ORD-11175,2023-06-08,CUST-1292,Asia Pacific,Apparel,Marketplace,77.73,1
+ORD-11415,05-15-2024,CUST-1072,Asia Pacific,Electronics,Online,1131.21,1
+ORD-11341,2023-06-27,CUST-1339,Africa,Electronics,Marketplace,235.29,1
+ORD-11472,2023-06-29,CUST-1187,Africa,Apparel,Marketplace,15.86,1
+ORD-10803,2024-01-18,CUST-1264,Asia Pacific,Electronics,Online,403.64,1
+ORD-10745,2023-03-02,CUST-1165,Asia Pacific,office supplies,Online,37.48,1
+ORD-11546,03-28-2024,CUST-1418,North America,Apparel,Online,21.17,1
+ORD-10279,2024-03-18,CUST-1047,Asia Pacific,Home & Kitchen,Online,109.7,1
+ORD-11607,2023-03-19,CUST-1433,Europe,Electronics,Online,832.93,2
+ORD-10764,20/01/2024,CUST-1087,Africa,Office Supplies,Online,15.68,1
+ORD-10604,2023-11-30,CUST-1187,North America,Electronics,Online,1055.15,3
+ORD-11224,02-28-2024,CUST-1163,Europe,Electronics,Online,607.28,2
+ORD-11373,2024-04-04,CUST-1147,Africa,Electronics,Retail Partner,838.62,1
+ORD-11398,22/03/2024,CUST-1244,Europe,Electronics,Retail Partner,180.39,3
+ORD-10400,2024-07-18,CUST-1399,Europe,Electronics,Online,428.56,1
+ORD-11728,2023-09-23,CUST-1309,Africa,Apparel,Online,136.63,1
+ORD-10257,2023-07-14,CUST-1141,Europe,Electronics,Marketplace,621.57,2
+ORD-10944,28/07/2024,CUST-1243,Africa,Sports & Outdoors,Retail Partner,253.65,1
+ORD-11096,12-18-2024,CUST-1128,APAC,Electronics,Online,717.19,2
+ORD-11219,08-17-2024,CUST-1070,North America,Office Supplies,Online,66.53,1
+ORD-11507,2023-08-16,CUST-1269,Middle East,Electronics,Online,113.62,1
+ORD-11161,2023-11-08,CUST-1427,Asia Pacific,Home & Kitchen,Retail Partner,125.64,2
+ORD-10494,2023-05-17,CUST-1276,Asia Pacific,Beauty & Personal Care,Retail Partner,47.16,3
+ORD-10772,2024-10-02,CUST-1338,APAC,Sports & Outdoors,Online,286.67,1
+ORD-10550,2023-07-03,CUST-1016,Europe,Office Supplies,Retail Partner,34.15,1
+ORD-11486,2023-03-06,CUST-1096,Europe,sports & outdoors,Online,179.84,1
+ORD-10201,2024-04-17,CUST-1058,Africa,Home & Kitchen,Online,249.32,1
+ORD-10312,2024-11-28,CUST-1229,Europe,Sports & Outdoors,Retail Partner,,1
+ORD-10290,2023-05-26,CUST-1035,APAC,Beauty & Personal Care,Retail Partner,5.83,1
+ORD-11213,2023-10-10,CUST-1256,Asia Pacific,Apparel,Retail Partner,17.5,1
+ORD-10763,23/11/2023,CUST-1010,Middle East,apparel,Marketplace,52.47,3
+ORD-11136,2023-06-11,CUST-1127,North America,Office Supplies,Marketplace,71.85,1
+ORD-10949,2024-01-19,CUST-1394,Asia Pacific,Home & Kitchen,Online,110.29,4
+ORD-10183,05-08-2023,CUST-1224,Asia Pacific,Home & Kitchen,Online,242.74,2
+ORD-11176,2024-01-11,CUST-1135,Asia Pacific,Electronics,Marketplace,1100.12,3
+ORD-11848,2023-09-14,CUST-1306,Europe,Apparel,Marketplace,121.24,1
+ORD-11349,2024-08-14,CUST-1003,Europe,Sports & Outdoors,Online,73.49,1
+ORD-11727,2023-07-09,CUST-1108,Middle East,sports & outdoors,Online,126.47,2
+ORD-11068,2024-06-22,CUST-1027,Europe,Office Supplies,Online,37.17,2
+ORD-11468,2023-10-04,CUST-1218,North America,Electronics,Online,530.19,2
+ORD-11811,2024-05-12,CUST-1150,North America,beauty & personal care,Online,32.65,1
+ORD-11030,11/02/2024,CUST-1348,Europe,Electronics,Online,1166.53,1
+ORD-10250,2023-11-08,CUST-1019,Europe,Home & Kitchen,Online,95.19,1
+ORD-10823,2024-12-29,CUST-1335,Asia Pacific,Sports & Outdoors,Online,141.43,2
+ORD-11099,2023-03-28,CUST-1079,Asia Pacific,Electronics,Online,362.24,2
+ORD-11536,2023-06-21,CUST-1385,Europe,Sports & Outdoors,Marketplace,55.7,1
+ORD-10940,2023-08-14,CUST-1269,Europe,Sports & Outdoors,Online,117.89,1
+ORD-10391,11-14-2024,CUST-1163,Africa,Home & Kitchen,Retail Partner,17.38,2
+ORD-11456,2023-08-16,CUST-1296,Europe,Electronics,Online,741.64,1
+ORD-11092,2023-10-26,CUST-1334,Europe,Electronics,Retail Partner,878.58,1
+ORD-11191,2024-10-29,CUST-1202,Asia Pacific,Electronics,Online,771.95,2
+ORD-10904,04/05/2023,CUST-1096,Europe,Apparel,Marketplace,43.82,1
+ORD-10730,2024-01-27,CUST-1009,North America,Electronics,Retail Partner,713.94,2
+ORD-10554,2023-12-06,CUST-1276,Asia Pacific,Beauty & Personal Care,Marketplace,43.85,1
+ORD-10366,2024-04-13,CUST-1032,Europe,sports & outdoors,Online,126.51,3
+ORD-10345,05/04/2024,CUST-1139,Asia Pacific,Apparel,Online,132.9,2
+ORD-11608,2023-09-29,CUST-1147,Europe,electronics,Online,261.32,1
+ORD-10535,2024-05-09,CUST-1315,North America,BEAUTY & PERSONAL CARE,Online,57.05,1
+ORD-11422,21/05/2023,CUST-1279,Europe,Sports & Outdoors,Online,110.69,1
+ORD-11209,2024-09-03,CUST-1443,Europe,Apparel,Online,16.14,2
+ORD-11372,30/04/2024,CUST-1199,Asia Pacific,Apparel,Online,86.72,2
+ORD-11639,30/06/2024,CUST-1251,North America,Electronics,Marketplace,354.35,2
+ORD-10919,2024-07-09,CUST-1257,North America,Beauty & Personal Care,Marketplace,62.58,1
+ORD-10211,22/11/2023,CUST-1022,Europe,Home & Kitchen,Retail Partner,83.54,1
+ORD-11603,25/04/2024,CUST-1356,Africa,Electronics,Online,160.08,1
+ORD-10502,2023-02-15,CUST-1125,North America,Home & Kitchen,Retail Partner,93.5,2
+ORD-10537,2023-10-21,CUST-1274,North America,electronics,Online,1077.76,1
+ORD-11220,2024-12-06,CUST-1158,North America,Apparel,Online,108.4,1
+ORD-10175,2023-03-25,CUST-1338,APAC,Apparel,Marketplace,121.83,4
